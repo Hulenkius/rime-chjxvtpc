@@ -21,8 +21,8 @@ use_preset_vocabulary: true
 㐨	xunn
 㐩	xytt
 㐫	xsyk
-㐬	lrxu
-㐭	lcxr
+㐬	lryu
+㐭	lcyr
 㐮	xtyv
 㐯	ysya
 㐰	xcor
@@ -172,7 +172,7 @@ use_preset_vocabulary: true
 㓝	xytn
 㓞	qdqh
 㓟	pidn
-㓠	dwxn
+㓠	dwyn
 㓡	fuon
 㓡	gdon
 㓢	lohn
@@ -202,8 +202,8 @@ use_preset_vocabulary: true
 㓹	cmmn
 㓹	jimn
 㓹	rmmn
-㓺	jwxn
-㓺	qwxn
+㓺	jwyn
+㓺	qwyn
 㓻	piwn
 㓼	eidn
 㓽	esun
@@ -218,8 +218,8 @@ use_preset_vocabulary: true
 㔅	xzln
 㔆	zjkn
 㔉	ausn
-㔊	djxn
-㔊	ajxn
+㔊	djyn
+㔊	ajyn
 㔋	jwsn
 㔋	ljsn
 㔌	cbsn
@@ -272,7 +272,7 @@ use_preset_vocabulary: true
 㔹	lejs
 㔺	vijj
 㔼	snqj
-㔽	ykxr
+㔽	ykyr
 㔾	jxsu
 㔿	zbml
 㕁	qmkl
@@ -306,8 +306,8 @@ use_preset_vocabulary: true
 㕠	vtie
 㕡	hoye
 㕡	rmye
-㕢	glxe
-㕢	hlxe
+㕢	glye
+㕢	hlye
 㕣	yjcr
 㕤	qrrn
 㕤	rbrn
@@ -356,7 +356,7 @@ use_preset_vocabulary: true
 㖔	tnrr
 㖕	nxrj
 㖕	xcrj
-㖖	nxxr
+㖖	nxyr
 㖗	ycrn
 㖘	afrv
 㖞	wlrb
@@ -513,7 +513,7 @@ use_preset_vocabulary: true
 㘷	olgk
 㘸	zhmg
 㘸	zomg
-㘹	jixg
+㘹	jiyg
 㘺	fagi
 㘿	nxgg
 㙀	jrgn
@@ -1064,7 +1064,7 @@ use_preset_vocabulary: true
 㡠	aglt
 㡡	euli
 㡢	mjls
-㡣	lsxs
+㡣	lsyp
 㡥	yclp
 㡦	pclc
 㡧	aflt
@@ -1171,7 +1171,7 @@ use_preset_vocabulary: true
 㣐	bwhh
 㣑	ysih
 㣒	cgch
-㣓	cjxh
+㣓	cjyh
 㣔	eghn
 㣔	aghn
 㣙	dihw
@@ -1227,7 +1227,7 @@ use_preset_vocabulary: true
 㤍	qzmp
 㤎	gekp
 㤏	tspm
-㤐	ejxp
+㤐	ejyp
 㤑	ybpr
 㤒	gkpj
 㤓	bfpm
@@ -1345,7 +1345,7 @@ use_preset_vocabulary: true
 㥾	nipr
 㥿	okgp
 㦀	pgpj
-㦁	lwxp
+㦁	lwyp
 㦂	ehfp
 㦃	ejpm
 㦄	maip
@@ -1659,7 +1659,7 @@ use_preset_vocabulary: true
 㪔	sjde
 㪕	dzye
 㪖	lune
-㪗	tbxe
+㪗	tbye
 㪘	lwok
 㪙	kewk
 㪚	sjtk
@@ -1673,8 +1673,8 @@ use_preset_vocabulary: true
 㪡	klje
 㪡	keje
 㪢	vkhe
-㪣	qzxk
-㪣	xzxk
+㪣	qzyk
+㪣	xzyk
 㪤	biwk
 㪥	aaye
 㪦	ycjk
@@ -1687,7 +1687,7 @@ use_preset_vocabulary: true
 㪬	aose
 㪭	luye
 㪮	lyme
-㪯	eaxq
+㪯	eayq
 㪱	hpyk
 㪴	jdmj
 㪵	bjfj
@@ -1704,7 +1704,7 @@ use_preset_vocabulary: true
 㫀	dyal
 㫁	dpvl
 㫂	auil
-㫃	yjxo
+㫃	yjyo
 㫄	phms
 㫅	eayl
 㫊	oeyr
@@ -2013,7 +2013,7 @@ use_preset_vocabulary: true
 㰊	xwdf
 㰋	pcdc
 㰌	qmdg
-㰍	lsxd
+㰍	lsyd
 㰎	zmds
 㰐	jmdb
 㰑	vjdd
@@ -2142,8 +2142,8 @@ use_preset_vocabulary: true
 㱼	hlre
 㱽	qcle
 㱽	afle
-㱾	glxn
-㱾	klxn
+㱾	glye
+㱾	klye
 㱿	huge
 㱿	qtge
 㱿	qmge
@@ -2179,8 +2179,8 @@ use_preset_vocabulary: true
 㲛	aiou
 㲜	tjfu
 㲝	rshg
-㲞	suxq
-㲞	zuxq
+㲞	suyu
+㲞	zuyu
 㲟	yytu
 㲠	mkju
 㲡	nldu
@@ -3264,7 +3264,7 @@ use_preset_vocabulary: true
 䃛	lwmj
 䃜	yisr
 䃝	qzmk
-䃞	vuxr
+䃞	vuyr
 䃠	xpmo
 䃡	jcma
 䃡	qcma
@@ -3514,7 +3514,7 @@ use_preset_vocabulary: true
 䇁	sijq
 䇂	qwyl
 䇃	siyu
-䇅	faxi
+䇅	fayi
 䇇	mgyp
 䇈	hdyg
 䇋	hlyn
@@ -4541,9 +4541,9 @@ use_preset_vocabulary: true
 䖅	lyto
 䖆	nttv
 䖇	yuth
-䖈	nmxp
+䖈	nmyp
 䖊	yikn
-䖋	nmxo
+䖋	nmyo
 䖌	yiyn
 䖍	qwyk
 䖎	xdnn
@@ -4554,14 +4554,14 @@ use_preset_vocabulary: true
 䖓	naun
 䖔	hjgn
 䖔	kjgn
-䖕	zuxb
+䖕	zuym
 䖖	xdyl
 䖗	yjyr
 䖘	tuyi
 䖙	tisn
 䖚	wuyf
 䖛	soyf
-䖜	ycxa
+䖜	ycya
 䖝	eshi
 䖞	abli
 䖟	mhyi
@@ -4577,8 +4577,8 @@ use_preset_vocabulary: true
 䖨	vilr
 䖨	ailr
 䖩	bilh
-䖪	cixm
-䖪	zixm
+䖪	ciyi
+䖪	ziyi
 䖫	bhlj
 䖭	jpfi
 䖮	xtlr
@@ -4657,7 +4657,7 @@ use_preset_vocabulary: true
 䗵	jtlm
 䗶	lalv
 䗷	yilp
-䗸	ysxi
+䗸	ysyi
 䗹	cilp
 䗺	djni
 䗺	yjni
@@ -4672,7 +4672,7 @@ use_preset_vocabulary: true
 䘄	auji
 䘅	nlii
 䘆	yclp
-䘇	wfxi
+䘇	wfyi
 䘈	lils
 䘉	cjhi
 䘊	mxli
@@ -4754,7 +4754,7 @@ use_preset_vocabulary: true
 䙚	nzhv
 䙛	gnlv
 䙜	fglj
-䙝	xxxv
+䙝	xxyv
 䙞	dglt
 䙟	wqlq
 䙠	jmlo
@@ -4834,12 +4834,12 @@ use_preset_vocabulary: true
 䚬	lcnq
 䚭	xpng
 䚮	rgys
-䚯	tkxl
-䚯	xpxl
-䚰	oexp
-䚰	pixp
-䚱	xcxf
-䚲	vjxh
+䚯	tkyn
+䚯	xpyn
+䚰	oeyp
+䚰	piyp
+䚱	xcyf
+䚲	vjyh
 䚳	aiye
 䚴	wayb
 䚵	tbyj
@@ -4848,13 +4848,13 @@ use_preset_vocabulary: true
 䚷	yiys
 䚸	xxyl
 䚹	piyp
-䚺	ykxk
+䚺	ykyk
 䚻	ykbr
 䚼	nvyg
 䚽	hkyu
-䚾	ncxg
-䚿	xixo
-䚿	ycxo
+䚾	ncyg
+䚿	xiyo
+䚿	ycyo
 䛀	bjye
 䛀	fjye
 䛁	njym
@@ -4896,8 +4896,8 @@ use_preset_vocabulary: true
 䛣	ebys
 䛣	pyys
 䛤	cuyo
-䛥	xixk
-䛥	xcxk
+䛥	xiyb
+䛥	xcyb
 䛦	ssyr
 䛧	miyd
 䛨	xcyj
@@ -4909,9 +4909,9 @@ use_preset_vocabulary: true
 䛫	agyv
 䛬	tkyu
 䛭	xyyj
-䛮	jrxo
+䛮	jryr
 䛯	juyr
-䛰	hnxp
+䛰	hnyp
 䛱	tiyp
 䛲	mjyb
 䛳	yjyu
@@ -4931,7 +4931,7 @@ use_preset_vocabulary: true
 䛽	aayx
 䛾	suyf
 䛿	geyb
-䜀	nkxi
+䜀	nkym
 䜁	xiyk
 䜃	dmyg
 䜄	eiyq
@@ -5056,7 +5056,7 @@ use_preset_vocabulary: true
 䝷	aioc
 䝸	jibe
 䝹	wjbu
-䝺	gpxu
+䝺	gpyc
 䝻	jubr
 䝼	jybb
 䝼	qybb
@@ -5377,7 +5377,7 @@ use_preset_vocabulary: true
 䢖	lvyq
 䢖	yuyq
 䢗	quyw
-䢙	blxc
+䢙	blyc
 䢚	ggyk
 䢚	hhyk
 䢛	jsyr
@@ -5391,7 +5391,7 @@ use_preset_vocabulary: true
 䢢	chyr
 䢣	ykyr
 䢤	vuyc
-䢥	yjxu
+䢥	yjyu
 䢦	vcyj
 䢧	lzyh
 䢨	csyo
@@ -6287,10 +6287,10 @@ use_preset_vocabulary: true
 䯥	ojbf
 䯥	qibf
 䯦	mabi
-䯧	qyxb
+䯧	qyyb
 䯨	heyk
 䯨	qzyk
-䯪	kkxb
+䯪	kkyc
 䯫	hkab
 䯬	doyj
 䯭	xwse
@@ -6794,25 +6794,25 @@ use_preset_vocabulary: true
 䶳	ymon
 䶵	eion
 一	yimm
-丁	dymn	99.93%
-丁	agmn	0.07%
+丁	dymn
+丁	agmn
 丂	kkms
 丂	qzms
 七	qiju
 丄	vhlm
 丅	xdml
-万	moms	0.02%
-万	wjms	99.98%
+万	moms
+万	wjms
 丈	ahjk
-三	samm	0%
-三	sjmm	100%
+三	samm
+三	sjmm
 上	vhym
 下	xdmy
 丌	jiml
 丌	qiml
-不	bumf	100%
-不	fbmf	0%
-不	fumf	0%
+不	bumf
+不	fbmf
+不	fumf
 与	yuym
 丏	glms
 丏	mwms
@@ -6820,9 +6820,9 @@ use_preset_vocabulary: true
 丑	ebng
 丒	ebsm
 专	apqi
-且	jubm	0%
-且	qxbm	100%
-且	qubm	0%
+且	jubm
+且	qxbm
+且	qubm
 丕	pqmm
 丕	pimm
 世	vipt
@@ -6830,7 +6830,7 @@ use_preset_vocabulary: true
 丘	qrom
 丙	bymb
 业	qrtc
-业	yetc	0%
+业	yetc
 丛	csom
 东	dskd
 丝	sivm
@@ -6844,8 +6844,8 @@ use_preset_vocabulary: true
 严	yjmh
 並	bytc
 丧	shgv
-丨	gnll	13.89%
-丨	vull	32.64%
+丨	gnll
+丨	vull
 丩	jrvl
 个	geol
 丫	yacl
@@ -6861,8 +6861,8 @@ use_preset_vocabulary: true
 丳	ejlw
 临	lcla
 丵	aotj
-丶	dwii	79.67%
-丶	auii	4.40%
+丶	dwii
+丶	auii
 丷	baih
 丸	wjki
 丹	djby
@@ -6878,50 +6878,50 @@ use_preset_vocabulary: true
 乁	yimo
 乂	olkk
 乂	yikk
-乃	olns	0%
-乃	nlns	100%
+乃	olns
+乃	nlns
 乄	wukv
 久	jrno
 乆	jrvo
-乇	eihp	0%
-乇	mkhp	0%
-乇	tohp	29.47%
-乇	aehp	70.53%
-么	mahi	0.04%
-么	mehi	1%
-么	ykhi	98.93%
-义	eaik	99%
-义	yiik	1%
+乇	eihp
+乇	mkhp
+乇	tohp
+乇	aehp
+么	mahi
+么	mehi
+么	ykhi
+义	eaik
+义	yiik
 之	aiio
 乌	wupm
 乍	aaos
 乎	huhd
 乏	faho
-乐	lehd	95%
-乐	ymhd	5%
+乐	lehd
+乐	ymhd
 乑	asoo
 乒	pyoh
 乓	phoi
-乔	jzhl	0%
-乔	qzhl	100%
+乔	jzhl
+乔	qzhl
 乕	huhb
 乖	gchp
 乗	eght
 乗	vght
-乘	eghp	99.46%
-乘	vghp	0.54%
-乙	yinu	100%
-乙	aenu	0%
+乘	eghp
+乘	vghp
+乙	yinu
+乙	aenu
 乚	yalu
 乚	yclu
 乛	aemh
-乜	mxpn	96.35%
-乜	nxpn	3.65%
+乜	mxpn
+乜	nxpn
 九	jrkn
 乞	qion
 也	yepd
 习	xism
-乡	xtvh	0%
+乡	xtvh
 乡	ypvh
 乢	gluu
 乢	geuu
@@ -6929,15 +6929,15 @@ use_preset_vocabulary: true
 乣	jrvu
 书	vuis
 乨	viiu
-乩	jixu
+乩	jiyu
 乪	nhnw
 乬	jusn
 乭	vimn
 乮	mkhn
 乯	huhn
 买	mlnk
-乱	ljhu	0%
-乱	lphu	100%
+乱	ljhu
+乱	lphu
 乲	ziin
 乳	rubu
 乴	xmqn
@@ -6948,34 +6948,34 @@ use_preset_vocabulary: true
 乹	qwju
 乻	yuyn
 乽	aejn
-乾	gjjn	21.58%
-乾	qwjn	78.42%
+乾	gjjn
+乾	qwjn
 乿	eibu
 乿	lpbu
 乿	aibu
 亀	gmnu
 亀	jnnu
 亀	qrnu
-亁	gjjn	90%
-亁	qwjn	10%
-亂	ljbu	0%
-亂	lpbu	100%
+亁	gjjn
+亁	qwjn
+亂	ljbu
+亂	lpbu
 亃	lcfu
 亄	yigu
 亅	jmnn
-了	lenn	98.90%
-了	lznn	1.10%
+了	lenn
+了	lznn
 亇	genn
 予	yunn
 争	agnd
 亊	vijn
 事	vijn
 二	ormm
-亍	eumn	100%
-亍	yumn	0%
-于	xumd	0%
-于	yumd	100%
-亏	kmms	0%
+亍	eumn
+亍	yumn
+于	xumd
+于	yumd
+亏	kmms
 亏	xums
 亏	yums
 亐	yums
@@ -6993,21 +6993,21 @@ use_preset_vocabulary: true
 亙	gfmm
 亙	ggmm
 亚	yamc
-些	soym	0%
-些	xxym	100%
+些	soym
+些	xxym
 亜	yamm
 亝	jiim
 亝	qiim
 亝	alim
 亝	ziim
 亞	yamm
-亟	jimm	95.11%
-亟	qimm	4.89%
+亟	jimm
+亟	qimm
 亠	tbim
-亡	whyv	99.46%
-亡	wuyv	0.54%
-亢	ghyn	0%
-亢	khyn	100%
+亡	whyv
+亡	wuyv
+亢	ghyn
+亢	khyn
 亣	dayl
 亣	dlyl
 亣	tlyl
@@ -7015,22 +7015,22 @@ use_preset_vocabulary: true
 亥	hlyo
 亦	yiyc
 产	ejyh
-亨	hgyn	100%
-亨	pgyn	0%
+亨	hgyn
+亨	pgyn
 亩	muyw
 享	xtyd
-京	jyyf	100%
-京	ypyf	0%
+京	jyyf
+京	ypyf
 亭	tyyn
-亮	ltxn
+亮	ltyn
 亯	xtya
-亰	jyyf	100%
-亰	ypyf	0%
+亰	jyyf
+亰	ypyf
 亱	yeym
-亲	qcyd	0%
-亲	qyyd	0%
-亲	xcyd	10%
-亲	afyd	90%
+亲	qcyd
+亲	qyyd
+亲	xcyd
+亲	afyd
 亳	boyp
 亴	ybyn
 亵	xxyv
@@ -7046,41 +7046,41 @@ use_preset_vocabulary: true
 亾	whvo
 亾	wuvo
 亿	yion
-什	veoj	0%
-什	vfoj	84.20%
-什	vioj	15.80%
+什	veoj
+什	vfoj
+什	vioj
 仁	rfom
 仂	leos
 仂	lios
 仃	dyon
 仄	zemo
-仅	fuoe	100%
-仅	jcoe	0%
+仅	fuoe
+仅	jcoe
 仆	fuoy
 仆	puoy
-仇	ebon	83.84%
-仇	qron	16.16%
+仇	ebon
+仇	qron
 仈	baoc
 仉	ahon
 今	jcon
-介	gaol	0%
-介	jxol	100%
+介	gaol
+介	jxol
 仌	byoo
 仌	nyoo
 仍	rgos
-从	csoo	100%
-从	zsoo	0%
+从	csoo
+从	zsoo
 仏	bioi
 仏	fooi
 仏	fuoi
 仐	sjoj
 仑	lnop
 仓	chou
-仔	zlod	55.40%
-仔	ziod	44.60%
+仔	zlod
+仔	ziod
 仕	viog
-他	taod	100%
-他	tood	0%
+他	taod
+他	tood
 仗	ahok
 付	fuoi
 仙	xwou
@@ -7105,8 +7105,8 @@ use_preset_vocabulary: true
 仦	mzof
 仧	ehyo
 仧	ahyo
-仨	saom	100%
-仨	sjom	0%
+仨	saom
+仨	sjom
 仩	vhom
 仪	yiok
 仫	muoi
@@ -7127,16 +7127,16 @@ use_preset_vocabulary: true
 仴	wjob
 仵	wuoj
 件	jwoq
-价	jdol	0.02%
-价	jxol	99.98%
+价	jdol
+价	jxol
 仸	ykok
 仹	fgoj
 仺	chom
 任	rfog
 仼	ktog
 仼	whog
-份	bcoh	0%
-份	ffoh	100%
+份	bcoh
+份	ffoh
 仾	diom
 仿	fhos
 伀	asoi
@@ -7156,8 +7156,8 @@ use_preset_vocabulary: true
 伎	jioe
 伏	fuok
 伐	faoi
-休	xrod	100%
-休	xuod	0%
+休	xrod
+休	xuod
 伒	jcol
 伒	xcol
 伓	bqof
@@ -7168,9 +7168,9 @@ use_preset_vocabulary: true
 众	asoo
 优	ybou
 伙	hoof
-会	gmoi	0%
-会	hmoi	99.98%
-会	kcoi	0.02%
+会	gmoi
+会	hmoi
+会	kcoi
 伛	kbok
 伛	yuok
 伜	cmoj
@@ -7178,15 +7178,15 @@ use_preset_vocabulary: true
 伝	ynoi
 伞	sjoj
 伟	wqos
-传	epoi	97.93%
-传	apoi	2.07%
+传	epoi
+传	apoi
 伡	eeoq
 伢	yaoh
 伣	xwou
 伤	vhos
 伥	ehoo
 伦	lnop
-伧	chou	50%
+伧	chou
 伨	xnom
 伩	xcok
 伪	wqos
@@ -7196,9 +7196,9 @@ use_preset_vocabulary: true
 伭	xwoi
 伭	xpoi
 伮	nuoe
-伯	baoa	0.02%
-伯	bloa	9%
-伯	booa	91.98%
+伯	baoa
+伯	bloa
+伯	booa
 估	guor
 伱	niof
 伲	niop
@@ -7210,14 +7210,14 @@ use_preset_vocabulary: true
 伷	abow
 伸	vfol
 伹	quom
-伺	cior	15.38%
-伺	sior	84.62%
+伺	cior
+伺	sior
 伻	bgoj
-似	vioo	15%
-似	sioo	85%
-伽	gaor	80%
-伽	jdor	10%
-伽	qxor	10%
+似	vioo
+似	sioo
+伽	gaor
+伽	jdor
+伽	qxor
 伾	piom
 伿	yioc
 伿	aioc
@@ -7226,8 +7226,8 @@ use_preset_vocabulary: true
 佁	yior
 佂	lgom
 佂	agom
-佃	dwow	92.31%
-佃	twow	7.69%
+佃	dwow
+佃	twow
 佄	gjom
 佄	hjom
 佅	mlod
@@ -7252,15 +7252,15 @@ use_preset_vocabulary: true
 佖	bioh
 佗	taop
 佗	toop
-佘	veof	100%
-佘	yuof	0%
-余	tuod	0%
-余	xuod	0%
-余	yuod	100%
+佘	veof
+佘	yuof
+余	tuod
+余	xuod
+余	yuod
 佚	yioo
-佛	bion	0%
-佛	foon	97.74%
-佛	fuon	2.26%
+佛	bion
+佛	foon
+佛	fuon
 作	zoos
 佝	gbor
 佝	juor
@@ -7282,15 +7282,15 @@ use_preset_vocabulary: true
 佫	geor
 佫	heor
 佫	keor
-佬	lkop	100%
-佬	lzop	0%
+佬	lkop
+佬	lzop
 佭	xtoq
 佮	geor
 佮	heor
 佯	yhoq
-佰	bloa	100%
-佰	booa	0%
-佰	mooa	0%
+佰	bloa
+佰	booa
+佰	mooa
 佱	faom
 佲	myor
 佳	jdog
@@ -7336,8 +7336,8 @@ use_preset_vocabulary: true
 侔	mboq
 侕	orol
 侖	lnot
-侗	dsor	59.46%
-侗	tsor	40.54%
+侗	dsor
+侗	tsor
 侘	eaop
 侙	eiom
 侚	xnoa
@@ -7346,16 +7346,16 @@ use_preset_vocabulary: true
 依	yiov
 侞	ruor
 侟	jwod
-侠	jdot	0%
-侠	xdot	100%
+侠	jdot
+侠	xdot
 価	gaow
 価	jdow
 侢	dlob
 侣	lvor
-侥	jzou	56.90%
+侥	jzou
 侦	afoo
-侧	ceon	99.69%
-侧	alon	0.18%
+侧	ceon
+侧	alon
 侨	qzol
 侩	kcoi
 侪	elol
@@ -7383,8 +7383,8 @@ use_preset_vocabulary: true
 侼	bood
 侽	njos
 侾	xzod
-便	bwok	96.98%
-便	pwok	3.02%
+便	bwok
+便	pwok
 俀	tmov
 俁	yuok
 係	xiof
@@ -7397,8 +7397,8 @@ use_preset_vocabulary: true
 俇	whog
 俈	kuor
 俉	wuor
-俊	jnoe	100%
-俊	znoe	0%
+俊	jnoe
+俊	znoe
 俋	yiou
 俌	fuob
 俍	lhov
@@ -7422,14 +7422,14 @@ use_preset_vocabulary: true
 俛	mwou
 俜	pyos
 保	bkod
-俞	vuon	0%
-俞	yuon	100%
-俟	qiok	7.04%
-俟	siok	92.96%
-俠	jdoo	0%
-俠	xdoo	100%
-信	vfor	0%
-信	xcor	100%
+俞	vuon
+俞	yuon
+俟	qiok
+俟	siok
+俠	jdoo
+俠	xdoo
+信	vfor
+信	xcor
 俢	xroh
 俣	yuok
 俤	dioh
@@ -7437,8 +7437,8 @@ use_preset_vocabulary: true
 俥	juoj
 俦	eboi
 俨	yjoh
-俩	ldob	90.53%
-俩	ltob	9.46%
+俩	ldob
+俩	ltob
 俪	liob
 俫	llot
 俬	sioi
@@ -7457,8 +7457,8 @@ use_preset_vocabulary: true
 俷	fqou
 俸	fgoq
 俹	yaom
-俺	ojou	100%
-俺	yjou	0%
+俺	ojou
+俺	yjou
 俻	bqow
 俼	yuob
 俼	auob
@@ -7473,8 +7473,8 @@ use_preset_vocabulary: true
 倃	jror
 倄	ykob
 倅	cmoj
-倆	ldob	90.53%
-倆	ltob	9.47%
+倆	ldob
+倆	ltob
 倇	wjou
 倈	lloo
 倉	chor
@@ -7517,8 +7517,8 @@ use_preset_vocabulary: true
 倪	niou
 倫	lnob
 倬	aooj
-倭	wqov	0%
-倭	woov	100%
+倭	wqov
+倭	woov
 倮	lood
 倯	ssoi
 倰	lgoe
@@ -7547,9 +7547,9 @@ use_preset_vocabulary: true
 偅	asog
 偆	enoa
 假	jdoe
-偈	jiov	77.78%
-偈	jxov	22.22%
-偈	xxov	0%
+偈	jiov
+偈	jxov
+偈	xxov
 偉	wqoq
 偊	yuob
 偋	byot
@@ -7565,8 +7565,8 @@ use_preset_vocabulary: true
 偒	thoh
 偓	woog
 偔	oeos
-偕	jxoa	0%
-偕	xxoa	100%
+偕	jxoa
+偕	xxoa
 偖	eeoa
 偖	veoa
 偗	vgou
@@ -7606,8 +7606,8 @@ use_preset_vocabulary: true
 偲	slop
 偲	siop
 偳	dpob
-側	ceon	99.69%
-側	alon	0.18%
+側	ceon
+側	alon
 偵	afoc
 偶	obob
 偷	tbon
@@ -7615,8 +7615,8 @@ use_preset_vocabulary: true
 偹	bqow
 偺	zaoa
 偺	zjoa
-偻	lbov	63.64%
-偻	lvov	36.36%
+偻	lbov
+偻	lvov
 偼	jxoo
 偽	wqof
 偾	ffoo
@@ -7636,8 +7636,8 @@ use_preset_vocabulary: true
 傋	gbob
 傋	jtob
 傌	maof
-傍	bhos	100%
-傍	phos	0%
+傍	bhos
+傍	phos
 傎	dwoc
 傏	thor
 傐	hkob
@@ -7679,8 +7679,8 @@ use_preset_vocabulary: true
 傰	pgob
 傱	ssoo
 傲	okok
-傳	epoi	97.93%
-傳	apoi	2.07%
+傳	epoi
+傳	apoi
 傴	kbor
 傴	yuor
 債	aloc
@@ -7695,13 +7695,13 @@ use_preset_vocabulary: true
 傻	vaoe
 傼	hjoo
 傽	ahoj
-傾	kgoc	0%
-傾	qyoc	100%
+傾	kgoc
+傾	qyoc
 傿	yjof
 僀	diob
 僁	xiop
-僂	lbov	63.64%
-僂	lvov	36.36%
+僂	lbov
+僂	lvov
 僃	bqob
 僄	bzof
 僄	pzof
@@ -7743,11 +7743,11 @@ use_preset_vocabulary: true
 僣	jwoa
 僣	txoa
 僤	djoj
-僥	jzou	56.90%
-僥	ykou	44.10%
+僥	jzou
+僥	ykou
 僦	jrou
-僧	sgoa	100%
-僧	zgoa	0%
+僧	sgoa
+僧	zgoa
 僨	ffoc
 僩	xwob
 僪	jmob
@@ -7756,8 +7756,8 @@ use_preset_vocabulary: true
 僬	jzof
 僭	jwoa
 僭	qwoa
-僮	tsog	60.71%
-僮	atog	39.29%
+僮	tsog
+僮	atog
 僯	lcoq
 僰	bodo
 僱	guog
@@ -7767,13 +7767,13 @@ use_preset_vocabulary: true
 僶	mcou
 僷	yeod
 僸	jcof
-價	gaoc	0%
-價	jdoc	99.98%
-價	jxoc	0.02%
-價	vuoc	0%
+價	gaoc
+價	jdoc
+價	jxoc
+價	vuoc
 僺	qzod
-僻	bqoj	0%
-僻	pioj	100%
+僻	bqoj
+僻	pioj
 僼	fgot
 僽	ebop
 僽	abop
@@ -7855,8 +7855,8 @@ use_preset_vocabulary: true
 儼	yjok
 儽	lqof
 儾	nhov
-儿	orlu	0%
-儿	rflu	100%
+儿	orlu
+儿	rflu
 兀	wumu
 允	yniu
 兂	zjku
@@ -7867,22 +7867,22 @@ use_preset_vocabulary: true
 兇	xsuu
 先	xwhu
 光	gtfu
-兊	dmcu	100%
-兊	ymcu	0%
+兊	dmcu
+兊	ymcu
 克	keju
-兌	dmcu	100%
-兌	ymcu	0%
-免	mwnu	100%
-免	wfnu	0%
+兌	dmcu
+兌	ymcu
+免	mwnu
+免	wfnu
 兎	tuhi
 兏	ehhu
 兏	ahhu
 児	orlu
 児	nilu
-兑	dmcu	100%
-兑	ymcu	0%
-兒	orhu	100%
-兒	nihu	0%
+兑	dmcu
+兑	ymcu
+兒	orhu
+兒	nihu
 兓	jcku
 兔	tuni
 兕	sisu
@@ -7904,33 +7904,33 @@ use_preset_vocabulary: true
 兣	lijg
 兤	gtfc
 兤	ktfc
-入	rioh	0%
-入	ruoh	100%
+入	rioh
+入	ruoh
 兦	whvo
 兦	wuvo
-內	naob	0%
-內	nqob	100%
+內	naob
+內	nqob
 全	qpog
 兩	ltmo
-兪	vuov	0%
-兪	yuov	100%
+兪	vuov
+兪	yuov
 八	baho
 公	gsci
-六	lryc	99.90%
-六	luyc	0.10%
+六	lryc
+六	luyc
 兮	xics
 兰	ljtm
 共	gstc
 兲	twmc
-关	gpck	0%
+关	gpck
 关	xzck
 兴	xyfc
 兵	byoc
-其	jitc	0.05%
-其	qitc	99.95%
+其	jitc
+其	qitc
 具	jubc
 典	dwtc
-兹	ziti	93.26%
+兹	ziti
 兺	ffcp
 养	yhtl
 兼	jwcc
@@ -7942,19 +7942,19 @@ use_preset_vocabulary: true
 冂	jsls
 冃	mkbm
 冄	rjbm
-内	naob	0%
-内	nqob	100%
+内	naob
+内	nqob
 円	ypbm
 冇	mkkb
 冇	mbkb
-冈	ghbk	0%
+冈	ghbk
 冈	whbk
 冉	rjgb
-冊	cebt	100%
-冊	elbt	0%
+冊	cebt
+冊	elbt
 冋	hmbr
-册	cebm	100%
-册	elbm	0%
+册	cebm
+册	elbm
 再	zlmb
 冎	gdbb
 冎	gobb
@@ -7962,8 +7962,8 @@ use_preset_vocabulary: true
 冐	mkab
 冐	moab
 冑	ablb
-冒	mkau	99.79%
-冒	moau	0.21%
+冒	mkau
+冒	moau
 冓	gbtb
 冔	xuad
 冕	mwau
@@ -7989,16 +7989,16 @@ use_preset_vocabulary: true
 冧	lcbd
 冨	fubw
 冩	xxbf
-冪	mibb	100%
-冪	mubb	0%
+冪	mibb
+冪	mubb
 冫	byim
 冬	dshm
 冭	tlkm
 冮	ghim
-冯	fgim	100%
-冯	pyim	0%
-冰	byie	100%
-冰	nyie	0%
+冯	fgim
+冯	pyim
+冰	byie
+冰	nyie
 冱	huim
 冲	esil
 决	jmik
@@ -8010,8 +8010,8 @@ use_preset_vocabulary: true
 冹	fuie
 冺	mcip
 冻	dsid
-冼	vgiu	0%
-冼	xwiu	100%
+冼	vgiu
+冼	xwiu
 冽	lxin
 冾	qdir
 冾	xdir
@@ -8079,19 +8079,19 @@ use_preset_vocabulary: true
 凵	quvl
 凶	xsuk
 凷	kcug
-凸	dxbs	0%
-凸	gubs	1%
-凸	tubs	99%
-凹	oksu	90%
-凹	wasu	10%
-凹	yksu	0%
+凸	dxbs
+凸	gubs
+凸	tubs
+凹	oksu
+凹	wasu
+凹	yksu
 出	euuu
 击	jiqu
 凼	dhue
 函	hjme
 凾	hjue
-凿	zktu	89.37%
-凿	zotu	10.63%
+凿	zktu
+凿	zotu
 刀	dksh
 刁	dzsm
 刂	dkln
@@ -8133,15 +8133,15 @@ use_preset_vocabulary: true
 別	bxrn
 刦	jxgn
 刧	jxgh
-刨	bkpn	4.64%
-刨	pkpn	95.36%
+刨	bkpn
+刨	pkpn
 利	lihn
 刪	vjbn
 别	bxrn
 刬	ejin
 刭	jynn
-刮	gdhn	100%
-刮	kahn	0%
+刮	gdhn
+刮	kahn
 刯	ggmn
 到	dkmn
 刱	ettc
@@ -8153,8 +8153,8 @@ use_preset_vocabulary: true
 制	aihn
 刷	vdsn
 券	qpfh
-刹	eakn	7.58%
-刹	vakn	92.42%
+刹	eakn
+刹	vakn
 刺	cidn
 刻	keyn
 刼	jxgh
@@ -8173,14 +8173,14 @@ use_preset_vocabulary: true
 則	zebn
 剈	yprn
 剉	coon
-削	xzfn	72.30%
-削	xmfn	27.70%
+削	xzfn
+削	xmfn
 剋	kejn
 剋	kqjn
 剌	ladn
 前	qwtn
-剎	eakn	7.58%
-剎	vakn	92.42%
+剎	eakn
+剎	vakn
 剏	etth
 剐	gdrn
 剑	jwon
@@ -8188,9 +8188,9 @@ use_preset_vocabulary: true
 剓	lihh
 剔	tian
 剕	fqln
-剖	pkyn	100%
-剖	poyn	0%
-剖	pbyn	100%
+剖	pkyn
+剖	poyn
+剖	pbyn
 剗	ejin
 剘	qitn
 剙	ettc
@@ -8198,22 +8198,22 @@ use_preset_vocabulary: true
 剚	zijn
 剛	ghbn
 剜	wjjn
-剝	bkvn	2.33%
-剝	bovn	97.67%
+剝	bkvn
+剝	bovn
 剞	jikn
 剞	qikn
 剟	doen
 剠	lmyn
-剡	vjfn	50%
-剡	yjfn	50%
+剡	vjfn
+剡	yjfn
 剢	aomn
 剣	jwon
-剤	jixn
-剥	bknn	2.33%
-剥	bonn	97.67%
+剤	jiyn
+剥	bknn
+剥	bonn
 剦	yjkn
-剧	jisn	0%
-剧	jusn	100%
+剧	jisn
+剧	jusn
 剨	hoqn
 剩	vghn
 剪	jwth
@@ -8223,8 +8223,8 @@ use_preset_vocabulary: true
 剭	wusn
 剮	gdbn
 剮	gobn
-副	fumn	100%
-副	pimn	0%
+副	fumn
+副	pimn
 剰	vghn
 剱	jwoh
 割	gejn
@@ -8242,19 +8242,19 @@ use_preset_vocabulary: true
 剼	vjin
 剽	pzmn
 剾	kbsn
-剿	ekvn	6.56%
-剿	jzvn	93.44%
+剿	ekvn
+剿	jzvn
 劀	gdnn
 劁	jzon
 劁	qzon
 劂	jmmn
-劃	hdln	99.94%
+劃	hdln
 劄	dahn
 劄	aahn
 劅	aown
 劆	lwin
-劇	jixn	0%
-劇	juxn	100%
+劇	jiyn
+劇	juyn
 劈	pish
 劉	lrhn
 劊	gmon
@@ -8292,8 +8292,8 @@ use_preset_vocabulary: true
 劣	lxfs
 劤	jchs
 劥	kgys
-劦	lxks	0%
-劦	xxks	100%
+劦	lxks
+劦	xxks
 劧	aiqs
 动	dsms
 助	aubs
@@ -8305,8 +8305,8 @@ use_preset_vocabulary: true
 劯	aums
 劰	mzhs
 励	lims
-劲	jcns	78.80%
-劲	jyns	21.20%
+劲	jcns
+劲	jyns
 劳	lkts
 労	lkfs
 劵	jpfs
@@ -8323,8 +8323,8 @@ use_preset_vocabulary: true
 劾	heys
 势	viqs
 勀	kejs
-勁	jcms	78.80%
-勁	jyms	21.20%
+勁	jcms
+勁	jyms
 勂	gkhs
 勂	hkhs
 勃	bojs
@@ -8343,8 +8343,8 @@ use_preset_vocabulary: true
 勏	pbys
 勐	mgns
 勑	eids
-勒	lets	96.20%
-勒	lqts	3.80%
+勒	lets
+勒	lqts
 勓	jxps
 勓	klps
 勔	mwms
@@ -8376,14 +8376,14 @@ use_preset_vocabulary: true
 勬	jpfs
 勭	dsys
 勭	tsys
-勮	juxs
+勮	juys
 勯	djys
 勰	xxkp
 勱	mlts
 勲	xnhf
-勳	xshs	0%
-勳	xnhs	100%
-勴	lvxs
+勳	xshs
+勳	xnhs
+勴	lvys
 勵	lims
 勶	eehs
 勷	rhys
@@ -8423,11 +8423,11 @@ use_preset_vocabulary: true
 匔	jupr
 匕	biuh
 化	hdop
-北	bqlp	100%
-北	bolp	0%
+北	bqlp
+北	bolp
 匘	nkpw
-匙	eiap	22.84%
-匙	viap	77.16%
+匙	eiap
+匙	viap
 匚	fhmv
 匚	ximv
 匛	jrso
@@ -8439,8 +8439,8 @@ use_preset_vocabulary: true
 匡	ktsg
 匢	hush
 匢	wush
-匣	hesl	0%
-匣	xdsl	100%
+匣	hesl
+匣	xdsl
 匤	qusi
 匥	fjst
 匦	gmsn
@@ -8453,12 +8453,12 @@ use_preset_vocabulary: true
 匫	wusa
 匬	yusn
 匭	gmsn
-匮	gmso	1%
-匮	kmso	99%
+匮	gmso
+匮	kmso
 匯	hmsg
 匰	djsj
-匱	gmsc	1%
-匱	kmsc	99%
+匱	gmsc
+匱	kmsc
 匲	lwsr
 匳	lwso
 匴	spst
@@ -8467,18 +8467,18 @@ use_preset_vocabulary: true
 匷	qusg
 匸	ximv
 匹	pisc
-区	gbsk	0%
-区	obsk	0.09%
-区	qusk	99.91%
+区	gbsk
+区	obsk
+区	qusk
 医	yisk
 匼	ojsr
 匽	yjsv
-匾	bwsb	100%
-匾	pwsb	0%
+匾	bwsb
+匾	pwsb
 匿	nisr
-區	gbsr	0%
-區	obsr	0.09%
-區	qusr	99.91%
+區	gbsr
+區	obsr
+區	qusr
 十	vijj
 卂	xnnj
 千	qwhj
@@ -8487,10 +8487,10 @@ use_preset_vocabulary: true
 卆	cukj
 卆	zukj
 升	vght
-午	hooj	0%
-午	wuoj	100%
-卉	bfjt	0%
-卉	hmjt	100%
+午	hooj
+午	wuoj
+卉	bfjt
+卉	hmjt
 半	bjfq
 卋	vijt
 卌	xitt
@@ -8499,16 +8499,16 @@ use_preset_vocabulary: true
 协	xxjc
 卐	wjvx
 卑	bqhj
-卒	cuyj	1.88%
-卒	zuyj	98.12%
+卒	cuyj
+卒	zuyj
 卓	aoyj
 協	xxjs
-单	ejcj	0.10%
-单	djcj	99.52%
-单	vjcj	0.38%
+单	ejcj
+单	djcj
+单	vjcj
 卖	mljk
-南	najj	0%
-南	njjj	100%
+南	najj
+南	njjj
 単	ejfj
 単	djfj
 単	vjfj
@@ -8518,8 +8518,8 @@ use_preset_vocabulary: true
 卛	lvvj
 卛	vcvj
 卛	vovj
-卜	boyy	0%
-卜	buyy	100%
+卜	boyy
+卜	buyy
 卝	gsly
 卝	gply
 卝	ktly
@@ -8527,18 +8527,18 @@ use_preset_vocabulary: true
 卟	bury
 卟	jiry
 占	ajyr
-卡	kayy	95%
-卡	qdyy	5%
+卡	kayy
+卡	qdyy
 卢	luys
 卣	ybys
-卤	luyk	100%
-卤	xiyk	0%
+卤	luyk
+卤	xiyk
 卥	xiyk
 卦	gdgy
 卧	wosy
-卨	eixr
-卨	lixr
-卨	xxxr
+卨	eiyr
+卨	liyr
+卨	xxyr
 卩	jxsl
 卪	jxsi
 卫	wqsm
@@ -8552,15 +8552,15 @@ use_preset_vocabulary: true
 卲	vksl
 即	jial
 却	qmgl
-卵	ljhi	0%
-卵	lphi	100%
-卵	lohi	0%
-卵	rphi	0%
+卵	ljhi
+卵	lphi
+卵	lohi
+卵	rphi
 卶	einl
-卷	jpfu	100%
-卷	qpfu	0%
-卸	xxol	100%
-卸	yuol	0%
+卷	jpfu
+卷	qpfu
+卸	xxol
+卸	yuol
 卹	xuhl
 卺	egnu
 卺	jcnu
@@ -8570,10 +8570,10 @@ use_preset_vocabulary: true
 卾	oerl
 卿	qyhl
 厀	xidl
-厂	ojmh	0.05%
-厂	ehmh	0.05%
-厂	hjmh	99.95%
-厂	yjmh	0.05%
+厂	ojmh
+厂	ehmh
+厂	hjmh
+厂	yjmh
 厃	wqnm
 厃	yjnm
 厃	ajnm
@@ -8585,8 +8585,8 @@ use_preset_vocabulary: true
 厈	ojmj
 厈	hjmj
 厈	yjmj
-厉	llms	0%
-厉	lims	100%
+厉	llms
+厉	lims
 厊	yamh
 压	yami
 厌	yjmk
@@ -8597,7 +8597,7 @@ use_preset_vocabulary: true
 厐	phmp
 厑	yamp
 厒	kemu
-厓	olmg	0%
+厓	olmg
 厓	yamg
 厓	ylmg
 厔	aimg
@@ -8605,8 +8605,8 @@ use_preset_vocabulary: true
 厖	mhmh
 厖	phmh
 厗	timj
-厘	ejmg	0%
-厘	limg	100%
+厘	ejmg
+厘	limg
 厙	kumj
 厙	vemj
 厚	hbmd
@@ -8625,8 +8625,8 @@ use_preset_vocabulary: true
 厣	yjml
 厤	limd
 厥	jmmo
-厦	vame	41.78%
-厦	xdme	58.22%
+厦	vame
+厦	xdme
 厧	dwmc
 厨	eumi
 厩	jimu
@@ -8641,15 +8641,15 @@ use_preset_vocabulary: true
 厰	ehmk
 厱	ljmo
 厱	qwmo
-厲	llmb	0%
-厲	limb	100%
+厲	llmb
+厲	limb
 厳	yjfk
 厴	yjml
 厵	ypmf
 厶	sivi
 厷	gski
 厷	hski
-厷	ybki	0%
+厷	ybki
 厸	lcii
 厸	mwii
 厹	qrki
@@ -8659,20 +8659,20 @@ use_preset_vocabulary: true
 厽	lqii
 厾	drni
 厾	duni
-县	xwbi	99.88%
+县	xwbi
 叀	apji
-叁	cjim	0%
-叁	cfim	0%
-叁	sjim	100%
-叁	vfim	0%
-参	cjih	90.45%
-参	cfih	0.01%
-参	sjih	0.01%
-参	vfih	8.49%
-參	cjih	90.45%
-參	cfih	0.01%
-參	sjih	0.01%
-參	vfih	8.49%
+叁	cjim
+叁	cfim
+叁	sjim
+叁	vfim
+参	cjih
+参	cfih
+参	sjih
+参	vfih
+參	cjih
+參	cfih
+參	sjih
+參	vfih
 叄	sjim
 叅	cjip
 叅	cfip
@@ -8707,41 +8707,41 @@ use_preset_vocabulary: true
 叝	gkge
 叞	wqse
 叟	sbhe
-叠	daem	1%
-叠	dxem	99%
+叠	daem
+叠	dxem
 叡	rmye
 叢	cste
 口	kbrr
 古	gujr
-句	gbpr	0%
-句	jupr	100%
+句	gbpr
+句	jupr
 另	lyrs
 叧	gorh
 叧	kdrh
 叧	kcrh
-叨	dkrh	98.85%
-叨	tkrh	1.15%
+叨	dkrh
+叨	tkrh
 叩	kbrl
 只	airc
 叫	jzrl
-召	vksr	1.96%
-召	aksr	98.04%
+召	vksr
+召	aksr
 叭	barc
 叮	dyrn
 可	kemr
-台	siir	1%
-台	tlir	60%
-台	yiir	39%
+台	siir
+台	tlir
+台	yiir
 叱	eirp
 史	vilk
 右	ybkr
 叴	qrkr
 叴	rbkr
-叵	jusr	0%
-叵	posr	100%
-叵	pbsr	0%
-叶	xxrj	100%
-叶	yerj	0%
+叵	jusr
+叵	posr
+叵	pbsr
+叶	xxrj
+叶	yerj
 号	hkrs
 司	sisr
 叹	tjre
@@ -8750,15 +8750,15 @@ use_preset_vocabulary: true
 叻	lers
 叻	lirs
 叼	dzrm
-叽	jirn	100%
-叽	jzrn	0%
+叽	jirn
+叽	jzrn
 叾	lznr
 叿	hsrm
 吀	xtrj
 吀	yhrj
-吁	oard	5%
-吁	xurd	90.45%
-吁	yurd	4.55%
+吁	oard
+吁	xurd
+吁	yurd
 吂	mhyr
 吃	eirn
 吃	jirn
@@ -8768,8 +8768,8 @@ use_preset_vocabulary: true
 吅	xprr
 吆	ykri
 吇	zird
-合	geor	0.02%
-合	heor	99.98%
+合	geor
+合	heor
 吉	jigr
 吊	dzrb
 吋	cnri
@@ -8781,8 +8781,8 @@ use_preset_vocabulary: true
 向	xthr
 吒	eirp
 吒	aarp
-吓	hery	0.22%
-吓	xdry	99.78%
+吓	hery
+吓	xdry
 吔	yerd
 吕	lvrr
 吖	oarl
@@ -8803,35 +8803,35 @@ use_preset_vocabulary: true
 吣	qcrp
 吤	jxrl
 吥	pbrf
-否	fbmr	100%
-否	pimr	0%
+否	fbmr
+否	pimr
 吧	baru
-吨	dnru	50%
-吨	tnru	50%
+吨	dnru
+吨	tnru
 吩	ffrh
 吪	oerp
-含	hjor	100%
-含	hfor	0%
-听	tyrl	1%
-听	yirl	1%
-听	ycrl	98%
-吭	hhrn	27.07%
-吭	khrn	0%
-吭	kgrn	72.93%
+含	hjor
+含	hfor
+听	tyrl
+听	yirl
+听	ycrl
+吭	hhrn
+吭	khrn
+吭	kgrn
 吮	vnru
 吮	ynru
 启	qihr
 吰	hsri
 吰	huri
-吱	aire	70.91%
-吱	zire	29.09%
+吱	aire
+吱	zire
 吲	vfrl
 吲	ycrl
 吳	wurk
 吴	wurk
 吵	ekrh
-吶	narb	90.82%
-吶	nerb	9.18%
+吶	narb
+吶	nerb
 吷	eork
 吷	jmrk
 吷	xmrk
@@ -8839,39 +8839,39 @@ use_preset_vocabulary: true
 吹	emro
 吺	dbre
 吻	wfrh
-吼	hbru	100%
-吼	ksru	0%
+吼	hbru
+吼	ksru
 吽	hsrq
 吽	hbrq
 吽	obrq
-吾	wumr	100%
-吾	yumr	0%
-吿	gkhr	100%
-吿	guhr	0%
-呀	xdrh	0%
-呀	yarh	100%
+吾	wumr
+吾	yumr
+吿	gkhr
+吿	guhr
+呀	xdrh
+呀	yarh
 呁	jnrm
 呁	ynrm
 呂	lvrr
 呃	oeru
 呄	genr
 呅	mqrk
-呆	olrd	0.02%
-呆	dlrd	99.98%
+呆	olrd
+呆	dlrd
 呇	qier
 呇	taer
 呈	egrg
 呉	wurc
-告	gkhr	100%
-告	guhr	0%
+告	gkhr
+告	guhr
 呋	dxro
 呋	furo
 呌	jzrj
 呍	hbri
 呎	eiro
 呏	vgrt
-呐	narb	90.82%
-呐	nerb	9.18%
+呐	narb
+呐	nerb
 呑	tnhr
 呒	furu
 呓	yirn
@@ -8879,9 +8879,9 @@ use_preset_vocabulary: true
 呔	tlri
 呕	obrk
 呖	lirs
-呗	blro	3.71%
-呗	bqro	96.29%
-员	ypro	100%
+呗	blro
+呗	bqro
+员	ypro
 呙	gorb
 呚	qirk
 呛	qtru
@@ -8893,8 +8893,8 @@ use_preset_vocabulary: true
 呠	pfrm
 呡	mcrp
 呡	wfrp
-呢	nerp	98.97%
-呢	nirp	1.03%
+呢	nerp
+呢	nirp
 呣	mbri
 呣	muri
 呤	lyri
@@ -8913,18 +8913,18 @@ use_preset_vocabulary: true
 呮	qirc
 呯	pyrj
 呰	ziyr
-呱	guro	5%
-呱	gdro	100%
-呱	waro	0%
+呱	guro
+呱	gdro
+呱	waro
 呲	cirp
 呲	yirp
 呲	zirp
 味	wqrd
 呴	hbrr
 呴	xurr
-呵	oarr	8.96%
-呵	herr	91.04%
-呵	oorr	0%
+呵	oarr
+呵	herr
+呵	oorr
 呶	nkre
 呶	nure
 呷	xdrl
@@ -8937,8 +8937,8 @@ use_preset_vocabulary: true
 命	myol
 呾	darm
 呿	quri
-咀	jurm	94%
-咀	zmrm	6%
+咀	jurm
+咀	zmrm
 咁	gjrm
 咁	qwrm
 咂	zarb
@@ -8954,27 +8954,27 @@ use_preset_vocabulary: true
 咊	herd
 咊	hurd
 咊	hord
-咋	zars	98.76%
-咋	zers	0.15%
-咋	aars	1.09%
-和	hjhr	0%
-和	hehr	99.97%
-和	huhr	0%
-和	hohr	0.02%
+咋	zars
+咋	zers
+咋	aars
+和	hjhr
+和	hehr
+和	huhr
+和	hohr
 咍	hlrr
-咎	gkhr	0%
-咎	jrhr	100%
+咎	gkhr
+咎	jrhr
 咏	ysre
 咐	furi
 咑	darn
 咒	abrn
 咓	warn
-咔	kary	100%
-咔	lsry	0%
+咔	kary
+咔	lsry
 咕	gurr
-咖	garr	50%
-咖	jdrr	35.09%
-咖	karr	14.91%
+咖	garr
+咖	jdrr
+咖	karr
 咗	zorm
 咘	burb
 咙	lsrp
@@ -8991,8 +8991,8 @@ use_preset_vocabulary: true
 咣	gtru
 咤	eirp
 咤	aarp
-咥	dxrg	50%
-咥	xirg	50%
+咥	dxrg
+咥	xirg
 咥	airg
 咦	yirn
 咧	lxrn
@@ -9001,23 +9001,23 @@ use_preset_vocabulary: true
 咪	mird
 咫	eisc
 咫	aisc
-咬	jzrk	0%
-咬	ykrk	100%
+咬	jzrk
+咬	ykrk
 咭	jirr
 咮	abrd
-咯	gerr	2.04%
-咯	karr	0%
-咯	lorr	94.72%
-咯	lorr	3.22%
+咯	gerr
+咯	karr
+咯	lorr
+咯	lorr
 咰	vcra
 咰	xnra
-咱	zaru	1%
-咱	zjru	99%
+咱	zaru
+咱	zjru
 咲	xzrk
-咳	hlro	78.98%
-咳	karo	0%
-咳	klro	0%
-咳	kero	21.02%
+咳	hlro
+咳	karo
+咳	klro
+咳	kero
 咴	hmrf
 咵	kdrs
 咶	gdrr
@@ -9032,8 +9032,8 @@ use_preset_vocabulary: true
 咼	gobr
 咼	kdbr
 咼	kcbr
-咽	yjrk	88.56%
-咽	yerk	11.44%
+咽	yjrk
+咽	yerk
 咾	lkrp
 咿	yirk
 哀	olyv
@@ -9046,8 +9046,8 @@ use_preset_vocabulary: true
 哆	eern
 哆	dorn
 哇	warg
-哈	harr	100%
-哈	karr	0%
+哈	harr
+哈	karr
 哉	zljr
 哊	yurb
 哋	dird
@@ -9073,24 +9073,24 @@ use_preset_vocabulary: true
 哟	yori
 哠	gkrr
 哠	hkrr
-員	yprc	100%
-員	ynrc	0%
+員	yprc
+員	ynrc
 哢	lsrt
 哣	pbrt
 哤	mhrh
 哥	gemr
-哦	oeri	25.51%
-哦	oori	74.49%
+哦	oeri
+哦	oori
 哧	eirc
 哨	vkrb
 哩	lirg
-哪	narl	98.99%
-哪	nerl	0.88%
-哪	nqrl	0.13%
+哪	narl
+哪	nerl
+哪	nqrl
 哫	zuro
 哬	herr
-哭	kkrk	0%
-哭	kurk	100%
+哭	kkrk
+哭	kurk
 哮	xzrd
 哯	xwru
 哰	lkrq
@@ -9123,12 +9123,12 @@ use_preset_vocabulary: true
 唂	gurr
 唃	gurg
 唃	jzrg
-唄	blrc	3.71%
-唄	bqrc	96.29%
+唄	blrc
+唄	bqrc
 唅	hjrr
 唆	sore
-唇	enmr	10%
-唇	afmr	90%
+唇	enmr
+唇	afmr
 唈	oeru
 唈	yiru
 唉	olrk
@@ -9140,14 +9140,14 @@ use_preset_vocabulary: true
 唎	lirn
 唏	xirb
 唐	thir
-唑	virg	0%
-唑	zorg	100%
+唑	virg
+唑	zorg
 唒	mrrw
 唒	qrrw
 唒	ybrw
 唓	eerj
-唔	murr	26.76%
-唔	wurr	73.24%
+唔	murr
+唔	wurr
 唕	zkrj
 唖	oerm
 唖	yarm
@@ -9190,8 +9190,8 @@ use_preset_vocabulary: true
 唶	xira
 唶	zera
 唷	yorb
-唸	dwrp	1%
-唸	nwrp	99%
+唸	dwrp
+唸	nwrp
 唹	yury
 唺	xwrc
 唻	llro
@@ -9214,14 +9214,14 @@ use_preset_vocabulary: true
 啅	akrj
 啅	aorj
 商	vhyr
-啇	dixr
-啇	vixr
+啇	diyr
+啇	viyr
 啈	hgrj
 啈	xyrj
 啉	ljrd
 啉	lcrd
-啊	oarr	100%
-啊	oorr	0%
+啊	oarr
+啊	oorr
 啋	clrd
 啋	xzrd
 啌	qtrm
@@ -9247,8 +9247,8 @@ use_preset_vocabulary: true
 啛	cmrv
 啜	eore
 啝	herr
-啞	oerm	0%
-啞	yarm	100%
+啞	oerm
+啞	yarm
 啟	qihk
 啠	aehr
 啡	fqry
@@ -9261,9 +9261,9 @@ use_preset_vocabulary: true
 啨	qyrb
 啨	yyrb
 啩	gdry
-啪	para	100%
-啪	plra	0%
-啪	pdra	10%
+啪	para
+啪	plra
+啪	pdra
 啫	aera
 啬	segr
 啭	apri
@@ -9281,9 +9281,9 @@ use_preset_vocabulary: true
 啸	xzrl
 啹	jurr
 啺	thrh
-啻	eixr	100%
-啻	dixr	0%
-啻	tixr	0%
+啻	eiyr
+啻	diyr
+啻	tiyr
 啼	tirb
 啽	ojrt
 啾	jrrf
@@ -9309,27 +9309,27 @@ use_preset_vocabulary: true
 喍	elrd
 喎	kcrr
 喎	wlrr
-喏	norr	96.02%
-喏	rerr	3.98%
+喏	norr
+喏	rerr
 喐	yurl
 喑	ycra
 喒	zara
 喒	zjra
 喓	ykrv
-喔	oorg	35.47%
-喔	worg	64.53%
-喔	wurg	0%
+喔	oorg
+喔	worg
+喔	wurg
 喕	mwrl
 喖	hurr
 喗	ynrj
 喘	eprb
-喙	hmro	100%
-喙	ypro	0%
+喙	hmro
+喙	ypro
 喚	hprk
 喛	hpre
 喜	xigr
-喝	herp	98%
-喝	yerp	2%
+喝	herp
+喝	yerp
 喞	jirl
 喟	kmrb
 喠	asrg
@@ -9346,23 +9346,23 @@ use_preset_vocabulary: true
 喩	yurv
 喪	shgv
 喫	eirk
-喬	jzhr	0%
-喬	qzhr	100%
+喬	jzhr
+喬	qzhr
 喭	yjrh
-單	ejrj	0.10%
-單	djrj	99.52%
-單	vjrj	0.38%
+單	ejrj
+單	djrj
+單	vjrj
 喯	ffrt
 喯	pfrt
 喰	cjrv
 喰	qirv
 喰	snrv
 喱	lirg
-喲	ykri	0%
-喲	yori	100%
-喲	ybri	0%
-喳	earm	3.49%
-喳	aarm	96.51%
+喲	ykri
+喲	yori
+喲	ybri
+喳	earm
+喳	aarm
 喴	wqrv
 喵	mzrw
 営	yyfr
@@ -9382,8 +9382,8 @@ use_preset_vocabulary: true
 嗂	ykru
 嗃	gkrb
 嗃	herb
-嗄	oare	100%
-嗄	vare	0%
+嗄	oare
+嗄	vare
 嗅	xrrk
 嗆	qtrr
 嗇	segr
@@ -9399,10 +9399,10 @@ use_preset_vocabulary: true
 嗏	eard
 嗐	hlrr
 嗐	xdrr
-嗑	hert	0%
-嗑	kert	100%
-嗒	darr	99%
-嗒	tarr	1%
+嗑	hert
+嗑	kert
+嗒	darr
+嗒	tarr
 嗓	shrd
 嗔	efrc
 嗕	nbri
@@ -9440,8 +9440,8 @@ use_preset_vocabulary: true
 嗯	ogrp
 嗰	gerr
 嗱	narq
-嗲	ddrn	100%
-嗲	dxrn	0%
+嗲	ddrn
+嗲	dxrn
 嗳	olre
 嗵	tsrb
 嗶	birj
@@ -9467,9 +9467,9 @@ use_preset_vocabulary: true
 嘃	esrb
 嘄	jzrd
 嘄	nxrd
-嘅	geru	100%
-嘅	klru	0%
-嘅	xiru	0%
+嘅	geru
+嘅	klru
+嘅	xiru
 嘆	tjro
 嘇	cjrh
 嘇	sjrh
@@ -9483,14 +9483,14 @@ use_preset_vocabulary: true
 嘌	pzrf
 嘍	lbrv
 嘎	gari
-嘏	guje	50%
-嘏	jdje	50%
+嘏	guje
+嘏	jdje
 嘐	xzrh
 嘑	hurd
 嘒	hmrm
 嘓	gorm
-嘔	obrr	100%
-嘔	xurr	0%
+嘔	obrr
+嘔	xurr
 嘕	xwrf
 嘕	yjrf
 嘖	zerc
@@ -9503,9 +9503,9 @@ use_preset_vocabulary: true
 嘜	mare
 嘜	more
 嘝	hurj
-嘞	lers	70%
-嘞	lqrs	30%
-嘞	lzrs	0%
+嘞	lers
+嘞	lqrs
+嘞	lzrs
 嘟	durl
 嘠	gari
 嘡	thrg
@@ -9519,16 +9519,16 @@ use_preset_vocabulary: true
 嘩	hdrj
 嘪	mlrc
 嘫	rjrf
-嘬	ecre	1.47%
-嘬	zmre	0%
-嘬	zore	98.53%
+嘬	ecre
+嘬	zmre
+嘬	zore
 嘭	pgrh
 嘮	lkrs
 嘯	xzrx
 嘰	jiri
 嘱	aurb
-嘲	ekrb	99.30%
-嘲	akrb	0.70%
+嘲	ekrb
+嘲	akrb
 嘳	gmrc
 嘳	kmrc
 嘴	zmrb
@@ -9553,12 +9553,12 @@ use_preset_vocabulary: true
 嘽	tjrj
 嘾	djrj
 嘾	tjrj
-嘿	hqrf	100%
-嘿	morf	0%
+嘿	hqrf
+嘿	morf
 噀	snrc
 噀	xnrc
-噁	oerp	100%
-噁	wurp	0%
+噁	oerp
+噁	wurp
 噂	znri
 噃	fjrw
 噄	eirf
@@ -9602,9 +9602,9 @@ use_preset_vocabulary: true
 噟	yyir
 噠	darq
 噡	ajrr
-噢	oork	99%
-噢	obrk	1%
-噢	yurk	0%
+噢	oork
+噢	obrk
+噢	yurk
 噣	abri
 噣	aori
 噤	jcrf
@@ -9622,14 +9622,14 @@ use_preset_vocabulary: true
 噮	yprv
 噯	olre
 噰	ysrg
-噱	juro	10%
-噱	jmro	10%
-噱	xmro	80%
+噱	juro
+噱	jmro
+噱	xmro
 噲	hmra
 噲	kcra
 噳	yurk
-噴	ffrc	0%
-噴	pfrc	100%
+噴	ffrc
+噴	pfrc
 噵	dkyr
 噶	garv
 噶	gerv
@@ -9649,13 +9649,13 @@ use_preset_vocabulary: true
 嚂	hjrt
 嚂	ljrt
 嚃	tare
-嚄	hore	50%
-嚄	oore	50%
+嚄	hore
+嚄	oore
 嚅	rurb
 嚆	gkrb
 嚆	hkrb
-嚇	herc	0.22%
-嚇	xdrc	99.78%
+嚇	herc
+嚇	xdrc
 嚈	yerk
 嚉	dori
 嚊	birl
@@ -9667,8 +9667,8 @@ use_preset_vocabulary: true
 嚎	hkro
 嚏	tiro
 嚐	ehra
-嚓	carf	21.88%
-嚓	earf	78.13%
+嚓	carf
+嚓	earf
 嚔	tiro
 嚕	lura
 嚖	hmrp
@@ -9714,8 +9714,8 @@ use_preset_vocabulary: true
 嚺	taro
 嚻	qirr
 嚻	xzrr
-嚼	jzri	82.38%
-嚼	jmri	17.62%
+嚼	jzri
+嚼	jmri
 嚽	eorc
 嚾	hprg
 嚿	horx
@@ -9760,16 +9760,16 @@ use_preset_vocabulary: true
 团	qrwh
 团	tpwh
 団	tpwi
-囤	dnwu	18.18%
-囤	tnwu	81.82%
+囤	dnwu
+囤	tnwu
 囥	khwn
 囥	kgwn
 囦	ypwe
 囧	jswb
 囨	pwwf
 囩	ynwi
-囪	ethk	0%
-囪	cshk	100%
+囪	ethk
+囪	cshk
 囫	huwh
 囬	hmwl
 园	ypwu
@@ -9777,8 +9777,8 @@ use_preset_vocabulary: true
 囮	ybwp
 囯	gowg
 困	knwd
-囱	ethe	0%
-囱	cshe	100%
+囱	ethe
+囱	cshe
 囲	tswt
 囲	wqwt
 図	tuwk
@@ -9805,8 +9805,8 @@ use_preset_vocabulary: true
 圅	hjnj
 圆	ypwo
 圇	lnwb
-圈	jpwu	2.17%
-圈	qpwu	97.83%
+圈	jpwu
+圈	qpwu
 圉	yuwj
 圊	qywb
 國	gowm
@@ -9814,8 +9814,8 @@ use_preset_vocabulary: true
 圌	emwb
 圍	wqwq
 圎	ypwc
-圏	jpwu	5%
-圏	qpwu	95%
+圏	jpwu
+圏	qpwu
 圐	kuws
 圑	fuwi
 園	ypwv
@@ -9831,17 +9831,17 @@ use_preset_vocabulary: true
 圚	gmwc
 圚	hmwc
 圛	yiwj
-圜	hpwv	39.13%
-圜	ypwv	60.87%
+圜	hpwv
+圜	ypwv
 圝	lpwf
 圞	lpwd
 土	tugg
 圠	yagu
 圡	tugi
 圢	tygn
-圣	gceg	0%
-圣	kueg	100%
-圣	vgeg	0%
+圣	gceg
+圣	kueg
+圣	vgeg
 圤	pugy
 圥	lugu
 圧	yamg
@@ -9857,12 +9857,12 @@ use_preset_vocabulary: true
 圮	sigu
 圮	yigu
 圯	yigu
-地	degd	25.60%
-地	digd	74.40%
+地	degd
+地	digd
 圱	qwhg
 圲	qwgj
-圳	ebgl	0%
-圳	afgl	100%
+圳	ebgl
+圳	afgl
 圳	zngl
 圴	vkgi
 圴	aogi
@@ -9887,8 +9887,8 @@ use_preset_vocabulary: true
 坅	qcgn
 坆	ffgk
 坆	mqgk
-均	jngm	100%
-均	yngm	0%
+均	jngm
+均	yngm
 坈	rsgn
 坉	dngu
 坉	tngu
@@ -9897,10 +9897,10 @@ use_preset_vocabulary: true
 坌	bfcg
 坍	tjgy
 坎	kjgo
-坏	bqgf	0%
-坏	hcgf	0%
-坏	pqgf	100%
-坏	pigf	5%
+坏	bqgf
+坏	hcgf
+坏	pqgf
+坏	pigf
 坐	zoog
 坑	kggn
 坒	bipg
@@ -9952,8 +9952,8 @@ use_preset_vocabulary: true
 坹	xmgc
 坺	bage
 坺	fage
-坻	eigm	50%
-坻	digm	50%
+坻	eigm
+坻	digm
 坼	eegy
 坽	lygi
 坾	augn
@@ -9998,14 +9998,14 @@ use_preset_vocabulary: true
 垠	ycgv
 垡	faog
 垢	gbgr
-垣	hpgm	0%
-垣	ypgm	100%
+垣	hpgm
+垣	ypgm
 垤	dxgg
 垤	aigg
 垥	qdgr
 垥	xxgr
-垦	kfag	0%
-垦	ycag	100%
+垦	kfag
+垦	ycag
 垧	jsgr
 垧	vhgr
 垨	vbgi
@@ -10023,13 +10023,13 @@ use_preset_vocabulary: true
 垶	xygj
 垷	xwgu
 垸	hpgu
-垸	wjgu	0%
+垸	wjgu
 垸	ypgu
 垹	bhgl
 垺	fugd
 垺	pqgd
 垻	bagc
-垻	bqgc	0%
+垻	bqgc
 垼	yihg
 垽	yceg
 垾	ojgj
@@ -10049,20 +10049,20 @@ use_preset_vocabulary: true
 埉	jdgo
 埊	deug
 埊	diug
-埋	mlgg	99.80%
-埋	mjgg	0.20%
+埋	mlgg
+埋	mjgg
 埌	lhgv
 埍	jpgb
 城	eggs
-埏	vjgm	50%
-埏	yjgm	50%
+埏	vjgm
+埏	yjgm
 埐	jcge
 埑	aeqg
 埒	legi
 埒	lqgi
 埓	legi
-埔	bugb	7.27%
-埔	pugb	92.73%
+埔	bugb
+埔	pugb
 埕	eggg
 埗	bugh
 埘	vigi
@@ -10108,8 +10108,8 @@ use_preset_vocabulary: true
 埶	yigi
 執	aigi
 埸	yigh
-培	pqgr	100%
-培	pbgr	0%
+培	pqgr
+培	pbgr
 基	jitg
 埻	gogd
 埻	angd
@@ -10154,13 +10154,13 @@ use_preset_vocabulary: true
 堞	dxgd
 堟	apgo
 堠	hbgk
-堡	bkog	95.72%
-堡	puog	2.96%
+堡	bkog
+堡	puog
 堢	bkgd
 堢	pugd
 堣	yugb
-堤	digo	100%
-堤	tigo	0%
+堤	digo
+堤	tigo
 堥	mkng
 堥	mbng
 堦	jxga
@@ -10231,9 +10231,9 @@ use_preset_vocabulary: true
 塛	ligd
 塜	pggo
 塝	bhgs
-塞	sljg	88.67%
-塞	sejg	11.33%
-塞	sqjg	0%
+塞	sljg
+塞	sejg
+塞	sqjg
 塟	zhtg
 塠	dmgr
 塠	zmgr
@@ -10270,7 +10270,7 @@ use_preset_vocabulary: true
 塻	mogk
 塼	apgi
 塽	vtgk
-塾	vuxg
+塾	vuyg
 塿	lbgv
 墀	eigq
 墀	xigq
@@ -10328,8 +10328,8 @@ use_preset_vocabulary: true
 墬	ding
 墬	zmng
 墭	vggt
-墮	dong	100%
-墮	hmng	0%
+墮	dong
+墮	hmng
 墯	dopg
 墰	tjgj
 墱	dggt
@@ -10369,9 +10369,9 @@ use_preset_vocabulary: true
 壏	jwgt
 壏	ljgt
 壐	ximg
-壑	heyg	100%
-壑	hoyg	0%
-壑	rmyg	0%
+壑	heyg
+壑	hoyg
+壑	rmyg
 壒	olgt
 壒	klgt
 壓	yamg
@@ -10379,15 +10379,15 @@ use_preset_vocabulary: true
 壕	hkgo
 壖	rugb
 壖	rpgb
-壘	lqwg	100%
-壘	lvwg	0%
+壘	lqwg
+壘	lvwg
 壙	ktgc
 壚	lugt
 壛	yjgx
 壜	tjgi
 壝	wqgc
-壞	gcgv	0%
-壞	hcgv	100%
+壞	gcgv
+壞	hcgv
 壟	lsyg
 壠	lsgp
 壡	rmyg
@@ -10407,8 +10407,8 @@ use_preset_vocabulary: true
 声	vggh
 壱	yigp
 売	mlgu
-壳	kegn	97.56%
-壳	qzgn	2.44%
+壳	kegn
+壳	qzgn
 壳	qmgn
 壴	augt
 壵	atgg
@@ -10430,18 +10430,18 @@ use_preset_vocabulary: true
 夅	jthq
 夅	xthq
 夆	fghj
-备	bqhw	0%
-备	yphw	100%
+备	bqhw
+备	yphw
 夈	alhd
 変	bwye
 夊	smhe
 夋	jnie
 夌	lyge
-复	fboe	0%
-复	fuoe	100%
+复	fboe
+复	fuoe
 夎	zooe
-夏	jdme	0%
-夏	xdme	100%
+夏	jdme
+夏	xdme
 夐	xsne
 夐	xpne
 夒	nkme
@@ -10467,23 +10467,23 @@ use_preset_vocabulary: true
 夤	ycnc
 夥	hown
 夦	eftn
-大	dakk	99.85%
-大	dlkk	0.15%
-大	tlkk	0%
+大	dakk
+大	dlkk
+大	tlkk
 夨	zevk
 天	twmk
-太	tlki	100%
-太	tmki	0%
+太	tlki
+太	tmki
 夫	fuqo
 夬	gcdk
 夬	jmdk
-夭	okhk	0%
-夭	ykhk	100%
+夭	okhk
+夭	ykhk
 央	yhlk
-夯	bfks	2.88%
-夯	hhks	97.12%
-夯	liks	0%
-夯	nuks	0%
+夯	bfks
+夯	hhks
+夯	liks
+夯	nuks
 夰	gkkl
 失	viho
 夲	bfkj
@@ -10496,7 +10496,7 @@ use_preset_vocabulary: true
 夶	pikk
 夷	yikn
 夸	kdks
-夹	jdkt	99.70%
+夹	jdkt
 夺	doki
 夻	hdkr
 夼	epkl
@@ -10511,31 +10511,31 @@ use_preset_vocabulary: true
 奄	yjku
 奅	pkkl
 奆	jpks
-奇	jikr	0.88%
-奇	qikr	99.12%
+奇	jikr
+奇	qikr
 奈	nlkf
 奉	fgqq
 奊	xxgk
-奋	bfkw	2.50%
-奋	ffkw	0.50%
-奋	ghkw	97%
+奋	bfkw
+奋	ffkw
+奋	ghkw
 奌	dwyk
 奎	kmkg
 奏	zbqk
 奐	hpnk
-契	qiqk	93.95%
-契	qxqk	0.30%
-契	xxqk	0.30%
+契	qiqk
+契	qxqk
+契	xxqk
 奒	klko
 奓	eikn
 奓	vekn
 奓	aakn
 奔	bfkt
-奕	yixk
+奕	yiyk
 奖	jtlk
 套	tkki
-奘	zhvk	54.55%
-奘	atvk	45.45%
+奘	zhvk
+奘	atvk
 奙	bfiu
 奙	boiu
 奚	xibk
@@ -10553,11 +10553,11 @@ use_preset_vocabulary: true
 奤	hakl
 奤	pokl
 奤	tlkl
-奥	okhk	100%
-奥	yuhk	0%
+奥	okhk
+奥	yuhk
 奦	wunk
-奧	okhk	100%
-奧	yuhk	0%
+奧	okhk
+奧	yuhk
 奨	jtlk
 奩	lwkr
 奪	doki
@@ -10571,15 +10571,15 @@ use_preset_vocabulary: true
 奰	biwk
 奱	lwvk
 奲	eekj
-女	nvvv	100%
-女	ruvv	0%
+女	nvvv
+女	ruvv
 奴	nuve
 奵	dyvn
 奶	nlvs
 奷	qwvj
 奸	jwvj
-她	tavd	100%
-她	yivd	0%
+她	tavd
+她	yivd
 奺	jrvo
 奻	njvv
 奼	eavp
@@ -10592,8 +10592,8 @@ use_preset_vocabulary: true
 妀	atsv
 妁	vovi
 如	ruvr
-妃	fqvu	100%
-妃	pqvu	0%
+妃	fqvu
+妃	pqvu
 妄	whyv
 妅	ghvm
 妅	gsvm
@@ -10650,8 +10650,8 @@ use_preset_vocabulary: true
 妱	akvr
 妲	davm
 妲	djvm
-妳	nlvf	0%
-妳	nivf	100%
+妳	nlvf
+妳	nivf
 妴	wjnv
 妴	ypnv
 妵	tbvg
@@ -10682,8 +10682,8 @@ use_preset_vocabulary: true
 姊	zivh
 始	vivr
 姌	rjvb
-姍	vjvt	100%
-姍	xwvt	0%
+姍	vjvt
+姍	xwvt
 姎	yhvk
 姏	gjvm
 姏	hjvm
@@ -10696,8 +10696,8 @@ use_preset_vocabulary: true
 委	wqhv
 姕	ziyv
 姖	juvs
-姗	vjvm	100%
-姗	xwvm	0%
+姗	vjvm
+姗	xwvm
 姘	pcvt
 姙	rfvg
 姚	ykvo
@@ -10716,8 +10716,8 @@ use_preset_vocabulary: true
 姣	jzvk
 姤	gbvr
 姤	hbvr
-姥	lkvp	100%
-姥	muvp	0%
+姥	lkvp
+姥	muvp
 姦	jwvv
 姧	jwvj
 姨	yivn
@@ -10783,14 +10783,14 @@ use_preset_vocabulary: true
 娖	zuvo
 娗	dyvg
 娗	tyvg
-娘	ndvv	0%
-娘	ntvv	100%
+娘	ndvv
+娘	ntvv
 娙	kgvm
 娙	xyvm
 娚	nkvs
 娛	yuvk
-娜	navl	99.85%
-娜	novl	0.15%
+娜	navl
+娜	novl
 娝	pbvr
 娞	nqvv
 娞	smvv
@@ -10800,8 +10800,8 @@ use_preset_vocabulary: true
 娠	afvv
 娡	aivp
 娢	hjvr
-娣	divh	100%
-娣	tivh	0%
+娣	divh
+娣	tivh
 娤	atvv
 娥	oevi
 娦	bcvc
@@ -10895,8 +10895,8 @@ use_preset_vocabulary: true
 婥	eovj
 婥	aovj
 婦	fuvb
-婧	jyvb	100%
-婧	qwvb	0%
+婧	jyvb
+婧	qwvb
 婨	lnvb
 婩	ojvj
 婩	yjvj
@@ -10928,8 +10928,8 @@ use_preset_vocabulary: true
 婿	xuvb
 媀	yuvb
 媁	wqvq
-媂	divb	100%
-媂	tivb	0%
+媂	divb
+媂	tivb
 媃	rbvd
 媄	mqvk
 媅	djvv
@@ -11140,8 +11140,8 @@ use_preset_vocabulary: true
 嬧	jcvt
 嬨	civp
 嬩	yuvc
-嬪	bcvc	0%
-嬪	pcvc	100%
+嬪	bcvc
+嬪	pcvc
 嬫	rsvd
 嬬	ruvb
 嬬	xuvb
@@ -11200,8 +11200,8 @@ use_preset_vocabulary: true
 存	cnkd
 孙	snnf
 孚	fubd
-孛	bqjd	75.68%
-孛	bojd	24.32%
+孛	bqjd
+孛	bojd
 孜	zink
 孝	xzjd
 孞	xcnp
@@ -11219,24 +11219,24 @@ use_preset_vocabulary: true
 孩	hlno
 孪	lpyd
 孪	lpyd
-孫	snnf	100%
-孫	xnnf	0%
-孬	hcmd	0%
-孬	nkmd	100%
+孫	snnf
+孫	xnnf
+孬	hcmd
+孬	nkmd
 孭	mxnc
 孮	csnf
 孯	qwsd
 孰	vuyi
-孱	cjsd	50%
-孱	ejsd	50%
+孱	cjsd
+孱	ejsd
 孲	yanm
 孳	zitd
 孴	nina
 孵	fuhd
 孶	zitd
 孷	lijd
-學	xzhd	0%
-學	xmhd	100%
+學	xzhd
+學	xmhd
 孹	bisd
 孹	bosd
 孺	runb
@@ -11248,15 +11248,15 @@ use_preset_vocabulary: true
 孿	lpvd
 孿	lpvd
 宀	mwib
-宁	nyjn	0%
-宁	aujn	100%
+宁	nyjn
+宁	aujn
 宂	rsjn
-它	tajp	100%
-它	tojp	0%
+它	tajp
+它	tojp
 宄	gmjn
 宄	jrjn
-宅	aljp	100%
-宅	aejp	0%
+宅	aljp
+宅	aejp
 宆	qsjn
 宇	yujd
 守	vbji
@@ -11275,15 +11275,15 @@ use_preset_vocabulary: true
 宓	fujh
 宓	mijh
 宔	aujg
-宕	dhjr	100%
-宕	yjjr	0%
+宕	dhjr
+宕	yjjr
 宖	hsji
 宗	zsjf
 官	gpjr
 宙	abjw
 定	dyjo
-宛	wjju	99%
-宛	ypju	1%
+宛	wjju
+宛	ypju
 宜	yijm
 宝	bkji
 实	vijk
@@ -11298,10 +11298,10 @@ use_preset_vocabulary: true
 宧	yijl
 宨	tzjo
 宩	vijd
-宪	hnju	33%
-宪	mkju	33%
-宪	xwju	0%
-宪	xsju	34%
+宪	hnju
+宪	mkju
+宪	xwju
+宪	xsju
 宫	gsjr
 宬	egjs
 宭	qnjr
@@ -11311,12 +11311,12 @@ use_preset_vocabulary: true
 宱	aajs
 宲	bkjd
 宲	vijd
-害	hljr	100%
-害	hejr	0%
+害	hljr
+害	hejr
 宴	yjjv
 宵	xzjb
-家	gujo	0.01%
-家	jdjo	99.99%
+家	gujo
+家	jdjo
 宷	vfjd
 宸	efjv
 容	rsjr
@@ -11325,8 +11325,8 @@ use_preset_vocabulary: true
 宼	kbjv
 宽	kpju
 宾	bcjc
-宿	suja	84.69%
-宿	xrja	15.31%
+宿	suja
+宿	xrja
 寀	cljd
 寁	zjjo
 寂	jije
@@ -11391,7 +11391,7 @@ use_preset_vocabulary: true
 寸	cndi
 对	dmei
 寺	sigi
-寻	xnsi	99.96%
+寻	xnsi
 导	dkri
 寽	lebi
 寽	lobi
@@ -11402,22 +11402,22 @@ use_preset_vocabulary: true
 封	fggi
 専	apji
 尃	fuii
-射	vehi	100%
-射	vihi	0%
-射	yehi	0%
-射	yihi	0%
+射	vehi
+射	vihi
+射	yehi
+射	yihi
 尅	keji
-将	jtli	100%
-将	qtli	0%
-將	jtvi	100%
-將	qtvi	0%
+将	jtli
+将	qtli
+將	jtvi
+將	qtvi
 專	apji
-尉	wqsi	96.39%
-尉	yusi	3.61%
+尉	wqsi
+尉	yusi
 尊	znci
-尋	xcsi	0.04%
-尋	xmsi	0%
-尋	xnsi	99.96%
+尋	xcsi
+尋	xmsi
+尋	xnsi
 尌	vugi
 對	dmti
 導	dkyi
@@ -11431,7 +11431,7 @@ use_preset_vocabulary: true
 尕	ganf
 尕	nlnf
 尖	jwfk
-尗	vuxf
+尗	vuyf
 尘	effg
 尙	vhfr
 尚	vhfr
@@ -11474,39 +11474,39 @@ use_preset_vocabulary: true
 尷	jwkt
 尸	viss
 尹	ycsk
-尺	eeso	0.52%
-尺	eiso	99.48%
+尺	eeso
+尺	eiso
 尻	kksn
 尼	nisp
 尽	jcsy
-尾	wqsu	99%
-尾	yisu	1%
-尿	nzse	99.61%
-尿	smse	0.39%
+尾	wqsu
+尾	yisu
+尿	nzse
+尿	smse
 局	jusr
 屁	pisp
 层	cgsi
 屃	xiso
 屄	bisc
-居	jisr	0%
-居	jusr	100%
-屆	jxsg	100%
-屆	qusg	0%
+居	jisr
+居	jusr
+屆	jxsg
+屆	qusg
 屇	twsw
-屈	jmsu	0%
-屈	qusu	100%
+屈	jmsu
+屈	qusu
 屉	tist
-届	jxsw	100%
-届	qusw	0%
+届	jxsw
+届	qusw
 屋	wusg
 屌	dzsb
 屍	visp
-屎	visd	100%
-屎	xisd	0%
-屏	byst	0.76%
-屏	pyst	99.24%
+屎	visd
+屎	xisd
+屏	byst
+屏	pyst
 屐	jise
-屑	xzsb	0%
+屑	xzsb
 屑	xxsb
 屑	xmsb
 屒	afsv
@@ -11523,18 +11523,18 @@ use_preset_vocabulary: true
 屜	tist
 屜	xxst
 屝	fqsy
-属	vusb	99.93%
-属	ausb	0.07%
+属	vusb
+属	ausb
 屟	dxsd
 屟	xxsd
-屠	eusa	0%
-屠	tusa	100%
+屠	eusa
+屠	tusa
 屡	lvsv
 屢	lvsv
 屣	xiso
 層	cgsa
-履	lise	0%
-履	lvse	100%
+履	lise
+履	lvse
 屦	jusv
 屧	dxsd
 屧	xxsd
@@ -11542,13 +11542,13 @@ use_preset_vocabulary: true
 屩	jmsb
 屪	lzsf
 屫	jmsb
-屬	vusi	99.93%
-屬	ausi	0.07%
+屬	vusi
+屬	ausi
 屭	xisc
 屮	eeuh
-屯	enpu	0%
-屯	tnpu	99.71%
-屯	anpu	0.29%
+屯	enpu
+屯	tnpu
+屯	anpu
 屰	nitu
 屰	potu
 山	vjuu
@@ -11667,8 +11667,8 @@ use_preset_vocabulary: true
 峏	orul
 峐	gluo
 峑	jiug
-峒	dsur	72.22%
-峒	tsur	27.78%
+峒	dsur
+峒	tsur
 峓	yiun
 峔	muup
 峕	viua
@@ -11690,7 +11690,7 @@ use_preset_vocabulary: true
 峡	xdut
 峢	liun
 峣	ykuu
-峤	jzul	26.19%
+峤	jzul
 峥	egud
 峥	agud
 峦	lpyu
@@ -11748,7 +11748,7 @@ use_preset_vocabulary: true
 崕	olug
 崕	yaug
 崕	ylug
-崖	olug	0%
+崖	olug
 崖	yaug
 崖	ylug
 崗	ghuu
@@ -11812,8 +11812,8 @@ use_preset_vocabulary: true
 嵉	tyun
 嵊	vgup
 嵋	mquu
-嵌	kjuo	2.45%
-嵌	qwuo	97.55%
+嵌	kjuo
+嵌	qwuo
 嵍	mknu
 嵍	wunu
 嵎	yuub
@@ -12003,10 +12003,10 @@ use_preset_vocabulary: true
 巩	gsmi
 巪	jusn
 巫	wumo
-差	eatm	98.10%
-差	eltm	1.63%
-差	citm	0.27%
-差	cotm	0%
+差	eatm
+差	eltm
+差	citm
+差	cotm
 巯	qrnu
 巰	lrmu
 巰	qrmu
@@ -12016,8 +12016,8 @@ use_preset_vocabulary: true
 巴	baau
 巵	aihu
 巶	aksu
-巷	hhtu	3.38%
-巷	xttu	96.62%
+巷	hhtu
+巷	xttu
 巸	yisu
 巹	egnu
 巹	jcnu
@@ -12029,8 +12029,8 @@ use_preset_vocabulary: true
 巽	snrc
 巽	xnrc
 巾	jclb
-巿	fujb	100%
-巿	vijb	0%
+巿	fujb
+巿	vijb
 帀	zamb
 币	bihb
 币	ychb
@@ -12049,8 +12049,8 @@ use_preset_vocabulary: true
 帎	djlu
 帏	wqls
 帐	ahlo
-帑	nuvb	30%
-帑	thvb	70%
+帑	nuvb
+帑	thvb
 帒	dlob
 帓	molj
 帔	pqle
@@ -12073,8 +12073,8 @@ use_preset_vocabulary: true
 帣	dzfb
 帣	jpfb
 帤	ruvb
-帥	vchb	100%
-帥	vohb	0%
+帥	vchb
+帥	vohb
 带	dltb
 帧	aglo
 帨	vmlu
@@ -12088,8 +12088,8 @@ use_preset_vocabulary: true
 帯	dltb
 帰	gmib
 帰	kmib
-帱	ebli	50%
-帱	dkli	50%
+帱	ebli
+帱	dkli
 帲	pylj
 帳	ahlv
 帴	cjli
@@ -12135,8 +12135,8 @@ use_preset_vocabulary: true
 幓	sflh
 幓	vflh
 幔	mjle
-幕	motb	0%
-幕	mutb	100%
+幕	motb
+幕	mutb
 幖	bzlf
 幗	golm
 幘	zelc
@@ -12148,15 +12148,15 @@ use_preset_vocabulary: true
 幝	ejlj
 幞	fulo
 幞	pulo
-幟	eila	0%
-幟	aila	100%
+幟	eila
+幟	aila
 幠	fulf
 幠	hulf
 幠	wulf
 幡	fjlw
 幡	polw
-幢	etlg	2.33%
-幢	atlg	97.67%
+幢	etlg
+幢	atlg
 幣	bifb
 幦	misb
 幧	ckld
@@ -12168,8 +12168,8 @@ use_preset_vocabulary: true
 幩	fflc
 幪	mglo
 幫	bhgb
-幬	ebli	50%
-幬	dkli	50%
+幬	ebli
+幬	dkli
 幭	mxli
 幮	euli
 幯	jxll
@@ -12178,26 +12178,26 @@ use_preset_vocabulary: true
 干	gjmj
 平	pymj
 年	nwoq
-幵	jwmj	95%
-幵	qwmj	5%
+幵	jwmj
+幵	qwmj
 并	bytt
 幷	byyj
 幸	xygj
-幹	gjjj	100%
-幹	hjjj	0%
+幹	gjjj
+幹	hjjj
 幺	ykvi
 幻	hpvs
 幼	ybvs
 幽	ybui
 幾	jivi
-广	gtyh	0%
-广	yjyh	100%
+广	gtyh
+广	yjyh
 庀	piip
 庁	tyin
 庂	zeio
 広	gtii
-庄	pgig	98%
-庄	atig	2%
+庄	pgig
+庄	atig
 庅	moii
 庆	qyik
 庇	biip
@@ -12219,8 +12219,8 @@ use_preset_vocabulary: true
 庒	atii
 库	kuiq
 应	yyim
-底	deim	1.38%
-底	diim	98.62%
+底	deim
+底	diim
 庖	pkiu
 店	dwir
 庘	yail
@@ -12237,16 +12237,16 @@ use_preset_vocabulary: true
 庣	tzio
 庤	aiii
 庥	xrid
-度	duie	99.97%
-度	doie	0.03%
+度	duie
+度	doie
 座	zoig
 庨	qzid
 庨	xzid
 庩	tuid
 庪	gmie
 庪	jiie
-庫	kuij	100%
-庫	veij	0%
+庫	kuij
+庫	veij
 庬	mhih
 庬	phih
 庭	tyig
@@ -12272,9 +12272,9 @@ use_preset_vocabulary: true
 庾	yuio
 庿	mziw
 廀	sbie
-廁	cein	100%
-廁	ciin	0%
-廁	siin	0%
+廁	cein
+廁	ciin
+廁	siin
 廂	xtiu
 廃	fqip
 廄	jiie
@@ -12284,8 +12284,8 @@ use_preset_vocabulary: true
 廆	gmii
 廆	hmii
 廇	lriw
-廈	vaie	41.78%
-廈	xdie	58.22%
+廈	vaie
+廈	xdie
 廉	lwic
 廊	lhil
 廋	sbie
@@ -12349,17 +12349,17 @@ use_preset_vocabulary: true
 廾	gsjj
 廾	nwjj
 廿	nwtt
-开	jwmt	95%
-开	klmt	0%
-开	qwmt	5%
+开	jwmt
+开	klmt
+开	qwmt
 弁	bwit
 弁	pjit
 异	yirt
 弃	qiyt
-弄	lsmt	3.66%
-弄	ngmt	0%
-弄	nsmt	96.34%
-弄	nbmt	0%
+弄	lsmt
+弄	ngmt
+弄	nsmt
+弄	nbmt
 弅	ffct
 弆	jugt
 弇	yjot
@@ -12390,8 +12390,8 @@ use_preset_vocabulary: true
 弝	banu
 弞	vfno
 弞	ycno
-弟	dich	100%
-弟	tich	0%
+弟	dich
+弟	tich
 张	ahno
 弡	jmns
 弢	tkne
@@ -12420,13 +12420,13 @@ use_preset_vocabulary: true
 張	ahnv
 弶	jtnf
 弶	lmnf
-強	jtni	0.01%
-強	qtni	99.99%
+強	jtni
+強	qtni
 弸	bgnb
-弹	djnj	22.28%
-弹	tjnj	77.72%
-强	jtni	0.01%
-强	qtni	99.99%
+弹	djnj
+弹	tjnj
+强	jtni
+强	qtni
 弻	binn
 弼	binn
 弽	vend
@@ -12440,8 +12440,8 @@ use_preset_vocabulary: true
 彄	kbnr
 彆	bxfn
 彇	xznx
-彈	djnj	22.28%
-彈	tjnj	77.72%
+彈	djnj
+彈	tjnj
 彉	hgnc
 彉	htnc
 彉	honc
@@ -12498,8 +12498,8 @@ use_preset_vocabulary: true
 彴	aohi
 彵	tohd
 彶	jihe
-彷	fhhs	37.93%
-彷	phhs	62.07%
+彷	fhhs
+彷	phhs
 彸	ashi
 役	yihe
 彺	whhg
@@ -12519,8 +12519,8 @@ use_preset_vocabulary: true
 徇	xnha
 很	hfhv
 徉	yhhq
-徊	hchr	88.24%
-徊	hmhr	11.76%
+徊	hchr
+徊	hmhr
 律	lvhq
 後	hbhe
 徍	wahg
@@ -12535,25 +12535,25 @@ use_preset_vocabulary: true
 従	zsho
 徕	llht
 徖	cshf
-得	dlhi	0%
-得	dehi	97%
-得	dqhi	3%
-得	dihi	0%
+得	dlhi
+得	dehi
+得	dqhi
+得	dihi
 徘	plhy
-徙	tuho	0%
-徙	xiho	100%
+徙	tuho
+徙	xiho
 徚	dshf
 徛	jihr
 徛	qihr
 徜	ehhr
 徜	thhr
 徝	aihm
-從	csho	100%
-從	zsho	0%
+從	csho
+從	zsho
 徟	abhr
 徠	llho
-御	yahl	0%
-御	yuhl	100%
+御	yahl
+御	yuhl
 徢	xxho
 徣	jxha
 徤	jwhq
@@ -12563,8 +12563,8 @@ use_preset_vocabulary: true
 徧	bwhb
 徧	pwhb
 徨	hthg
-復	fbhe	0%
-復	fuhe	100%
+復	fbhe
+復	fuhe
 循	xnhu
 徫	wqhq
 徬	bhhs
@@ -12579,8 +12579,8 @@ use_preset_vocabulary: true
 徳	dehp
 徴	aghk
 徴	aihk
-徵	aghk	95%
-徵	aihk	5%
+徵	aghk
+徵	aihk
 徶	bxhk
 德	dehp
 徸	ashg
@@ -12607,12 +12607,12 @@ use_preset_vocabulary: true
 忌	jisp
 忍	rfsp
 忎	rfhp
-忏	ejpj	1%
-忏	qwpj	99%
-忐	tjxp
+忏	ejpj
+忏	qwpj
+忐	tjyp
 忑	temp
-忒	teip	23.24%
-忒	tqip	56.44%
+忒	teip
+忒	tqip
 忓	gjpj
 忔	qipn
 忕	dlpk
@@ -12641,8 +12641,8 @@ use_preset_vocabulary: true
 忧	ybpu
 忨	wjpu
 忩	cscp
-忪	sspi	100%
-忪	aspi	0%
+忪	sspi
+忪	aspi
 快	kcpk
 忬	vupn
 忭	bwpy
@@ -12672,8 +12672,8 @@ use_preset_vocabulary: true
 忾	klpn
 忾	xipn
 忿	ffcp
-怀	fupf	100%
-怀	hcpf	0%
+怀	fupf
+怀	hcpf
 态	tlkp
 怂	ssop
 怃	wupu
@@ -12689,8 +12689,8 @@ use_preset_vocabulary: true
 怌	pqpm
 怌	pipm
 怍	zops
-怎	zeop	1%
-怎	zfop	99%
+怎	zeop
+怎	zfop
 怏	yhpk
 怐	gbpr
 怐	jupr
@@ -12698,8 +12698,8 @@ use_preset_vocabulary: true
 怑	bjpq
 怒	nuvp
 怓	nkpe
-怔	lgpm	0%
-怔	agpm	100%
+怔	lgpm
+怔	agpm
 怕	papa
 怖	bupb
 怗	txpr
@@ -12712,10 +12712,10 @@ use_preset_vocabulary: true
 怛	dapm
 怛	djpm
 怛	tjpm
-怜	lwpi	0%
+怜	lwpi
 怜	lypi
-思	slwp	0%
-思	siwp	100%
+思	slwp
+思	siwp
 怞	ybpw
 怞	abpw
 怟	dipm
@@ -12730,8 +12730,8 @@ use_preset_vocabulary: true
 怨	ypnp
 怩	nipp
 怪	gcpg
-怫	fqpn	50%
-怫	fupn	50%
+怫	fqpn
+怫	fupn
 怬	sipc
 怬	xipc
 怭	biph
@@ -12757,9 +12757,9 @@ use_preset_vocabulary: true
 怾	aipc
 怿	yipq
 恀	eipn
-恁	nfop	100%
-恁	ncop	0%
-恁	rfop	100%
+恁	nfop
+恁	ncop
+恁	rfop
 恂	xnpa
 恃	vipi
 恄	jipr
@@ -12808,23 +12808,23 @@ use_preset_vocabulary: true
 恧	nvmp
 恨	hfpv
 恩	ofwp
-恪	kepr	100%
-恪	qmpr	0%
+恪	kepr
+恪	qmpr
 恫	dspr
 恫	tspr
 恬	twpr
 恭	gstp
 恮	qppg
 息	xihp
-恰	qdpr	100%
-恰	xdpr	0%
+恰	qdpr
+恰	xdpr
 恱	ympu
 恲	pgpt
 恳	kfap
 恴	deyp
 恵	hmjp
-恶	oemp	99.99%
-恶	wump	0.01%
+恶	oemp
+恶	wump
 恸	tsps
 恹	yjpk
 恺	klpu
@@ -12863,8 +12863,8 @@ use_preset_vocabulary: true
 悓	xwpu
 悔	hmpj
 悕	xipb
-悖	bqpd	100%
-悖	bopd	0%
+悖	bqpd
+悖	bopd
 悗	mjpu
 悘	yisp
 悙	hgpn
@@ -12882,7 +12882,7 @@ use_preset_vocabulary: true
 悢	ltpv
 患	hplp
 悤	cshp
-悥	yixp
+悥	yiyp
 悦	ympu
 悧	lipn
 您	ncop
@@ -12907,8 +12907,8 @@ use_preset_vocabulary: true
 悹	gpjp
 悺	gppr
 悻	xypj
-悼	dkpj	100%
-悼	dzpj	0%
+悼	dkpj
+悼	dzpj
 悽	qipv
 悾	kspm
 悿	twpp
@@ -12923,7 +12923,7 @@ use_preset_vocabulary: true
 惈	gopd
 惉	ejep
 惉	ajep
-惊	jypf	0%
+惊	jypf
 惊	ltpf
 惋	wjpu
 惌	ypjp
@@ -12952,13 +12952,13 @@ use_preset_vocabulary: true
 惚	hupp
 惛	hnpa
 惜	xipa
-惝	ehpr	50%
-惝	thpr	50%
+惝	ehpr
+惝	thpr
 惞	xcpo
 惟	wqpg
 惠	hmjp
-惡	oemp	95%
-惡	wump	5%
+惡	oemp
+惡	wump
 惢	rmpp
 惢	sopp
 惢	xcpp
@@ -13038,8 +13038,8 @@ use_preset_vocabulary: true
 愝	yjpv
 愞	nopk
 愞	rupk
-感	gjip	100%
-感	hjip	0%
+感	gjip
+感	hjip
 愠	ynpt
 愡	zspp
 愢	slpp
@@ -13090,11 +13090,11 @@ use_preset_vocabulary: true
 慈	citp
 慉	xupw
 慊	jwpc
-慊	qwpc	72.73%
-慊	qxpc	27.27%
+慊	qwpc
+慊	qxpc
 態	tlip
-慌	hgpu	0%
-慌	htpu	100%
+慌	hgpu
+慌	htpu
 慍	ynpt
 慎	vfpc
 慏	mypc
@@ -13193,8 +13193,8 @@ use_preset_vocabulary: true
 憚	djpj
 憛	tjpj
 憜	dopb
-憝	dmxp
-憝	dnxp
+憝	dmyp
+憝	dnyp
 憞	dmpk
 憞	dnpk
 憟	supd
@@ -13208,8 +13208,8 @@ use_preset_vocabulary: true
 憥	lkfp
 憦	lkps
 憧	espg
-憨	gjmp	0%
-憨	hjmp	100%
+憨	gjmp
+憨	hjmp
 憩	qihp
 憩	xihp
 憪	xwpb
@@ -13326,12 +13326,12 @@ use_preset_vocabulary: true
 戂	mopy
 戃	thpf
 戄	jmpe
-戅	ghxp
-戅	atxp
-戆	ghyp	100%
-戆	atyp	0%
-戇	ghxp	100%
-戇	atxp	0%
+戅	ghyp
+戅	atyp
+戆	ghyp
+戆	atyp
+戇	ghyp
+戇	atyp
 戈	geii
 戉	ymiv
 戊	wuih
@@ -13339,12 +13339,12 @@ use_preset_vocabulary: true
 戌	xuim
 戍	vuii
 戎	rsij
-戏	huei	0%
-戏	hmei	0%
-戏	xiei	100%
+戏	huei
+戏	hmei
+戏	xiei
 成	egis
-我	oehi	0%
-我	wohi	100%
+我	oehi
+我	wohi
 戒	jxit
 戓	geir
 戔	jwii
@@ -13355,8 +13355,8 @@ use_preset_vocabulary: true
 战	ajyi
 戙	dsbi
 戙	tsbi
-戚	cuif	0%
-戚	qiif	100%
+戚	cuif
+戚	qiif
 戛	gami
 戛	jdmi
 戜	dxig
@@ -13394,9 +13394,9 @@ use_preset_vocabulary: true
 戱	huyi
 戱	hmyi
 戱	xiyi
-戲	huyi	0%
-戲	hmyi	0%
-戲	xiyi	100%
+戲	huyi
+戲	hmyi
+戲	xiyi
 戳	eosi
 戴	dljc
 戵	qubi
@@ -13413,11 +13413,11 @@ use_preset_vocabulary: true
 戾	lqhk
 戾	lihk
 戾	lxhk
-房	fhhs	100%
-房	phhs	0%
+房	fhhs
+房	phhs
 所	sohl
-扁	bwht	99.37%
-扁	pwht	0.63%
+扁	bwht
+扁	pwht
 扂	dwhr
 扃	jshr
 扃	juhr
@@ -13432,16 +13432,16 @@ use_preset_vocabulary: true
 手	vbqq
 扌	vbdm
 才	cldh
-扎	zaqu	6.72%
-扎	aaqu	93.28%
+扎	zaqu
+扎	aaqu
 扏	qrqn
 扐	leqs
-扑	piqy	0.10%
-扑	poqy	1%
-扑	pbqy	0.90%
-扑	puqy	98%
-扒	baqc	72.04%
-扒	paqc	27.96%
+扑	piqy
+扑	poqy
+扑	pbqy
+扑	puqy
+扒	baqc
+扒	paqc
 打	daqn
 扔	rgqs
 払	fuqi
@@ -13449,8 +13449,8 @@ use_preset_vocabulary: true
 托	toqp
 扙	ahqk
 扚	dzqi
-扛	ghqm	1%
-扛	khqm	99%
+扛	ghqm
+扛	khqm
 扜	yuqd
 扝	xuqs
 扞	gjqj
@@ -13477,14 +13477,14 @@ use_preset_vocabulary: true
 扭	nrqg
 扮	bjqh
 扯	eeqm
-扰	rkqu	0%
-扰	ybqu	100%
+扰	rkqu
+扰	ybqu
 扱	jiqe
 扱	xiqe
 扲	jcqn
 扲	qwqn
-扳	bjqe	100%
-扳	pjqe	0%
+扳	bjqe
+扳	pjqe
 扴	jdql
 扴	jxql
 扵	wuqy
@@ -13512,8 +13512,8 @@ use_preset_vocabulary: true
 抇	kbqa
 抈	ymqb
 抉	jmqk
-把	baqu	100%
-把	blqu	0%
+把	baqu
+把	blqu
 抋	qcqp
 抌	efqu
 抌	afqu
@@ -13524,15 +13524,15 @@ use_preset_vocabulary: true
 抐	neqb
 抑	yiql
 抒	vuqn
-抓	edqo	0%
-抓	akqo	0%
-抓	adqo	100%
+抓	edqo
+抓	akqo
+抓	adqo
 抔	pbqf
 投	tbqe
 抖	dbqj
 抗	khqn
-折	veql	0.86%
-折	aeql	99.14%
+折	veql
+折	aeql
 抙	pbqq
 抚	fuqu
 抚	wuqu
@@ -13571,14 +13571,14 @@ use_preset_vocabulary: true
 抳	niqp
 抴	yeqt
 抴	yiqt
-抵	diqm	100%
-抵	aiqm	0%
+抵	diqm
+抵	aiqm
 抶	eiqo
 抷	pqqm
 抷	piqm
 抸	zaqo
-抹	maqj	7.13%
-抹	moqj	92.87%
+抹	maqj
+抹	moqj
 抺	mqqd
 抻	efql
 抻	vfql
@@ -13590,23 +13590,23 @@ use_preset_vocabulary: true
 抿	mcqp
 拀	auqu
 拁	jdqr
-拂	biqn	0%
-拂	fuqn	100%
+拂	biqn
+拂	fuqn
 拃	aaqs
 拃	ajqs
 拄	auqg
 担	djqm
-拆	elqy	97.23%
-拆	eeqy	2.77%
+拆	elqy
+拆	eeqy
 拇	muqi
 拈	nwqr
 拉	laqt
 拊	fuqi
 拋	pkqs
-拌	bjqq	100%
-拌	pjqq	0%
-拍	plqa	100%
-拍	poqa	0%
+拌	bjqq
+拌	pjqq
+拍	plqa
+拍	poqa
 拎	lcqi
 拎	lyqi
 拏	navq
@@ -13615,24 +13615,24 @@ use_preset_vocabulary: true
 拑	gjqm
 拑	qwqm
 拒	juqs
-拓	taqr	1.19%
-拓	toqr	98.81%
-拓	aiqr	0%
+拓	taqr
+拓	toqr
+拓	aiqr
 拔	baqe
 拕	toqp
 拖	toqd
-拗	okqs	60.12%
-拗	nrqs	39.88%
-拗	ykqs	0%
-拗	yuqs	0%
+拗	okqs
+拗	nrqs
+拗	ykqs
+拗	yuqs
 拘	juqr
 拙	aoqu
-拚	ffqt	0%
-拚	pjqt	11.86%
-拚	pcqt	88.14%
-招	qzqr	0%
-招	vkqr	0%
-招	akqr	100%
+拚	ffqt
+拚	pjqt
+拚	pcqt
+招	qzqr
+招	vkqr
+招	akqr
 拜	blhj
 拝	blqj
 拞	diqm
@@ -13647,12 +13647,12 @@ use_preset_vocabulary: true
 拦	ljqm
 拧	nyqn
 拨	boqe
-择	zeqq	98.75%
-择	alqq	1.25%
+择	zeqq
+择	alqq
 拪	qwqw
 拫	hfqv
-括	gdqr	0.51%
-括	koqr	99.49%
+括	gdqr
+括	koqr
 拭	viqm
 拮	jxqr
 拯	agqm
@@ -13663,8 +13663,8 @@ use_preset_vocabulary: true
 拴	vpqg
 拵	cnqd
 拵	tnqd
-拶	zaqn	78.95%
-拶	zjqn	21.05%
+拶	zaqn
+拶	zjqn
 拷	kkqs
 拸	eeqn
 拸	eiqn
@@ -13673,10 +13673,10 @@ use_preset_vocabulary: true
 拺	ceqb
 拻	hmqf
 拼	pcqt
-拽	yeqp	0.18%
-拽	acqp	99.82%
-拾	veqr	0.10%
-拾	viqr	99.90%
+拽	yeqp
+拽	acqp
+拾	veqr
+拾	viqr
 拿	naoq
 挀	boqv
 持	eiqi
@@ -13697,13 +13697,13 @@ use_preset_vocabulary: true
 挌	geqr
 挍	jzqk
 挍	xzqk
-挎	kuqs	0%
-挎	kdqs	100%
+挎	kuqs
+挎	kdqs
 挏	dsqr
 挐	navq
 挐	ruvq
-挑	tkqo	0%
-挑	tzqo	100%
+挑	tkqo
+挑	tzqo
 挒	lxqn
 挓	aaqp
 挓	alqp
@@ -13718,7 +13718,7 @@ use_preset_vocabulary: true
 挛	lpyq
 挛	lpyq
 挜	yaqc
-挝	adqi	74.70%
+挝	adqi
 挞	taqk
 挟	jdqt
 挟	xdqt
@@ -13743,9 +13743,9 @@ use_preset_vocabulary: true
 挱	saqh
 挱	vaqh
 挱	soqh
-挲	saeq	12.50%
-挲	vaeq	12.50%
-挲	soeq	87.50%
+挲	saeq
+挲	vaeq
+挲	soeq
 挳	jyqm
 挳	kgqm
 挴	mqqy
@@ -13781,9 +13781,9 @@ use_preset_vocabulary: true
 捈	tuqd
 捉	aoqo
 捊	pbqd
-捋	leqi	0%
-捋	loqi	6.67%
-捋	lvqi	93.33%
+捋	leqi
+捋	loqi
+捋	lvqi
 捌	baqn
 捍	hjqj
 捎	vkqb
@@ -13827,7 +13827,7 @@ use_preset_vocabulary: true
 捬	fuqi
 捬	wuqi
 捭	blqj
-捭	biqj	1%
+捭	biqj
 捭	boqj
 据	juqr
 捯	dkqn
@@ -13852,8 +13852,8 @@ use_preset_vocabulary: true
 捾	xdqr
 捿	qiqv
 捿	xiqv
-掀	xwqo	100%
-掀	xcqo	0%
+掀	xwqo
+掀	xcqo
 掁	egqv
 掂	dwqr
 掃	skqb
@@ -13919,9 +13919,9 @@ use_preset_vocabulary: true
 掲	jxqp
 掲	qiqp
 掳	luqs
-掴	goqi	97.33%
+掴	goqi
 掷	aiql
-掸	djqj	50%
+掸	djqj
 掺	cjqh
 掺	ejqh
 掺	vjqh
@@ -13952,16 +13952,16 @@ use_preset_vocabulary: true
 揍	zbqk
 揎	xpqm
 描	mzqw
-提	diqo	0.05%
-提	viqo	0%
-提	tiqo	99.95%
+提	diqo
+提	viqo
+提	tiqo
 揑	nxqm
 插	eaqx
 揓	viqd
 揔	zsqp
 揕	afqv
-揖	jiqj	0%
-揖	yiqj	100%
+揖	jiqj
+揖	yiqj
 揗	vnqu
 揘	hgqg
 揘	htqg
@@ -13977,8 +13977,8 @@ use_preset_vocabulary: true
 揠	yaqv
 握	woqg
 揢	keqr
-揣	ecqb	100%
-揣	epqb	0%
+揣	ecqb
+揣	epqb
 揤	jiql
 揤	jxql
 揥	tiqb
@@ -13987,8 +13987,8 @@ use_preset_vocabulary: true
 揨	egqn
 揩	kaqa
 揩	klqa
-揪	jrqf	100%
-揪	qrqf	0%
+揪	jrqf
+揪	qrqf
 揫	jrhq
 揫	qrhq
 揬	tuqk
@@ -14039,8 +14039,8 @@ use_preset_vocabulary: true
 搐	xuqw
 搑	nhqj
 搑	rsqj
-搒	bhqs	50%
-搒	pgqs	50%
+搒	bhqs
+搒	pgqs
 搓	coqm
 搔	skqi
 搕	keqt
@@ -14086,8 +14086,8 @@ use_preset_vocabulary: true
 搳	xdqr
 搴	qwjq
 搵	wfqt
-搶	etqr	0%
-搶	qtqr	100%
+搶	etqr
+搶	qtqr
 搷	efqc
 搷	twqc
 搸	afqd
@@ -14099,8 +14099,8 @@ use_preset_vocabulary: true
 搻	nooq
 搻	rooq
 搼	qpqq
-搽	caqd	0%
-搽	eaqd	100%
+搽	caqd
+搽	eaqd
 搾	aaqs
 搿	blhq
 搿	gehq
@@ -14109,7 +14109,7 @@ use_preset_vocabulary: true
 摂	veqc
 摃	ghqc
 摃	gsqc
-摄	veqe	99.72%
+摄	veqe
 摅	vuqp
 摆	blqi
 摇	ykqu
@@ -14140,8 +14140,8 @@ use_preset_vocabulary: true
 摖	qiqf
 摗	ssqo
 摗	sbqo
-摘	alqb	100%
-摘	aeqb	0%
+摘	alqb
+摘	aeqb
 摙	lwqj
 摚	thqg
 摛	eiqb
@@ -14162,8 +14162,8 @@ use_preset_vocabulary: true
 摦	hdqo
 摧	cmqg
 摨	nlqq
-摩	maiq	0.10%
-摩	moiq	99.90%
+摩	maiq
+摩	moiq
 摪	jtqi
 摪	qtqi
 摫	gmqu
@@ -14178,8 +14178,8 @@ use_preset_vocabulary: true
 摱	mjqe
 摲	jwql
 摲	vjql
-摳	kbqr	100%
-摳	quqr	0%
+摳	kbqr
+摳	quqr
 摴	vuqs
 摵	seqf
 摵	soqf
@@ -14187,13 +14187,13 @@ use_preset_vocabulary: true
 摶	tpqi
 摷	ekqd
 摷	jzqd
-摸	mkqk	0%
-摸	moqk	100%
+摸	mkqk
+摸	moqk
 摹	motq
 摺	aeqa
-摻	cjqh	0%
-摻	ejqh	100%
-摻	vjqh	0%
+摻	cjqh
+摻	ejqh
+摻	vjqh
 摼	kgqg
 摼	qwqg
 摽	bzqf
@@ -14212,7 +14212,7 @@ use_preset_vocabulary: true
 撆	pxfq
 撇	pxqk
 撈	lkqs
-撉	dnxq
+撉	dnyq
 撊	xwqb
 撋	rpqg
 撋	rnqg
@@ -14226,11 +14226,11 @@ use_preset_vocabulary: true
 撐	egqh
 撑	egqq
 撒	saqk
-撓	nkqu	100%
-撓	rkqu	0%
+撓	nkqu
+撓	rkqu
 撔	hgqf
-撕	siql	100%
-撕	xiql	0%
+撕	siql
+撕	xiql
 撖	gjqk
 撖	qwqk
 撗	htqc
@@ -14254,8 +14254,8 @@ use_preset_vocabulary: true
 撡	vjqp
 撢	djqj
 撢	tjqj
-撣	djqj	95%
-撣	vjqj	5%
+撣	djqj
+撣	vjqj
 撤	eeqk
 撥	boqe
 撦	eeqa
@@ -14265,13 +14265,13 @@ use_preset_vocabulary: true
 撨	xzqf
 撩	lzqf
 撪	bfqj
-撫	fuqf	100%
-撫	wuqf	0%
+撫	fuqf
+撫	wuqf
 撬	qzqu
 播	boqw
-撮	coqe	99.90%
-撮	zmqe	0%
-撮	zoqe	0.10%
+撮	coqe
+撮	zmqe
+撮	zoqe
 撯	aoqu
 撰	apqc
 撱	toqb
@@ -14302,8 +14302,8 @@ use_preset_vocabulary: true
 擄	loqs
 擅	vjqm
 擆	aoqa
-擇	zeqj	98.75%
-擇	alqj	1.25%
+擇	zeqj
+擇	alqj
 擈	puqd
 擉	euqi
 擉	eoqi
@@ -14311,8 +14311,8 @@ use_preset_vocabulary: true
 擋	dhqw
 擌	soqo
 操	ckqd
-擎	jytq	0%
-擎	qytq	100%
+擎	jytq
+擎	qytq
 擏	jyqk
 擏	qyqk
 擐	hpqv
@@ -14324,8 +14324,8 @@ use_preset_vocabulary: true
 擕	xxqs
 擖	geqv
 擗	piqj
-擘	bisq	17.65%
-擘	bosq	82.35%
+擘	bisq
+擘	bosq
 擙	okqk
 據	juqo
 擛	yeqd
@@ -14398,8 +14398,8 @@ use_preset_vocabulary: true
 攏	lsqp
 攐	qwqv
 攑	qwqq
-攒	cpqo	10%
-攒	zjqo	90%
+攒	cpqo
+攒	zjqo
 攓	jwqo
 攓	qwqo
 攔	ljqw
@@ -14412,14 +14412,14 @@ use_preset_vocabulary: true
 攛	cpqv
 攜	xiqb
 攜	xxqb
-攝	nxqj	0.28%
-攝	veqj	99.72%
+攝	nxqj
+攝	veqj
 攞	loqg
 攟	jnqw
 攠	miqy
 攡	liqg
-攢	cpqc	10%
-攢	zjqc	90%
+攢	cpqc
+攢	zjqc
 攣	lwvq
 攣	lpvq
 攣	lpvq
@@ -14472,7 +14472,7 @@ use_preset_vocabulary: true
 敉	mifk
 敊	euye
 敋	gehk
-敌	dihk	0%
+敌	dihk
 敌	hdhk
 敍	xuoe
 敎	jzkk
@@ -14501,8 +14501,8 @@ use_preset_vocabulary: true
 敤	gowe
 敤	kewe
 敥	yjfe
-敦	dmyk	4.53%
-敦	dnyk	96.47%
+敦	dmyk
+敦	dnyk
 敧	jike
 敧	qike
 敨	dbyk
@@ -14517,10 +14517,10 @@ use_preset_vocabulary: true
 敮	xdhe
 敯	hnre
 敯	mcre
-数	cufk	0%
-数	vufk	99.50%
-数	vofk	0.50%
-数	sufk	0%
+数	cufk
+数	vufk
+数	vofk
+数	sufk
 敱	olue
 敱	auue
 敲	qzye
@@ -14530,11 +14530,11 @@ use_preset_vocabulary: true
 敶	efnk
 敶	afnk
 敷	fuik
-數	culk	0%
-數	vulk	99.50%
-數	volk	0.50%
-數	sulk	0%
-敹	lzxk
+數	culk
+數	vulk
+數	volk
+數	sulk
+敹	lzyk
 敺	obse
 敺	qzse
 敺	quse
@@ -14587,9 +14587,9 @@ use_preset_vocabulary: true
 料	lzfj
 斚	jdij
 斛	hunj
-斜	xdoj	0%
-斜	xxoj	100%
-斜	yeoj	0%
+斜	xdoj
+斜	xxoj
+斜	yeoj
 斝	jdrj
 斞	yuhj
 斟	aftj
@@ -14627,15 +14627,15 @@ use_preset_vocabulary: true
 斺	xxyl
 斻	hhyn
 斻	khyn
-於	wuym	0%
-於	yuym	100%
-施	viyd	100%
-施	yiyd	0%
+於	wuym
+於	yuym
+施	viyd
+施	yiyd
 斾	pqyb
 斿	ybyd
 旀	mxyf
-旁	bhys	0.24%
-旁	phys	99.76%
+旁	bhys
+旁	phys
 旂	qiyl
 旃	djym
 旃	ajym
@@ -14647,8 +14647,8 @@ use_preset_vocabulary: true
 旉	fuis
 旊	fhyn
 旋	xpyo
-旌	jyym	100%
-旌	lyym	0%
+旌	jyym
+旌	lyym
 旍	jyyi
 旍	lyyi
 旎	niyp
@@ -14678,8 +14678,8 @@ use_preset_vocabulary: true
 既	jiau
 旣	jihu
 旤	hobu
-日	miaa	0%
-日	riaa	100%
+日	miaa
+日	riaa
 旦	djam
 旧	jrla
 旨	aipa
@@ -14733,8 +14733,8 @@ use_preset_vocabulary: true
 昒	wfah
 昒	wuah
 易	yiah
-昔	cota	0%
-昔	xita	100%
+昔	cota
+昔	xita
 昕	xcal
 昖	yjai
 昗	zeac
@@ -14787,8 +14787,8 @@ use_preset_vocabulary: true
 显	xwac
 昿	ktai
 晀	tzao
-晁	ekao	100%
-晁	akao	0%
+晁	ekao
+晁	akao
 時	viai
 晃	htau
 晄	htau
@@ -14842,8 +14842,8 @@ use_preset_vocabulary: true
 晬	zmaj
 晭	abar
 普	puta
-景	jyaf	100%
-景	yyaf	0%
+景	jyaf
+景	yyaf
 晰	xial
 晱	vjaf
 晲	yiau
@@ -14871,8 +14871,8 @@ use_preset_vocabulary: true
 暅	ypam
 暆	yiad
 暇	xdae
-暈	ycaj	0%
-暈	ynaj	100%
+暈	ycaj
+暈	ynaj
 暉	hmaj
 暊	fuac
 暋	mcra
@@ -14887,14 +14887,14 @@ use_preset_vocabulary: true
 暓	mkna
 暔	njaj
 暕	jwaf
-暖	npae	100%
-暖	xpae	0%
+暖	npae
+暖	xpae
 暗	ojaa
 暘	yhah
 暙	enaa
 暚	ykau
 暛	soam
-暜	puxa
+暜	puya
 暝	myac
 暞	jzad
 暟	olat
@@ -14915,7 +14915,7 @@ use_preset_vocabulary: true
 暩	jiaf
 暪	mfab
 暫	zjja
-暫	ajja	0%
+暫	ajja
 暬	nxga
 暬	xxga
 暭	gkaj
@@ -14926,8 +14926,8 @@ use_preset_vocabulary: true
 暱	niar
 暲	ahaj
 暳	hmam
-暴	bkae	99.78%
-暴	puae	0.22%
+暴	bkae
+暴	puae
 暵	hjao
 暶	xpao
 暷	epai
@@ -14975,10 +14975,10 @@ use_preset_vocabulary: true
 曙	vuaa
 曚	mgao
 曛	xnaf
-曜	ykag	100%
-曜	ymag	0%
-曝	bkae	80.43%
-曝	puae	19.57%
+曜	ykag
+曜	ymag
+曝	bkae
+曝	puae
 曞	liab
 曟	efav
 曠	ktac
@@ -15005,8 +15005,8 @@ use_preset_vocabulary: true
 曲	qutw
 曳	yelp
 曳	yilp
-更	ggmk	99.90%
-更	jymk	0.10%
+更	ggmk
+更	jymk
 曵	yeip
 曵	yiip
 曶	hupa
@@ -15016,26 +15016,26 @@ use_preset_vocabulary: true
 書	vula
 曹	ckta
 曺	ckja
-曼	mjae	100%
-曼	wjae	0%
+曼	mjae
+曼	wjae
 曽	cgca
-曾	cgca	59.66%
-曾	zgca	40.34%
+曾	cgca
+曾	zgca
 替	tiqa
 最	zmae
 朁	cjka
 朂	xuas
-會	gmoa	0%
-會	hmoa	99.98%
-會	kcoa	0.02%
+會	gmoa
+會	hmoa
+會	kcoa
 朄	yclf
 朅	jxgv
 朅	qxgv
 朆	ffch
 朇	bioj
 朇	pioj
-月	rbbb	0%
-月	ymbb	100%
+月	rbbb
+月	ymbb
 有	ybkb
 朊	gpbu
 朊	rpbu
@@ -15061,12 +15061,12 @@ use_preset_vocabulary: true
 朚	mhyb
 望	whyg
 朜	tnbd
-朝	ekjb	75.25%
-朝	akjb	24.75%
+朝	ekjb
+朝	akjb
 朞	jitb
 朞	qitb
-期	jitb	0.01%
-期	qitb	99.99%
+期	jitb
+期	qitb
 朠	yybk
 朡	zsbe
 朢	whsg
@@ -15079,17 +15079,17 @@ use_preset_vocabulary: true
 末	modj
 本	bfdm
 札	aadu
-朮	vuic	20%
-朮	auic	80%
-术	vuid	20%
-术	auid	80%
-朱	vuhd	0%
-朱	auhd	100%
+朮	vuic
+朮	auic
+术	vuid
+术	auid
+朱	vuhd
+朱	auhd
 朲	rfdo
 朳	badc
-朴	pzdy	50%
-朴	pody	0.63%
-朴	pudy	55.16%
+朴	pzdy
+朴	pody
+朴	pudy
 朵	dohd
 朶	dond
 朷	dkdh
@@ -15098,25 +15098,25 @@ use_preset_vocabulary: true
 朸	lids
 朹	ebdn
 朹	qrdn
-机	jidn	90%
-机	wqdn	10%
+机	jidn
+机	wqdn
 朻	jrdl
 朼	bidp
 朽	xrds
 朾	tydn
 朿	cidb
 杀	vakd
-杂	dokd	100%
-杂	zakd	0%
-权	qpde	0%
-权	vude	100%
+杂	dokd
+杂	zakd
+权	qpde
+权	vude
 杄	qwdj
 杅	yudd
 杆	gjdj
 杇	wuds
 杈	eadi
-杉	vadh	0.59%
-杉	vjdh	99.41%
+杉	vadh
+杉	vjdh
 杊	xndl
 杋	fjdi
 杋	xcdi
@@ -15127,8 +15127,8 @@ use_preset_vocabulary: true
 材	cldh
 村	cndi
 杒	rfdh
-杓	bzdi	50%
-杓	vkdi	50%
+杓	bzdi
+杓	vkdi
 杔	todp
 杕	didk
 杖	ahdk
@@ -15163,8 +15163,8 @@ use_preset_vocabulary: true
 東	dsdw
 杲	gkad
 杲	goad
-杳	mzda	0%
-杳	ykda	100%
+杳	mzda
+杳	ykda
 杴	qwdo
 杴	xwdo
 杵	eudj
@@ -15175,13 +15175,13 @@ use_preset_vocabulary: true
 杸	vude
 杹	hddp
 杺	xcdp
-杻	ebdg	50%
-杻	nrdg	50%
+杻	ebdg
+杻	nrdg
 杼	audn
 杽	ebdq
 松	ssdi
-板	bjde	100%
-板	pjde	0%
+板	bjde
+板	pjde
 枀	sscd
 极	jide
 枂	wodb
@@ -15210,14 +15210,14 @@ use_preset_vocabulary: true
 枕	afdu
 枖	ykdk
 林	lcdd
-枘	nfdb	0%
+枘	nfdb
 枘	rmdb
 枙	oedu
 枚	mqdk
 枛	akdo
 果	gowd
-枝	qide	0%
-枝	aide	100%
+枝	qide
+枝	aide
 枞	csdo
 枞	zsdo
 枟	yndi
@@ -15234,8 +15234,8 @@ use_preset_vocabulary: true
 枭	xzpd
 枮	xwdr
 枮	ajdr
-枯	gudr	0%
-枯	kudr	100%
+枯	gudr
+枯	kudr
 枰	pydj
 枱	tldr
 枲	xiid
@@ -15246,8 +15246,8 @@ use_preset_vocabulary: true
 枵	xrds
 架	jdkd
 枷	jddr
-枸	gbdr	72.22%
-枸	judr	27.78%
+枸	gbdr
+枸	judr
 枹	bkdu
 枹	fudu
 枺	modj
@@ -15273,8 +15273,8 @@ use_preset_vocabulary: true
 柌	cidr
 柍	yhdk
 柎	fudi
-柏	blda	67.63%
-柏	boda	32.37%
+柏	blda
+柏	boda
 某	mbtd
 柑	gjdm
 柑	qwdm
@@ -15288,26 +15288,26 @@ use_preset_vocabulary: true
 柘	aedr
 柙	jddl
 柙	xddl
-柚	ybdw	100%
-柚	audw	0%
+柚	ybdw
+柚	audw
 柛	vfdl
-柜	gmds	99.30%
-柜	juds	0.70%
+柜	gmds
+柜	juds
 柝	eidy
 柝	tody
 柞	zeds
 柞	zods
 柟	njdb
 柠	eudn
-柠	nydn	0%
+柠	nydn
 柡	ysde
 柢	didm
 柣	dxdo
 柣	aido
 柤	aadm
 柤	zudm
-查	eadm	99.82%
-查	aadm	0.18%
+查	eadm
+查	aadm
 柦	djdm
 柧	gudo
 柨	budb
@@ -15325,8 +15325,8 @@ use_preset_vocabulary: true
 柱	audg
 柲	bidh
 柳	lrdl
-柴	elyd	100%
-柴	alyd	0%
+柴	elyd
+柴	alyd
 柵	vjdt
 柵	aadt
 柶	sidc
@@ -15337,8 +15337,8 @@ use_preset_vocabulary: true
 査	eadm
 査	aadm
 柼	ykdc
-柽	egdg	0%
-柽	jmdg	100%
+柽	egdg
+柽	jmdg
 柾	jrdm
 柿	vidb
 栀	aidu
@@ -15355,7 +15355,7 @@ use_preset_vocabulary: true
 栋	dsdd
 栌	luds
 栍	vgdm
-栎	lidd	18.92%
+栎	lidd
 栏	ljdm
 栐	ysde
 树	vudi
@@ -15365,8 +15365,8 @@ use_preset_vocabulary: true
 栔	qiqd
 栕	efdl
 栕	afdl
-栖	qidw	64.80%
-栖	xidw	35.20%
+栖	qidw
+栖	xidw
 栗	limd
 栘	eidn
 栘	yidn
@@ -15379,8 +15379,8 @@ use_preset_vocabulary: true
 栟	bydt
 栟	pydt
 栠	rfod
-校	jzdk	25%
-校	xzdk	100%
+校	jzdk
+校	xzdk
 栢	blda
 栢	boda
 栣	rfdg
@@ -15408,8 +15408,8 @@ use_preset_vocabulary: true
 栵	lidn
 栶	ycdk
 样	yhdq
-核	hedo	99.92%
-核	hudo	0.08%
+核	hedo
+核	hudo
 根	gfdv
 栺	yida
 栺	aida
@@ -15441,8 +15441,8 @@ use_preset_vocabulary: true
 桑	shed
 桒	shjd
 桓	hpdm
-桔	jxdr	14.68%
-桔	judr	85.32%
+桔	jxdr
+桔	judr
 桕	gkdx
 桕	jrdx
 桖	xmdt
@@ -15522,8 +15522,8 @@ use_preset_vocabulary: true
 梛	nodl
 梜	jddo
 梜	jxdo
-條	diod	0%
-條	tzod	100%
+條	diod
+條	tzod
 梞	jidp
 梟	xzhd
 梠	lvdr
@@ -15579,8 +15579,8 @@ use_preset_vocabulary: true
 棉	mwdb
 棊	jitd
 棊	qitd
-棋	jidc	0%
-棋	qidc	100%
+棋	jidc
+棋	qidc
 棌	cldd
 棍	gndp
 棎	ejdd
@@ -15595,8 +15595,8 @@ use_preset_vocabulary: true
 棕	zsdf
 棖	egdv
 棗	zkdb
-棘	jidb	100%
-棘	ladb	0%
+棘	jidb
+棘	ladb
 棙	lidk
 棚	pgdb
 棛	yudb
@@ -15628,8 +15628,8 @@ use_preset_vocabulary: true
 棯	rfdp
 棰	emdm
 棱	lgde
-棲	qidv	64.80%
-棲	xidv	35.20%
+棲	qidv
+棲	xidv
 棳	aode
 棴	fude
 棵	kedd
@@ -15661,14 +15661,14 @@ use_preset_vocabulary: true
 椋	ltdf
 椌	qtdm
 植	aidm
-椎	emdg	2.37%
-椎	amdg	97.63%
+椎	emdg
+椎	amdg
 椏	yadm
 椐	judr
 椑	bqdj
 椑	pidj
-椒	jzde	100%
-椒	vude	0%
+椒	jzde
+椒	vude
 椓	aodo
 椔	zidw
 椕	bcdd
@@ -15712,8 +15712,8 @@ use_preset_vocabulary: true
 楀	yudb
 楁	hedr
 楁	kedr
-楂	eadm	50%
-楂	aadm	50%
+楂	eadm
+楂	aadm
 楃	wodg
 楄	bwdb
 楄	pwdb
@@ -15766,8 +15766,8 @@ use_preset_vocabulary: true
 楫	jidj
 楬	jxdv
 楬	qddv
-業	nxtd	0%
-業	yetd	100%
+業	nxtd
+業	yetd
 楮	euda
 楯	dndu
 楯	vndu
@@ -15779,8 +15779,8 @@ use_preset_vocabulary: true
 楴	didb
 極	jidm
 楶	jxid
-楷	jxda	0.44%
-楷	klda	99.56%
+楷	jxda
+楷	klda
 楸	qrdf
 楹	yydt
 楺	rbdd
@@ -15792,8 +15792,8 @@ use_preset_vocabulary: true
 楽	ykid
 楽	ymid
 榀	pcdr
-概	gldu	100%
-概	kldu	0%
+概	gldu
+概	kldu
 榃	lcdw
 榃	tjdw
 榄	ljdu
@@ -15821,8 +15821,8 @@ use_preset_vocabulary: true
 榙	tadr
 榚	ykdf
 榛	afdd
-榜	bhds	50%
-榜	pgds	50%
+榜	bhds
+榜	pgds
 榝	vade
 榞	ypdf
 榟	zidj
@@ -15874,8 +15874,8 @@ use_preset_vocabulary: true
 槊	votd
 構	gbdb
 槌	emdr
-槍	egdr	0%
-槍	qtdr	100%
+槍	egdr
+槍	qtdr
 槎	eadm
 槏	jwdc
 槏	qwdc
@@ -15891,10 +15891,10 @@ use_preset_vocabulary: true
 様	yhde
 槙	dwdc
 槚	jddo
-槛	jwdt	27.27%
-槛	kjdt	72.73%
+槛	jwdt
+槛	kjdt
 槜	zmds
-槟	bydc	34.21%
+槟	bydc
 槠	auda
 槡	shdd
 槢	xida
@@ -15940,10 +15940,10 @@ use_preset_vocabulary: true
 槿	jcdm
 樀	didb
 樁	atdx
-樂	lkvd	0%
-樂	levd	95%
-樂	ykvd	0%
-樂	ymvd	5%
+樂	lkvd
+樂	levd
+樂	ykvd
+樂	ymvd
 樃	lhdb
 樄	efdw
 樅	csdo
@@ -15953,8 +15953,8 @@ use_preset_vocabulary: true
 樈	jydu
 樈	qydu
 樉	vtdk
-樊	fjdk	100%
-樊	pjdk	0%
+樊	fjdk
+樊	pjdk
 樋	tsdb
 樌	gpdc
 樍	jidc
@@ -15984,12 +15984,12 @@ use_preset_vocabulary: true
 樟	ahdj
 樠	mjdb
 樠	mfdb
-模	modk	98.71%
-模	mudk	1.29%
+模	modk
+模	mudk
 樢	mudf
 樢	nzdf
-樣	xtde	0%
-樣	yhde	100%
+樣	xtde
+樣	yhde
 樤	didd
 樤	tzdd
 樥	pgdj
@@ -16051,8 +16051,8 @@ use_preset_vocabulary: true
 橖	thdd
 橗	mgdb
 橘	judb
-橙	efdt	0%
-橙	egdt	100%
+橙	efdt
+橙	egdt
 橚	sudx
 橚	xzdx
 橛	jmdo
@@ -16151,8 +16151,8 @@ use_preset_vocabulary: true
 檱	jidc
 檱	qidc
 檲	tpdi
-檳	bcdc	65.79%
-檳	bydc	34.21%
+檳	bcdc
+檳	bydc
 檴	hode
 檵	jidi
 檵	qidi
@@ -16163,8 +16163,8 @@ use_preset_vocabulary: true
 檹	yidr
 檺	gkdo
 檺	hkdo
-檻	jwdt	27.27%
-檻	kjdt	72.73%
+檻	jwdt
+檻	kjdt
 檼	ycdp
 檽	ordb
 檽	rudb
@@ -16205,7 +16205,7 @@ use_preset_vocabulary: true
 櫘	hmdp
 櫙	obdr
 櫚	lvdr
-櫛	jxdl	0%
+櫛	jxdl
 櫛	aidl
 櫜	gkjd
 櫝	dudc
@@ -16276,11 +16276,11 @@ use_preset_vocabulary: true
 欝	yudi
 欞	lydo
 欠	qwno
-次	ciio	100%
-次	ziio	0%
+次	ciio
+次	ziio
 欢	hpeo
 欣	xcho
-欤	yuxo
+欤	yuyo
 欥	qwao
 欥	yuao
 欦	hjoo
@@ -16303,14 +16303,14 @@ use_preset_vocabulary: true
 欱	heoo
 欱	xdoo
 欲	yuco
-欳	kcxo
-欳	yuxo
+欳	kcyo
+欳	yuyo
 欴	lhho
 欵	kppo
 欶	vodo
 欶	sbdo
 欷	xiko
-欸	olio	50%
+欸	olio
 欸	oqio
 欹	yiko
 欺	qito
@@ -16355,8 +16355,8 @@ use_preset_vocabulary: true
 歘	hufo
 歘	xufo
 歘	yjfo
-歙	veoo	78.26%
-歙	xioo	21.74%
+歙	veoo
+歙	xioo
 歚	vjto
 歛	lwoo
 歜	euwo
@@ -16373,8 +16373,8 @@ use_preset_vocabulary: true
 步	buyh
 武	wumm
 歧	qiye
-歨	buxm
-歩	buxh
+歨	buyo
+歩	buyh
 歪	wlmm
 歫	juys
 歬	qwyy
@@ -16389,10 +16389,10 @@ use_preset_vocabulary: true
 歵	zeyc
 歶	yuyb
 歷	limm
-歸	gmhb	100%
-歸	kmhb	0%
-歹	dlmi	100%
-歹	oemi	0%
+歸	gmhb
+歸	kmhb
+歹	dlmi
+歹	oemi
 歺	dlyi
 歺	oeyi
 死	simp
@@ -16427,8 +16427,8 @@ use_preset_vocabulary: true
 殓	lwmm
 殔	yime
 殕	fbmr
-殖	vimm	14.94%
-殖	aimm	85.06%
+殖	vimm
+殖	aimm
 殗	yjmu
 殗	yemu
 殘	cjmi
@@ -16439,7 +16439,7 @@ use_preset_vocabulary: true
 殜	yemd
 殝	afmd
 殞	ynmc
-殟	wamt	0%
+殟	wamt
 殟	wfmt
 殟	wumt
 殠	ebmk
@@ -16468,20 +16468,20 @@ use_preset_vocabulary: true
 殴	quse
 段	dphe
 殶	auye
-殷	yjhe	30%
+殷	yjhe
 殷	yche
 殸	kgge
 殸	qyge
 殸	vgge
 殹	yise
-殺	vake	100%
-殺	vlke	0%
+殺	vake
+殺	vlke
 殻	kege
 殻	qzge
 殻	qmge
-殼	kege	97.56%
-殼	qzge	2.44%
-殼	qmge	2.44%
+殼	kege
+殼	qzge
+殼	qmge
 殽	ykke
 殾	xnje
 殿	dwse
@@ -16492,8 +16492,8 @@ use_preset_vocabulary: true
 毃	qmye
 毄	jije
 毅	yiye
-毆	obse	100%
-毆	quse	0%
+毆	obse
+毆	quse
 毇	hmhe
 毈	dphe
 毉	yiso
@@ -16508,8 +16508,8 @@ use_preset_vocabulary: true
 毑	jxwd
 毒	duqj
 毓	yuou
-比	bipp	100%
-比	pipp	0%
+比	bipp
+比	pipp
 毕	bipj
 毖	biph
 毗	biwp
@@ -16536,7 +16536,7 @@ use_preset_vocabulary: true
 毨	xwhu
 毩	juhd
 毪	muhq
-毫	hkxu
+毫	hkyu
 毬	qrhe
 毭	dbmu
 毮	vaqu
@@ -16571,8 +16571,8 @@ use_preset_vocabulary: true
 氅	ehfu
 氆	puha
 氇	luha
-氈	tjyu	0%
-氈	ajyu	100%
+氈	tjyu
+氈	ajyu
 氉	skru
 氉	zkru
 氊	tjhm
@@ -16582,14 +16582,14 @@ use_preset_vocabulary: true
 氍	qubu
 氍	tjbu
 氎	dxwu
-氏	vihp	99.88%
-氏	aihp	0.12%
+氏	vihp
+氏	aihp
 氐	dihm
 氐	aihm
 民	mcrp
 氒	jmhj
-氓	mhyp	93.15%
-氓	mgyp	6.85%
+氓	mhyp
+氓	mgyp
 气	qion
 氕	pxol
 氖	nlos
@@ -16624,7 +16624,7 @@ use_preset_vocabulary: true
 氲	ynot
 氳	ynot
 水	vmee
-氵	vmim	81.48%
+氵	vmim
 氶	egne
 氶	agne
 氷	byie
@@ -16650,8 +16650,8 @@ use_preset_vocabulary: true
 汆	tnoe
 汇	hmes
 汈	dzem
-汉	hjee	0%
-汉	nvee	100%
+汉	hjee
+汉	nvee
 汊	eaei
 汋	aoei
 汌	epel
@@ -16673,18 +16673,18 @@ use_preset_vocabulary: true
 汚	waes
 汚	wues
 汚	yues
-汛	fjej	0%
-汛	xnej	100%
+汛	fjej
+汛	xnej
 汜	sieu
 汝	ruev
-汞	gsme	100%
-汞	hsme	0%
+汞	gsme
+汞	hsme
 江	jtem
 池	eied
-污	wues	100%
-污	yues	0%
-汤	vheh	0.06%
-汤	theh	99.94%
+污	wues
+污	yues
+汤	vheh
+汤	theh
 汥	aiee
 汦	eiep
 汦	diep
@@ -16712,8 +16712,8 @@ use_preset_vocabulary: true
 汵	cfen
 汵	gjen
 汵	hjen
-汶	mfek	0%
-汶	wfek	100%
+汶	mfek
+汶	wfek
 汷	asee
 汸	fhes
 汸	phes
@@ -16726,40 +16726,40 @@ use_preset_vocabulary: true
 汾	ffeh
 汿	xuen
 沀	xuen
-沁	qcep	100%
-沁	vfep	0%
-沂	jcel	0%
-沂	qiel	0%
-沂	yiel	100%
-沂	ycel	0%
-沃	woek	100%
-沃	wuek	0%
+沁	qcep
+沁	vfep
+沂	jcel
+沂	qiel
+沂	yiel
+沂	ycel
+沃	woek
+沃	wuek
 沄	ynei
 沅	ypeu
 沆	hhen
 沆	khen
 沇	yjeu
 沇	yneu
-沈	efeu	0.01%
-沈	vfeu	99.99%
+沈	efeu
+沈	vfeu
 沉	efen
 沊	djle
 沋	ybeu
-沌	dneu	100%
-沌	apeu	0%
+沌	dneu
+沌	apeu
 沍	huem
 沎	hdep
 沎	hoep
-沏	qieh	100%
-沏	qxeh	0%
-沏	queh	0%
+沏	qieh
+沏	qxeh
+沏	queh
 沐	mued
 沑	nreg
 沑	nveg
-沒	mqee	99.89%
-沒	moee	0.11%
-沓	mzea	23.44%
-沓	taea	76.56%
+沒	mqee
+沒	moee
+沓	mzea
+沓	taea
 沔	mwes
 沕	wueh
 沖	esel
@@ -16774,8 +16774,8 @@ use_preset_vocabulary: true
 沞	zaeb
 沟	gbei
 沠	lreo
-没	mqee	99.89%
-没	moee	0.11%
+没	mqee
+没	moee
 沢	zeeo
 沣	fgej
 沤	obek
@@ -16809,8 +16809,8 @@ use_preset_vocabulary: true
 沸	fuen
 油	ybew
 沺	twew
-治	eier	0%
-治	aier	100%
+治	eier
+治	aier
 沼	aker
 沽	guer
 沾	ajer
@@ -16827,11 +16827,11 @@ use_preset_vocabulary: true
 泇	jder
 泈	asem
 泉	qphe
-泊	boea	87.40%
-泊	poea	12.60%
+泊	boea
+泊	poea
 泋	hmet
-泌	bieh	0%
-泌	mieh	100%
+泌	bieh
+泌	mieh
 泍	bfem
 泎	jzes
 泎	aoes
@@ -16851,20 +16851,20 @@ use_preset_vocabulary: true
 泙	pgej
 泙	pyej
 泚	ciep
-泛	fjeo	100%
-泛	fgeo	0%
+泛	fjeo
+泛	fgeo
 泜	eiem
 泜	aiem
 泝	suey
 泞	euen
-泞	nyen	0%
+泞	nyen
 泞	auen
 泟	egem
 泠	lgei
 泠	lyei
 泡	pkeu
-波	boee	99%
-波	poee	1%
+波	boee
+波	poee
 泣	qiet
 泤	sieo
 泥	niep
@@ -16888,11 +16888,11 @@ use_preset_vocabulary: true
 泵	bhme
 泵	bgme
 泶	xmfe
-泷	lsep	87.27%
-泷	vtep	12.73%
+泷	lsep
+泷	vtep
 泸	lues
 泹	djem
-泺	loed	50%
+泺	loed
 泻	xxem
 泼	poee
 泽	zeeq
@@ -16900,7 +16900,7 @@ use_preset_vocabulary: true
 泿	ycev
 洀	abey
 洁	jier
-洁	jxer	0%
+洁	jxer
 洂	yeec
 洂	yiec
 洃	hmef
@@ -16929,8 +16929,8 @@ use_preset_vocabulary: true
 洔	aiei
 洕	yceb
 洖	wuek
-洗	xieu	99.94%
-洗	xweu	0.06%
+洗	xieu
+洗	xweu
 洘	kkes
 洙	vued
 洙	aued
@@ -16938,8 +16938,8 @@ use_preset_vocabulary: true
 洛	loer
 洜	lohe
 洝	ojev
-洞	dser	100%
-洞	tser	0%
+洞	dser
+洞	tser
 洟	yien
 洠	mbeq
 洡	lqed
@@ -16979,8 +16979,8 @@ use_preset_vocabulary: true
 活	hoer
 洼	gmeg
 洼	waeg
-洽	qder	100%
-洽	xder	0%
+洽	qder
+洽	xder
 派	plev
 洿	wues
 浀	quew
@@ -16988,8 +16988,8 @@ use_preset_vocabulary: true
 浂	yiek
 浃	jdet
 浄	jyed
-浅	jwej	0.24%
-浅	qwej	99.76%
+浅	jwej
+浅	qwej
 浆	jtle
 浇	jzeu
 浈	afeo
@@ -17002,7 +17002,7 @@ use_preset_vocabulary: true
 浏	lren
 浐	ejeh
 浑	hneq
-浒	huej	80%
+浒	huej
 浓	nsev
 浔	xnei
 浕	jcey
@@ -17010,8 +17010,8 @@ use_preset_vocabulary: true
 浗	qree
 浘	wqeu
 浙	aeel
-浚	jnee	80%
-浚	xnee	20%
+浚	jnee
+浚	xnee
 浛	hjer
 浜	bhec
 浜	bcec
@@ -17035,8 +17035,8 @@ use_preset_vocabulary: true
 浫	hjej
 浬	lieg
 浭	ggek
-浮	fbed	0%
-浮	fued	100%
+浮	fbed
+浮	fued
 浯	wuer
 浰	lien
 浱	enev
@@ -17072,7 +17072,7 @@ use_preset_vocabulary: true
 涉	veeh
 涊	nwep
 涋	tuek
-涌	eseb	0%
+涌	eseb
 涌	yseb
 涍	xzed
 涎	xwem
@@ -17096,8 +17096,8 @@ use_preset_vocabulary: true
 涞	llet
 涟	lweq
 涠	wqes
-涡	goeb	5.26%
-涡	woeb	94.74%
+涡	goeb
+涡	woeb
 涢	yneo
 涣	hpek
 涤	died
@@ -17141,7 +17141,7 @@ use_preset_vocabulary: true
 淄	ziew
 淅	xiel
 淆	xzeb
-淆	ykeb	5%
+淆	ykeb
 淇	qiec
 淈	gueu
 淈	queu
@@ -17200,13 +17200,13 @@ use_preset_vocabulary: true
 淴	huep
 淵	ypel
 淶	lleo
-混	gnep	0%
-混	hnep	100%
-混	knep	0%
+混	gnep
+混	hnep
+混	knep
 淸	qyeb
 淹	yjeu
-淺	jwei	0.24%
-淺	qwei	99.76%
+淺	jwei
+淺	qwei
 添	twep
 淼	mzee
 淽	aiem
@@ -17232,7 +17232,7 @@ use_preset_vocabulary: true
 渍	zieo
 渎	duek
 渐	jwel
-渑	vgeu	50%
+渑	vgeu
 渒	piej
 渓	qieo
 渔	yuem
@@ -17247,15 +17247,15 @@ use_preset_vocabulary: true
 渝	yuen
 渞	qreu
 渟	tyen
-渠	jued	0%
-渠	qued	100%
+渠	jued
+渠	qued
 渡	duee
 渢	fgei
 渣	aaem
 渤	boes
 渥	woeg
-渦	goer	5.26%
-渦	woer	94.74%
+渦	goer
+渦	woer
 渧	dieb
 渨	wqev
 温	wfet
@@ -17271,9 +17271,9 @@ use_preset_vocabulary: true
 渱	hsem
 渲	xpem
 渳	miej
-渴	heev	0%
-渴	jxev	0%
-渴	keev	100%
+渴	heev
+渴	jxev
+渴	keev
 渵	mkew
 渶	yyek
 渷	yjeu
@@ -17284,8 +17284,8 @@ use_preset_vocabulary: true
 渻	xyeu
 渼	mqek
 渽	zler
-渾	gnej	0%
-渾	hnej	100%
+渾	gnej
+渾	hnej
 渿	nlef
 湀	gmek
 湀	kmek
@@ -17322,8 +17322,8 @@ use_preset_vocabulary: true
 湘	xteu
 湙	yiek
 湚	yceu
-湛	djev	0%
-湛	ajev	100%
+湛	djev
+湛	ajev
 湜	vieo
 湝	glea
 湝	jxea
@@ -17350,10 +17350,10 @@ use_preset_vocabulary: true
 湬	jzhe
 湬	jrhe
 湭	qrew
-湮	yjeg	83.78%
-湮	yceg	16.22%
-湯	vheh	0.06%
-湯	theh	99.94%
+湮	yjeg
+湮	yceg
+湯	vheh
+湯	theh
 湰	lsem
 湱	hoer
 湲	ypee
@@ -17373,7 +17373,7 @@ use_preset_vocabulary: true
 湿	viec
 満	mjeb
 溁	yyed
-溃	kmeo	94.21%
+溃	kmeo
 溅	jwej
 溆	xuee
 溇	lbev
@@ -17416,8 +17416,8 @@ use_preset_vocabulary: true
 溧	lied
 溨	cled
 溩	wuef
-溪	qiek	0%
-溪	xiek	100%
+溪	qiek
+溪	xiek
 溫	wfet
 溬	qtei
 溭	zeee
@@ -17436,8 +17436,8 @@ use_preset_vocabulary: true
 溷	hneo
 溸	suef
 溹	suef
-溺	nieh	95%
-溺	nzeh	5%
+溺	nieh
+溺	nzeh
 溻	taem
 溼	vieg
 溽	ruei
@@ -17460,15 +17460,15 @@ use_preset_vocabulary: true
 滊	qied
 滊	xied
 滋	ziei
-滌	died	100%
-滌	tzed	0%
+滌	died
+滌	tzed
 滍	aiei
-滎	xyfe	46.15%
-滎	yyfe	53.85%
+滎	xyfe
+滎	yyfe
 滏	fuec
 滐	jxed
-滑	gueb	0%
-滑	hdeb	100%
+滑	gueb
+滑	hdeb
 滒	geer
 滒	heer
 滓	zlej
@@ -17511,8 +17511,8 @@ use_preset_vocabulary: true
 滵	mieu
 滶	okek
 滷	luei
-滸	huej	80%
-滸	xuej	20%
+滸	huej
+滸	xuej
 滹	hued
 滺	ybep
 滻	ejem
@@ -17527,8 +17527,8 @@ use_preset_vocabulary: true
 漄	yaeg
 漅	eked
 漅	jzed
-漆	qiee	99%
-漆	quee	1%
+漆	qiee
+漆	quee
 漇	xieo
 漈	jief
 漉	luep
@@ -17544,8 +17544,8 @@ use_preset_vocabulary: true
 漒	qtei
 漓	lieb
 演	yjec
-漕	ckea	100%
-漕	zkea	0%
+漕	ckea
+漕	zkea
 漖	jzek
 漗	csep
 漘	eneb
@@ -17644,8 +17644,8 @@ use_preset_vocabulary: true
 潣	mcek
 潤	rneg
 潥	sued
-潦	lkef	12.50%
-潦	lzef	87.50%
+潦	lkef
+潦	lzef
 潧	zgea
 潧	afea
 潨	cseo
@@ -17659,8 +17659,8 @@ use_preset_vocabulary: true
 潭	tjej
 潮	ekeb
 潯	xnei
-潰	hmec	5.79%
-潰	kmec	94.21%
+潰	hmec
+潰	kmec
 潱	ycet
 潲	vkeb
 潳	tuea
@@ -17681,8 +17681,8 @@ use_preset_vocabulary: true
 澂	egek
 澂	agek
 澃	jshe
-澄	eget	94.06%
-澄	dget	5.94%
+澄	eget
+澄	dget
 澅	hdem
 澆	jzeu
 澇	lkes
@@ -17735,8 +17735,8 @@ use_preset_vocabulary: true
 澰	lweo
 澱	dwee
 澲	yeed
-澳	okek	100%
-澳	yuek	0%
+澳	okek
+澳	yuek
 澴	hpev
 澵	qcel
 澵	afel
@@ -17745,8 +17745,8 @@ use_preset_vocabulary: true
 澶	djem
 澷	mjes
 澸	djep
-澹	djer	50%
-澹	tjer	50%
+澹	djer
+澹	tjer
 澺	yiep
 澻	smeo
 澼	piej
@@ -17779,8 +17779,8 @@ use_preset_vocabulary: true
 濒	bceo
 濓	lwec
 濔	mieb
-濕	vief	100%
-濕	xief	0%
+濕	vief
+濕	xief
 濖	vuea
 濗	mieb
 濘	ngen
@@ -17818,8 +17818,8 @@ use_preset_vocabulary: true
 濯	akeg
 濯	aoeg
 濰	wqeg
-濱	bcec	100%
-濱	pcec	0%
+濱	bcec
+濱	pcec
 濲	guee
 濳	qwea
 濴	rsee
@@ -17857,8 +17857,8 @@ use_preset_vocabulary: true
 瀏	lren
 瀐	jwem
 瀐	qwem
-瀑	bkee	2.02%
-瀑	puee	97.98%
+瀑	bkee
+瀑	puee
 瀒	seew
 瀓	egek
 瀓	agek
@@ -17884,8 +17884,8 @@ use_preset_vocabulary: true
 瀥	gkeb
 瀥	hkeb
 瀦	auea
-瀧	lsep	87.27%
-瀧	vtep	12.73%
+瀧	lsep
+瀧	vtep
 瀨	llec
 瀩	dmec
 瀪	fjoe
@@ -17963,8 +17963,8 @@ use_preset_vocabulary: true
 灬	hohf
 灭	mxmf
 灮	gtfu
-灯	dgfn	1%
-灯	dyfn	99%
+灯	dgfn
+灯	dyfn
 灰	hmkf
 灱	dkfh
 灱	qxfh
@@ -17978,8 +17978,8 @@ use_preset_vocabulary: true
 灵	lysf
 灶	zkfg
 灷	apft
-灸	jrnf	100%
-灸	ainf	0%
+灸	jrnf
+灸	ainf
 灹	aafp
 灺	dofd
 灺	tafd
@@ -17995,8 +17995,8 @@ use_preset_vocabulary: true
 炂	asfi
 炃	ffcf
 炄	nrfg
-炅	gmaf	50%
-炅	jsaf	50%
+炅	gmaf
+炅	jsaf
 炆	wffk
 炇	pufk
 炈	yife
@@ -18022,8 +18022,8 @@ use_preset_vocabulary: true
 炖	anfu
 炗	gttf
 炘	xcfl
-炙	jrbf	0%
-炙	aibf	100%
+炙	jrbf
+炙	aibf
 炚	ggaf
 炚	gtaf
 炚	hoaf
@@ -18053,12 +18053,12 @@ use_preset_vocabulary: true
 炩	lyfi
 炪	eufu
 炪	aofu
-炫	xwfi	0%
-炫	xpfi	100%
+炫	xwfi
+炫	xpfi
 炬	jufs
 炭	tjuf
-炮	bkfu	0.08%
-炮	pkfu	99.92%
+炮	bkfu
+炮	pkfu
 炯	jsfr
 炰	pkpf
 炱	dlif
@@ -18072,7 +18072,7 @@ use_preset_vocabulary: true
 炶	vjfr
 炷	aufg
 炸	aafs
-点	dwxf
+点	dwyf
 為	wqif
 炻	vifr
 炼	lwfc
@@ -18175,8 +18175,8 @@ use_preset_vocabulary: true
 焉	yjmf
 焊	hjfj
 焋	atvf
-焌	jnfe	50%
-焌	qufe	50%
+焌	jnfe
+焌	qufe
 焌	znfe
 焍	difh
 焍	tifh
@@ -18192,9 +18192,9 @@ use_preset_vocabulary: true
 焕	hpfk
 焖	mffp
 焗	jufr
-焘	dkqf	6.25%
-焙	bqfr	100%
-焙	pqfr	0%
+焘	dkqf
+焙	bqfr
+焙	pqfr
 焚	ffdf
 焛	lcaf
 焜	knfp
@@ -18203,8 +18203,8 @@ use_preset_vocabulary: true
 焞	tnfd
 焟	xifa
 焠	cmfj
-無	moof	0%
-無	wuof	100%
+無	moof
+無	wuof
 焢	hsfm
 焢	ksfm
 焣	jusf
@@ -18270,7 +18270,7 @@ use_preset_vocabulary: true
 煔	twfr
 煕	xisf
 煖	npfe
-煖	xpfe	0.10%
+煖	xpfe
 煗	npfk
 煗	xpfk
 煘	ejfr
@@ -18348,16 +18348,16 @@ use_preset_vocabulary: true
 熕	gsfc
 熗	qtfr
 熘	lrfw
-熙	xisf	100%
-熙	yisf	0%
+熙	xisf
+熙	yisf
 熚	bifj
 熛	bzff
 熜	csfp
 熜	zsfp
 熝	lufp
 熞	jwfg
-熟	vbyf	12.20%
-熟	vuyf	87.80%
+熟	vbyf
+熟	vuyf
 熠	yifa
 熡	lbfv
 熢	fgfj
@@ -18367,8 +18367,8 @@ use_preset_vocabulary: true
 熥	tsfb
 熦	jmfg
 熧	zshf
-熨	yusf	50%
-熨	ynsf	50%
+熨	yusf
+熨	ynsf
 熩	hufu
 熪	yifn
 熫	jrff
@@ -18384,8 +18384,8 @@ use_preset_vocabulary: true
 熲	jspc
 熲	yypc
 熳	mjfe
-熵	difb	0%
-熵	vhfb	100%
+熵	difb
+熵	vhfb
 熶	cpfe
 熷	zgfa
 熸	jwfa
@@ -18396,8 +18396,8 @@ use_preset_vocabulary: true
 熼	yifc
 熽	sufx
 熽	xzfx
-熾	eifa	100%
-熾	aifa	0%
+熾	eifa
+熾	aifa
 熿	htfc
 燀	ejfj
 燁	yefj
@@ -18406,8 +18406,8 @@ use_preset_vocabulary: true
 燂	xnfj
 燃	rjff
 燄	yjhf
-燅	xwgf	0%
-燅	xngf	100%
+燅	xwgf
+燅	xngf
 燆	jzfb
 燆	qzfb
 燇	znfi
@@ -18484,8 +18484,8 @@ use_preset_vocabulary: true
 爄	lifb
 爄	lxfb
 爅	mofg
-爆	bkfe	100%
-爆	bofe	0%
+爆	bkfe
+爆	bofe
 爇	retf
 爇	rotf
 爈	lvfp
@@ -18526,8 +18526,8 @@ use_preset_vocabulary: true
 爧	lyfo
 爨	cphf
 爩	yufh
-爪	akho	3.68%
-爪	adho	96.32%
+爪	akho
+爪	adho
 爫	akhf
 爫	adhf
 爬	pahu
@@ -18538,12 +18538,12 @@ use_preset_vocabulary: true
 爱	olbe
 爲	wqbf
 爴	jmwo
-爵	jmbi	100%
-爵	qmbi	0%
+爵	jmbi
+爵	qmbi
 父	fuck
 爷	yecl
-爸	bacu	100%
-爸	bqcu	0%
+爸	bacu
+爸	bqcu
 爹	dxcn
 爺	yecl
 爻	xzkk
@@ -18587,12 +18587,12 @@ use_preset_vocabulary: true
 牞	jrhs
 牞	lehs
 牞	lihs
-牟	mbiq	74.56%
-牟	muiq	25.44%
+牟	mbiq
+牟	muiq
 牠	tahd
 牠	tohd
-牡	mbhg	0%
-牡	muhg	100%
+牡	mbhg
+牡	muhg
 牢	lkjq
 牣	rfhh
 牤	mhhv
@@ -18600,8 +18600,8 @@ use_preset_vocabulary: true
 牦	mkhu
 牧	muhk
 牨	efhn
-物	wuhh	100%
-物	aihh	0%
+物	wuhh
+物	aihh
 牪	yjhq
 牫	gehi
 牬	bqhh
@@ -18803,10 +18803,10 @@ use_preset_vocabulary: true
 猋	bzik
 猌	ycdk
 猍	liko
-猎	jika	30%
-猎	lxka	0%
-猎	qmka	35%
-猎	xika	35%
+猎	jika
+猎	lxka
+猎	qmka
+猎	xika
 猏	jwkb
 猐	qtku
 猑	knkp
@@ -18927,8 +18927,8 @@ use_preset_vocabulary: true
 獯	xnkf
 獰	nykn
 獱	bwkc
-獲	hcke	0%
-獲	hoke	100%
+獲	hcke
+獲	hoke
 獳	nbkb
 獴	mgko
 獵	lxkv
@@ -18948,20 +18948,20 @@ use_preset_vocabulary: true
 玁	yjkk
 玂	qikl
 玃	jmke
-玄	xwyi	0%
-玄	xpyi	100%
+玄	xwyi
+玄	xpyi
 玅	mzyh
 玅	xpyh
 玆	ziyi
-率	lvyj	94.01%
-率	vcyj	5.99%
-率	voyj	0%
+率	lvyj
+率	vcyj
+率	voyj
 玈	luyv
 玉	yumi
 玊	sumi
 玊	xrmi
-王	whmg	100%
-王	yumg	0%
+王	whmg
+王	yumg
 玌	bamu
 玍	gaog
 玎	dymn
@@ -18986,8 +18986,8 @@ use_preset_vocabulary: true
 玜	gsmi
 玝	wumj
 玞	fumo
-玟	mcmk	24.68%
-玟	wfmk	75.32%
+玟	mcmk
+玟	wfmk
 玠	jxml
 玡	yamh
 玢	bcmh
@@ -19044,8 +19044,8 @@ use_preset_vocabulary: true
 珌	bimh
 珍	afmh
 珎	afmf
-珏	jmmi	100%
-珏	yumi	0%
+珏	jmmi
+珏	yumi
 珐	fami
 珑	lsmp
 珒	jcmq
@@ -19208,8 +19208,8 @@ use_preset_vocabulary: true
 瑒	yhmh
 瑓	lwmf
 瑔	qpme
-瑕	jdme	0%
-瑕	xdme	100%
+瑕	jdme
+瑕	xdme
 瑖	dpme
 瑗	ypme
 瑘	yeml
@@ -19437,8 +19437,8 @@ use_preset_vocabulary: true
 甔	djnn
 甕	wgyn
 甖	yybn
-甗	xwxv
-甗	yjxv
+甗	xwyn
+甗	yjyn
 甘	gjtm
 甙	dlim
 甚	vftv
@@ -19476,8 +19476,8 @@ use_preset_vocabulary: true
 男	njws
 甸	dwpw
 甹	pyls
-町	dywn	89.87%
-町	tywn	10.13%
+町	dywn
+町	tywn
 画	hdmw
 甼	tywn
 甽	jnwl
@@ -19509,21 +19509,21 @@ use_preset_vocabulary: true
 畐	fumw
 畑	twfw
 畒	muyo
-畔	bjwq	0%
-畔	pjwq	100%
+畔	bjwq
+畔	pjwq
 畕	jtww
 畖	wawo
 畗	fuyw
 畘	njwb
-留	dahw	0%
-留	lrhw	100%
+留	dahw
+留	lrhw
 畚	bfiw
 畚	boiw
 畛	afwh
-畜	euyw	81.28%
-畜	xuyw	18.72%
-畝	mbyo	0%
-畝	muyo	100%
+畜	euyw
+畜	xuyw
+畝	mbyo
+畝	muyo
 畞	mbjo
 畞	mujo
 畟	cewe
@@ -19542,9 +19542,9 @@ use_preset_vocabulary: true
 畨	fjfw
 畨	pjfw
 畨	pofw
-番	fjhw	89.71%
-番	pjhw	10.29%
-番	pohw	0%
+番	fjhw
+番	pjhw
+番	pohw
 畫	hdlm
 畬	veow
 畬	yuow
@@ -19586,18 +19586,18 @@ use_preset_vocabulary: true
 疈	pimw
 疉	dawm
 疉	dxwm
-疊	dawm	1%
+疊	dawm
 疊	dxwm
-疋	pino	30.77%
-疋	vuno	59.23%
-疋	yano	0%
+疋	pino
+疋	vuno
+疋	yano
 疌	jxjo
 疌	nxjo
 疍	djnm
 疎	vunl
 疎	sunl
-疏	vunu	100%
-疏	sunu	0%
+疏	vunu
+疏	sunu
 疐	tijo
 疐	aijo
 疑	yipo
@@ -19617,8 +19617,8 @@ use_preset_vocabulary: true
 疜	xdky
 疝	vjku
 疞	atks
-疟	nmkm	92.31%
-疟	ykkm	7.69%
+疟	nmkm
+疟	ykkm
 疠	liks
 疡	yhkh
 疢	efkf
@@ -19651,8 +19651,8 @@ use_preset_vocabulary: true
 疹	afkh
 疺	fako
 疻	aikc
-疼	tgkm	100%
-疼	tskm	0%
+疼	tgkm
+疼	tskm
 疽	jukm
 疽	qukm
 疾	jikk
@@ -19722,7 +19722,7 @@ use_preset_vocabulary: true
 痷	yeku
 痸	eikn
 痹	bikl
-痺	bqkj	5%
+痺	bqkj
 痺	bikj
 痻	mcka
 痼	gukr
@@ -19775,11 +19775,11 @@ use_preset_vocabulary: true
 瘣	kcki
 瘣	lqki
 瘤	lrkw
-瘥	elkm	50%
-瘥	cokm	50%
+瘥	elkm
+瘥	cokm
 瘦	vbke
-瘧	nmkm	92.31%
-瘧	ykkm	7.69%
+瘧	nmkm
+瘧	ykkm
 瘨	dwkc
 瘩	dakr
 瘪	bxkp
@@ -19876,10 +19876,10 @@ use_preset_vocabulary: true
 発	fanp
 登	dgnt
 發	fane
-白	blha	100%
-白	boha	0%
-百	blma	100%
-百	boma	0%
+白	blha
+白	boha
+百	blma
+百	boma
 癿	qxhu
 癿	aahu
 皀	bihp
@@ -19888,8 +19888,8 @@ use_preset_vocabulary: true
 皁	zkhj
 皂	zkhp
 皃	mkhu
-的	dehi	99.97%
-的	dihi	0.03%
+的	dehi
+的	dihi
 皅	bahu
 皅	pahu
 皆	jxpa
@@ -19909,8 +19909,8 @@ use_preset_vocabulary: true
 皓	hkhr
 皔	hjhj
 皕	bima
-皖	hphu	0%
-皖	wjhu	100%
+皖	hphu
+皖	wjhu
 皗	ebhr
 皘	qwhb
 皙	xida
@@ -19956,8 +19956,8 @@ use_preset_vocabulary: true
 皸	jnbe
 皹	jndj
 皺	abpe
-皻	cuxh
-皻	aaxh
+皻	cuye
+皻	aaye
 皼	guge
 皽	tjye
 皽	ajye
@@ -19986,23 +19986,23 @@ use_preset_vocabulary: true
 监	jwlt
 盒	heot
 盓	yuet
-盔	hmkt	0%
-盔	kmkt	100%
+盔	hmkt
+盔	kmkt
 盕	fjet
-盖	gltt	99.91%
-盖	gett	0.09%
+盖	gltt
+盖	gett
 盖	hett
 盗	dkit
 盘	pjht
 盙	fuit
 盚	qrit
-盛	egit	5.20%
-盛	vgit	94.80%
+盛	egit
+盛	vgit
 盜	dket
 盝	lunt
 盞	ajit
-盟	mgat	100%
-盟	myat	0%
+盟	mgat
+盟	myat
 盠	livt
 盡	jclt
 盢	xuwt
@@ -20013,16 +20013,16 @@ use_preset_vocabulary: true
 盧	luyt
 盨	xuht
 盩	abgt
-盪	dhet	100%
-盪	thet	0%
+盪	dhet
+盪	thet
 盫	ojot
 盫	kjot
 盬	gust
 盬	yjst
 盭	livt
 目	mubu
-盯	egbn	0%
-盯	dybn	100%
+盯	egbn
+盯	dybn
 盰	gjbj
 盱	xubd
 盲	mhyu
@@ -20041,12 +20041,12 @@ use_preset_vocabulary: true
 盻	xibs
 盼	pjbh
 盽	fgbj
-盾	dnhu	100%
-盾	vnhu	0%
+盾	dnhu
+盾	vnhu
 盿	mcbk
 眀	mybb
-省	vgfu	99.88%
-省	xyfu	0.12%
+省	vgfu
+省	xyfu
 眂	vibp
 眃	ynbi
 眄	mwbs
@@ -20092,10 +20092,10 @@ use_preset_vocabulary: true
 眥	ziyu
 眦	zibp
 眧	ekbr
-眨	fabo	0%
-眨	aabo	100%
-眩	xwbi	0%
-眩	xpbi	100%
+眨	fabo
+眨	aabo
+眩	xwbi
+眩	xpbi
 眪	bybb
 眫	mibq
 眬	lsbp
@@ -20121,9 +20121,9 @@ use_preset_vocabulary: true
 眾	aswo
 眿	mlbe
 眿	mobe
-着	aktu	4.25%
-着	aetu	93.74%
-着	aotu	2.02%
+着	aktu
+着	aetu
+着	aotu
 睁	agbd
 睂	mqou
 睃	jnbe
@@ -20274,12 +20274,12 @@ use_preset_vocabulary: true
 瞺	hmba
 瞺	kcba
 瞻	ajbr
-瞼	jwbo	100%
-瞼	lwbo	0%
+瞼	jwbo
+瞼	lwbo
 瞽	gugu
 瞾	akbm
-瞿	jubg	0%
-瞿	qubg	100%
+瞿	jubg
+瞿	qubg
 矀	wqbk
 矁	ebbp
 矁	qrbp
@@ -20314,8 +20314,8 @@ use_preset_vocabulary: true
 矙	kjbk
 矚	aubi
 矛	mknh
-矜	gpnn	0%
-矜	jcnn	100%
+矜	gpnn
+矜	jcnn
 矝	gpni
 矝	jcni
 矞	jmnr
@@ -20341,8 +20341,8 @@ use_preset_vocabulary: true
 矱	hooe
 矱	wooe
 矲	baop
-石	djmr	0.14%
-石	vimr	99.86%
+石	djmr
+石	vimr
 矴	dymn
 矵	qimn
 矵	qxmn
@@ -20370,14 +20370,14 @@ use_preset_vocabulary: true
 砇	mcmk
 砇	wfmk
 砈	olmu
-砉	hdqr	50%
+砉	hdqr
 砉	hoqr
-砉	xuqr	50%
+砉	xuqr
 砊	khmn
 砊	kgmn
 砋	aimm
-砌	qimh	100%
-砌	qxmh	0%
+砌	qimh
+砌	qxmh
 砍	kjmo
 砎	jxml
 砏	bcmh
@@ -20425,8 +20425,8 @@ use_preset_vocabulary: true
 砭	bwmo
 砮	nuvr
 砯	pyme
-砰	pgmj	100%
-砰	pymj	0%
+砰	pgmj
+砰	pymj
 砱	lymi
 砲	pkmu
 砳	lemr
@@ -20456,8 +20456,8 @@ use_preset_vocabulary: true
 硊	kmmu
 硊	wqmu
 硋	olmo
-硌	gemr	100%
-硌	lomr	0%
+硌	gemr
+硌	lomr
 硍	hfmv
 硍	kfmv
 硍	xwmv
@@ -20498,8 +20498,8 @@ use_preset_vocabulary: true
 硫	lrmu
 硬	yymk
 硭	mhmv
-确	jzmg	0%
-确	qmmg	100%
+确	jzmg
+确	qmmg
 硯	yjmu
 硰	coer
 硰	vaer
@@ -20520,8 +20520,8 @@ use_preset_vocabulary: true
 硾	ammm
 硿	ksmm
 碀	cgmd
-碁	jitr	0%
-碁	qitr	100%
+碁	jitr
+碁	qitr
 碂	csmf
 碂	zsmf
 碃	qymb
@@ -20541,8 +20541,8 @@ use_preset_vocabulary: true
 碋	hemr
 碌	lume
 碍	olmi
-碎	cmmj	0%
-碎	smmj	100%
+碎	cmmj
+碎	smmj
 碏	cuma
 碏	coma
 碏	qmma
@@ -20574,8 +20574,8 @@ use_preset_vocabulary: true
 碦	kemr
 碧	bimr
 碨	wqmv
-碩	vimc	0%
-碩	vomc	100%
+碩	vimc
+碩	vomc
 碪	kjmv
 碪	afmv
 碫	dpme
@@ -20605,9 +20605,9 @@ use_preset_vocabulary: true
 磂	lrmw
 磃	simn
 磄	thmr
-磅	bhms	97.96%
-磅	bgms	1%
-磅	phms	1%
+磅	bhms
+磅	bgms
+磅	phms
 磆	gumb
 磆	hdmb
 磇	pimp
@@ -20674,8 +20674,8 @@ use_preset_vocabulary: true
 磴	dgmt
 磵	jwma
 磶	ximf
-磷	lcmq	100%
-磷	lymq	0%
+磷	lcmq
+磷	lymq
 磸	dymk
 磹	dwmj
 磺	htmc
@@ -20734,8 +20734,8 @@ use_preset_vocabulary: true
 礣	mxmi
 礤	camf
 礥	xwmc
-礦	gsmc	0%
-礦	ktmc	100%
+礦	gsmc
+礦	ktmc
 礧	lqmw
 礨	lqwr
 礩	aimc
@@ -20748,7 +20748,7 @@ use_preset_vocabulary: true
 礮	pkmk
 礯	yymf
 礰	limm
-礱	lsxr
+礱	lsyr
 礲	lsmp
 礳	momr
 礴	bomi
@@ -20757,8 +20757,8 @@ use_preset_vocabulary: true
 礷	jwmt
 礸	zjmc
 礹	yjmk
-示	qimf	0%
-示	vimf	100%
+示	qimf
+示	vimf
 礻	viif
 礼	liiu
 礽	rgis
@@ -20773,8 +20773,8 @@ use_preset_vocabulary: true
 祄	xxil
 祅	ykik
 祆	xwik
-祇	qiip	100%
-祇	aiip	0%
+祇	qiip
+祇	aiip
 祈	qiil
 祉	aiim
 祊	bgis
@@ -20798,8 +20798,8 @@ use_preset_vocabulary: true
 祘	spif
 祙	mqid
 祚	zois
-祛	quii	100%
-祛	qmii	0%
+祛	quii
+祛	qmii
 祜	guir
 祜	huir
 祝	auiu
@@ -20823,8 +20823,8 @@ use_preset_vocabulary: true
 祫	jdir
 祫	xdir
 祬	aiig
-祭	jibf	100%
-祭	albf	0%
+祭	jibf
+祭	albf
 祮	gkir
 祯	afio
 祰	gkir
@@ -20854,8 +20854,8 @@ use_preset_vocabulary: true
 禂	dkir
 禃	aiim
 禄	luie
-禅	ejij	99.24%
-禅	vjij	0.76%
+禅	ejij
+禅	vjij
 禆	bqij
 禇	euia
 禈	hmij
@@ -20897,8 +20897,8 @@ use_preset_vocabulary: true
 禧	xiir
 禨	jiii
 禩	siic
-禪	ejij	99.24%
-禪	vjij	0.76%
+禪	ejij
+禪	vjij
 禫	tjij
 禬	gmia
 禬	hmia
@@ -20938,7 +20938,7 @@ use_preset_vocabulary: true
 秋	qrhf
 秌	qrfd
 种	eshl
-种	ashl	0.50%
+种	ashl
 秎	ffhh
 秏	hkhu
 秐	ynhi
@@ -20951,8 +20951,8 @@ use_preset_vocabulary: true
 秖	dihp
 秖	aihp
 秗	yuhk
-秘	bihh	0.16%
-秘	mihh	99.84%
+秘	bihh
+秘	mihh
 秙	kuhr
 秚	bjhq
 秛	pihe
@@ -20964,8 +20964,8 @@ use_preset_vocabulary: true
 秡	bahe
 秢	lyhi
 秣	mohj
-秤	eghj	100%
-秤	pyhj	0%
+秤	eghj
+秤	pyhj
 秥	nwhr
 秦	qcqd
 秧	yhhk
@@ -20977,10 +20977,10 @@ use_preset_vocabulary: true
 秭	zihh
 秮	hohr
 秮	tlhr
-积	jihc	0%
+积	jihc
 积	aihc
-称	efhf	2.48%
-称	eghf	97.52%
+称	efhf
+称	eghf
 秱	tshr
 秲	aihi
 秳	hdhr
@@ -21031,8 +21031,8 @@ use_preset_vocabulary: true
 稙	aihm
 稚	aihg
 稛	knhd
-稜	lghe	91.97%
-稜	lyhe	8.03%
+稜	lghe
+稜	lyhe
 稝	pghb
 稞	kehd
 稟	bcyd
@@ -21056,8 +21056,8 @@ use_preset_vocabulary: true
 種	ashg
 稯	zshe
 稰	xuhb
-稱	efhb	2.48%
-稱	eghb	97.52%
+稱	efhb
+稱	eghb
 稲	dkha
 稳	wfhp
 稴	lwhc
@@ -21073,9 +21073,9 @@ use_preset_vocabulary: true
 稺	aihj
 稻	dkhx
 稼	jdho
-稽	jiha	96.10%
-稽	qiha	3.90%
-稾	gkxd
+稽	jiha
+稽	qiha
+稾	gkyd
 稿	gkhb
 穀	guge
 穁	rshj
@@ -21113,8 +21113,8 @@ use_preset_vocabulary: true
 穟	smho
 穠	nshv
 穡	sehw
-穢	hmhh	100%
-穢	wqhh	0%
+穢	hmhh
+穢	wqhh
 穣	rhhv
 穤	nohb
 穥	yuhc
@@ -21124,8 +21124,8 @@ use_preset_vocabulary: true
 穩	wfhp
 穪	efhb
 穪	eghb
-穫	huhe	0%
-穫	hohe	100%
+穫	huhe
+穫	hohe
 穬	gshc
 穬	gthc
 穭	lvha
@@ -21154,8 +21154,8 @@ use_preset_vocabulary: true
 突	tujk
 窂	lkjq
 窃	qxjh
-窄	zejs	0%
-窄	aljs	100%
+窄	zejs
+窄	aljs
 窅	ykju
 窆	bwjo
 窆	fajo
@@ -21181,11 +21181,11 @@ use_preset_vocabulary: true
 窔	jzjk
 窔	ykjk
 窕	tzjo
-窖	gkjr	0%
-窖	jzjr	100%
+窖	gkjr
+窖	jzjr
 窗	etje
-窘	jsjr	100%
-窘	jnjr	0%
+窘	jsjr
+窘	jnjr
 窙	xzjd
 窚	egjs
 窛	kbjv
@@ -21193,8 +21193,8 @@ use_preset_vocabulary: true
 窝	wojb
 窞	djjx
 窞	xwjx
-窟	jzju	0%
-窟	kuju	100%
+窟	jzju
+窟	kuju
 窠	kejd
 窡	aoje
 窢	hojm
@@ -21203,8 +21203,8 @@ use_preset_vocabulary: true
 窤	gpjp
 窥	kmju
 窦	dbjk
-窨	xnja	50%
-窨	ycja	50%
+窨	xnja
+窨	ycja
 窩	wojr
 窪	wajg
 窫	yajk
@@ -21244,7 +21244,7 @@ use_preset_vocabulary: true
 竊	qxjb
 立	liyt
 竌	euyn
-竎	fuxt
+竎	fuyt
 竐	eoye
 竑	hsyi
 竒	jiyr
@@ -21285,8 +21285,8 @@ use_preset_vocabulary: true
 竷	kjye
 竸	jyyu
 竹	auhh
-竺	duhm	0%
-竺	auhm	100%
+竺	duhm
+竺	auhm
 竻	lehs
 竼	pghi
 竽	yuhd
@@ -21455,8 +21455,8 @@ use_preset_vocabulary: true
 箋	jwhi
 箌	dkhn
 箌	akhn
-箍	guhb	100%
-箍	kuhb	0%
+箍	guhb
+箍	kuhb
 箎	eihn
 箎	huhn
 箏	aghd
@@ -21709,8 +21709,8 @@ use_preset_vocabulary: true
 籬	lihg
 籭	sihp
 籭	xihp
-籮	lohg	100%
-籮	vihg	0%
+籮	lohg
+籮	vihg
 籯	yyhc
 籰	ymhe
 籱	akhg
@@ -21755,8 +21755,8 @@ use_preset_vocabulary: true
 粕	pofa
 粖	mofj
 粗	cufm
-粘	nwfr	63.35%
-粘	ajfr	36.65%
+粘	nwfr
+粘	ajfr
 粙	jrfw
 粚	eifd
 粛	sull
@@ -21770,9 +21770,9 @@ use_preset_vocabulary: true
 粢	ziid
 粣	cefm
 粤	ymhs
-粥	yunn	0%
-粥	abnn	100%
-粥	aunn	0%
+粥	yunn
+粥	abnn
+粥	aunn
 粦	lcfq
 粧	atfg
 粨	blfa
@@ -21797,12 +21797,12 @@ use_preset_vocabulary: true
 粻	ehfv
 粻	ahfv
 粼	lcfv
-粽	asff	0%
-粽	zsff	100%
+粽	asff
+粽	zsff
 精	jyfb
 粿	gmfd
 粿	gofd
-糁	sjfh	42.11%
+糁	sjfh
 糂	sjfv
 糃	thfh
 糃	xyfh
@@ -21837,8 +21837,8 @@ use_preset_vocabulary: true
 糙	zkfr
 糚	atfg
 糛	thfg
-糜	mqid	4.51%
-糜	miid	95.49%
+糜	mqid
+糜	miid
 糝	sjfh
 糞	fffc
 糟	zkfa
@@ -21873,8 +21873,8 @@ use_preset_vocabulary: true
 糸	sivf
 糹	sivf
 糺	jrvu
-系	jihf	0.30%
-系	xihf	99.70%
+系	jihf
+系	xihf
 糼	gsvs
 糽	dyvn
 糽	agvn
@@ -21885,13 +21885,13 @@ use_preset_vocabulary: true
 紂	abvi
 紃	jnvl
 紃	xnvl
-約	ykvi	0.02%
-約	ymvi	99.98%
-紅	gsvm	0.02%
-紅	hsvm	99.98%
+約	ykvi
+約	ymvi
+紅	gsvm
+紅	hsvm
 紆	yuvd
-紇	gevn	50%
-紇	hevn	50%
+紇	gevn
+紇	hevn
 紇	qivn
 紈	wjvi
 紉	rfvh
@@ -21907,8 +21907,8 @@ use_preset_vocabulary: true
 紒	jivl
 紒	jxvl
 紓	vuvn
-純	envu	100%
-純	anvu	0%
+純	envu
+純	anvu
 紕	pivp
 紖	ktvl
 紖	ycvl
@@ -21936,8 +21936,8 @@ use_preset_vocabulary: true
 紫	ziyf
 紬	ebvw
 紭	hsvi
-紮	zadf	6.72%
-紮	aadf	93.28%
+紮	zadf
+紮	aadf
 累	lqwf
 細	xivw
 紱	fuve
@@ -22002,16 +22002,16 @@ use_preset_vocabulary: true
 絞	jzvk
 絟	qpvg
 絠	glvb
-絡	lkvr	0.97%
-絡	lovr	99.03%
+絡	lkvr
+絡	lovr
 絢	xpva
 絣	bgvt
 絣	byvt
 絣	pyvt
 絤	xwvw
 絥	fuvk
-給	gqvr	99.99%
-給	jivr	0.01%
+給	gqvr
+給	jivr
 絧	tsvr
 絨	rsvj
 絩	tzvo
@@ -22072,15 +22072,15 @@ use_preset_vocabulary: true
 綘	fgvj
 継	jivd
 続	xuvu
-綜	zgvf	0%
-綜	zsvf	100%
+綜	zgvf
+綜	zsvf
 綝	efvd
 綝	lcvd
 綞	emvm
 綞	dovm
 綟	livk
-綠	luve	0.74%
-綠	lvve	99.26%
+綠	luve
+綠	lvve
 綡	ltvf
 綢	ebvr
 綣	jpvu
@@ -22099,26 +22099,26 @@ use_preset_vocabulary: true
 綮	qihf
 綮	qyhf
 綯	tkvu
-綰	gpvr	0%
-綰	wjvr	100%
+綰	gpvr
+綰	wjvr
 綱	ghvu
 網	whvv
 綳	bgvb
-綴	eove	0%
-綴	amve	100%
+綴	eove
+綴	amve
 綵	clvd
 綶	govd
 綷	cmvj
-綸	gpvb	5.98%
-綸	lnvb	94.02%
+綸	gpvb
+綸	lnvb
 綹	lrvr
 綺	qivr
-綻	dyvo	0%
-綻	ajvo	100%
+綻	dyvo
+綻	ajvo
 綼	bqvj
 綼	bivj
-綽	ekvj	5%
-綽	eovj	95%
+綽	ekvj
+綽	eovj
 綾	lyve
 綿	mwvb
 緀	qivv
@@ -22156,8 +22156,8 @@ use_preset_vocabulary: true
 線	xwve
 緛	rpvk
 緜	mwhf
-緝	jivj	97.83%
-緝	qivj	2.17%
+緝	jivj
+緝	qivj
 緞	dpve
 緟	asvg
 締	divb
@@ -22245,8 +22245,8 @@ use_preset_vocabulary: true
 縠	huge
 縡	zlvj
 縢	tgbf
-縣	xwbf	99.88%
-縣	xpbf	0.12%
+縣	xwbf
+縣	xpbf
 縤	suvf
 縥	qcvd
 縥	afvd
@@ -22259,8 +22259,8 @@ use_preset_vocabulary: true
 縫	fgvj
 縬	cuvf
 縭	livb
-縮	suva	0.62%
-縮	sova	99.38%
+縮	suva
+縮	sova
 縯	yjvc
 縯	ycvc
 縰	xivo
@@ -22283,21 +22283,21 @@ use_preset_vocabulary: true
 縿	cjvh
 縿	vjvh
 繀	smvg
-繁	boof	0.14%
-繁	fjof	99.86%
-繁	poof	0.14%
+繁	boof
+繁	fjof
+繁	poof
 繂	lvvj
 繂	vcvj
 繃	bgvb
 繄	yisf
 繅	skvd
-繆	mzvh	32.77%
-繆	mrvh	60%
-繆	mbvh	0.84%
-繆	muvh	0.84%
-繇	ykbf	51.72%
-繇	ybbf	24.14%
-繇	abbf	24.14%
+繆	mzvh
+繆	mrvh
+繆	mbvh
+繆	muvh
+繇	ykbf
+繇	ybbf
+繇	abbf
 繈	qtvi
 繉	hnvo
 繉	akvo
@@ -22337,20 +22337,20 @@ use_preset_vocabulary: true
 繨	davq
 繩	vgvu
 繪	hmva
-繫	jijf	0.30%
-繫	xijf	99.70%
+繫	jijf
+繫	xijf
 繬	sevw
 繭	jwti
 繮	ghvm
 繮	jtvm
 繯	hpvv
-繰	qzvd	50%
-繰	skvd	50%
-繰	zkvd	0
+繰	qzvd
+繰	skvd
+繰	zkvd
 繱	csvp
 繲	jxvq
-繳	jzvk	99.48%
-繳	aovk	0.52%
+繳	jzvk
+繳	aovk
 繴	bisf
 繵	ejvm
 繵	djvm
@@ -22369,8 +22369,8 @@ use_preset_vocabulary: true
 繿	ljvt
 纀	puvo
 纁	xnvf
-纂	cphf	0%
-纂	zphf	100%
+纂	cphf
+纂	zphf
 纃	qivx
 纄	pgvj
 纅	livd
@@ -22407,14 +22407,14 @@ use_preset_vocabulary: true
 纟	sivm
 纠	jrvl
 纡	yuvd
-红	hsvm	99.98%
+红	hsvm
 纣	abvi
-纤	qwvj	53.05%
-纤	xwvj	46.95%
-纥	gevn	50%
-纥	hevn	50%
-约	ykvi	0.02%
-约	ymvi	99.98%
+纤	qwvj
+纤	xwvj
+纥	gevn
+纥	hevn
+约	ykvi
+约	ymvi
 级	jive
 纨	wjvi
 纩	ktvi
@@ -22430,7 +22430,7 @@ use_preset_vocabulary: true
 纳	navb
 纴	rfvg
 纵	zsvo
-纶	lnvp	94.02%
+纶	lnvp
 纷	ffvh
 纸	aivp
 纹	wfvk
@@ -22465,12 +22465,12 @@ use_preset_vocabulary: true
 绖	dxvg
 绗	hhvn
 绘	hmvi
-给	gqvr	99.99%
-给	jivr	0.01%
+给	gqvr
+给	jivr
 绚	xpva
 绛	jtvq
-络	lkvr	0.97%
-络	lovr	99.03%
+络	lkvr
+络	lovr
 绝	jmvu
 绞	jzvk
 统	tsvu
@@ -22491,8 +22491,8 @@ use_preset_vocabulary: true
 续	xuvk
 绮	qivr
 绯	fqvy
-绰	ekvj	50%
-绰	eovj	50%
+绰	ekvj
+绰	eovj
 绱	vhvr
 绲	gnvp
 绳	vgvu
@@ -22504,11 +22504,11 @@ use_preset_vocabulary: true
 绹	tkvu
 绺	lrvr
 绻	qpvu
-综	zgvf	50%
-综	zsvf	50%
+综	zgvf
+综	zsvf
 绽	ajvo
 绾	wjvr
-绿	lvve	99.26%
+绿	lvve
 缀	eove
 缀	amve
 缁	zivw
@@ -22519,8 +22519,8 @@ use_preset_vocabulary: true
 缆	ljvu
 缇	tivo
 缈	mzvh
-缉	jivj	97.83%
-缉	qivj	2.17%
+缉	jivj
+缉	qivj
 缊	ynvt
 缋	hmvo
 缌	sivp
@@ -22552,9 +22552,9 @@ use_preset_vocabulary: true
 缦	mjve
 缧	lqvf
 缨	yyvv
-缩	sova	99.38%
-缪	mzvh	32.77%
-缪	mbvh	0.84%
+缩	sova
+缪	mzvh
+缪	mbvh
 缫	skvd
 缬	xxvo
 缭	lzvf
@@ -22562,10 +22562,10 @@ use_preset_vocabulary: true
 缯	zgva
 缰	jtvm
 缱	qwvr
-缲	qzvd	50%
-缲	skvd	50%
+缲	qzvd
+缲	skvd
 缳	hpvv
-缴	jzvk	99.48%
+缴	jzvk
 缵	zpvo
 缶	fbou
 缶	ghou
@@ -22615,10 +22615,10 @@ use_preset_vocabulary: true
 罞	mgwh
 罟	guwr
 罠	mcwp
-罡	ghwm	100%
-罡	agwm	0%
-罢	bawi	100%
-罢	piwi	0%
+罡	ghwm
+罡	agwm
+罢	bawi
+罢	piwi
 罣	gdwg
 罤	knwh
 罤	tiwh
@@ -22642,8 +22642,8 @@ use_preset_vocabulary: true
 罴	piwf
 罵	mawf
 罶	lrww
-罷	bawp	100%
-罷	piwp	0%
+罷	bawp
+罷	piwp
 罸	fawi
 罹	liwg
 罺	ekwd
@@ -22663,8 +22663,8 @@ use_preset_vocabulary: true
 羇	jiwr
 羈	jiwf
 羉	lpwf
-羊	xttq	0%
-羊	yhtq	100%
+羊	xttq
+羊	yhtq
 羋	mitj
 羋	mxtj
 羌	qttu
@@ -22690,8 +22690,8 @@ use_preset_vocabulary: true
 羟	qttm
 羠	sitn
 羠	yitn
-羡	xwto	1%
-羡	yito	99%
+羡	xwto
+羡	yito
 羢	rstj
 羣	qnsq
 群	qnsq
@@ -22703,8 +22703,8 @@ use_preset_vocabulary: true
 羦	wjtu
 羧	sote
 羧	zmte
-羨	xwto	99.90%
-羨	yjto	0.10%
+羨	xwto
+羨	yjto
 義	yiti
 羫	kstm
 羫	qttm
@@ -22725,8 +22725,8 @@ use_preset_vocabulary: true
 羶	vjtm
 羷	lwto
 羸	lqyq
-羹	ggtk	100%
-羹	lhtk	0%
+羹	ggtk
+羹	lhtk
 羺	nbtb
 羻	qtte
 羻	qyte
@@ -22778,9 +22778,9 @@ use_preset_vocabulary: true
 翝	hsjm
 翞	jtsf
 翞	jysf
-翟	disg	2.92%
-翟	alsg	97.08%
-翟	aesg	0%
+翟	disg
+翟	alsg
+翟	aesg
 翠	cmsj
 翡	fqlm
 翢	tkbm
@@ -22819,8 +22819,8 @@ use_preset_vocabulary: true
 翾	xpwm
 翿	dkgm
 翿	tkgm
-耀	ykfg	100%
-耀	ymfg	0%
+耀	ykfg
+耀	ymfg
 老	lkjp
 耂	lkjk
 考	kkjs
@@ -22849,13 +22849,13 @@ use_preset_vocabulary: true
 耒	lqqd
 耓	tyqn
 耔	ziqd
-耕	ggqt	100%
-耕	jyqt	0%
+耕	ggqt
+耕	jyqt
 耖	ekqh
 耗	hkqu
 耘	ynqi
-耙	baqu	45.22%
-耙	paqu	54.78%
+耙	baqu
+耙	paqu
 耚	piqe
 耛	eiqr
 耜	siqr
@@ -22962,8 +22962,8 @@ use_preset_vocabulary: true
 聳	sshj
 聴	tysp
 聵	kmsc
-聶	nxsj	100%
-聶	vesj	0%
+聶	nxsj
+聶	vesj
 職	aisa
 聸	djsr
 聹	nysn
@@ -22983,8 +22983,8 @@ use_preset_vocabulary: true
 肆	sisq
 肇	akhq
 肈	akhq
-肉	rboo	100%
-肉	ruoo	0%
+肉	rboo
+肉	ruoo
 肊	yibn
 肋	lebs
 肋	lqbs
@@ -23033,8 +23033,8 @@ use_preset_vocabulary: true
 肮	ohbn
 肮	hhbn
 肮	khbn
-肯	kfyb	100%
-肯	kgyb	0%
+肯	kfyb
+肯	kgyb
 肰	rjbk
 肱	gsbi
 肱	hsbi
@@ -23050,8 +23050,8 @@ use_preset_vocabulary: true
 肷	xubo
 肸	xibj
 肹	xibs
-肺	fqbb	100%
-肺	pqbb	0%
+肺	fqbb
+肺	pqbb
 肻	kfyb
 肼	jybt
 肽	tlbi
@@ -23088,8 +23088,8 @@ use_preset_vocabulary: true
 胓	pybj
 胔	ziyo
 胕	fubi
-胖	pjbq	0.65%
-胖	phbq	99.35%
+胖	pjbq
+胖	phbq
 胗	afbh
 胘	xwbi
 胘	xpbi
@@ -23156,10 +23156,10 @@ use_preset_vocabulary: true
 脅	xxkb
 脆	cmbu
 脇	xxbs
-脈	mlbv	95.29%
-脈	mobv	4.71%
-脉	mlbe	95.29%
-脉	mobe	4.71%
+脈	mlbv
+脈	mobv
+脉	mlbe
+脉	mobe
 脊	jifb
 脍	kcbi
 脎	sabd
@@ -23178,8 +23178,8 @@ use_preset_vocabulary: true
 脘	gpbu
 脘	wjbu
 脙	qrbe
-脚	jzbl	99.91%
-脚	jmbl	0.09%
+脚	jzbl
+脚	jmbl
 脛	jybm
 脜	rbbu
 脝	hgbn
@@ -23206,8 +23206,8 @@ use_preset_vocabulary: true
 脬	pkbd
 脭	egbg
 脮	tmbv
-脯	fubb	50%
-脯	pubb	50%
+脯	fubb
+脯	pubb
 脰	dbbt
 脱	tobu
 脲	nzbe
@@ -23237,13 +23237,13 @@ use_preset_vocabulary: true
 腇	nqbv
 腈	jybb
 腉	nlbu
-腊	laba	0%
-腊	xiba	100%
+腊	laba
+腊	xiba
 腋	yebk
 腋	yibk
-腌	oabu	40%
-腌	ohbu	40%
-腌	yjbu	22.60%
+腌	oabu
+腌	ohbu
+腌	yjbu
 腍	nwbp
 腍	rfbp
 腎	vfsb
@@ -23293,8 +23293,8 @@ use_preset_vocabulary: true
 腰	ykbv
 腱	jwbq
 腲	wqbv
-腳	jzbl	99.91%
-腳	jmbl	0.09%
+腳	jzbl
+腳	jmbl
 腴	yubo
 腵	jdbe
 腶	dpbe
@@ -23308,12 +23308,12 @@ use_preset_vocabulary: true
 腽	wfbt
 腾	tgbm
 腿	tmbv
-膀	bhbs	81.25%
-膀	phbs	18.75%
+膀	bhbs
+膀	phbs
 膁	qwbc
 膁	xwbc
 膁	yjbc
-膂	lvxb
+膂	lvyb
 膃	wabt
 膃	wfbt
 膄	vbbe
@@ -23389,13 +23389,13 @@ use_preset_vocabulary: true
 膽	djbr
 膾	hmba
 膾	kcba
-膿	ngbv	0%
-膿	nsbv	100%
-臀	dwsb	0%
-臀	tnsb	100%
+膿	ngbv
+膿	nsbv
+臀	dwsb
+臀	tnsb
 臁	lwbc
-臂	bqsb	2.53%
-臂	bisb	97.47%
+臂	bqsb
+臂	bisb
 臃	ysbg
 臄	jubo
 臄	jmbo
@@ -23453,8 +23453,8 @@ use_preset_vocabulary: true
 臫	jzhu
 臬	gkhd
 臬	nxhd
-臭	ebhk	99.96%
-臭	xrhk	0.04%
+臭	ebhk
+臭	xrhk
 臮	jiho
 臯	gkhj
 臰	ebhp
@@ -23477,9 +23477,9 @@ use_preset_vocabulary: true
 臾	ysho
 臾	yuho
 臿	eahx
-舀	kcbx	0%
-舀	wlbx	0%
-舀	ykbx	100%
+舀	kcbx
+舀	wlbx
+舀	ykbx
 舁	yuht
 舂	esqx
 舃	xihf
@@ -23531,9 +23531,9 @@ use_preset_vocabulary: true
 舩	ephi
 航	hhhn
 舫	fhhs
-般	bjhe	100%
-般	bohe	0%
-般	pjhe	0%
+般	bjhe
+般	bohe
+般	pjhe
 舭	bihp
 舯	ashl
 舰	jwhu
@@ -23581,8 +23581,8 @@ use_preset_vocabulary: true
 艕	bhhs
 艖	eahm
 艗	yiht
-艘	skhe	0%
-艘	sbhe	100%
+艘	skhe
+艘	sbhe
 艙	chhr
 艚	ckha
 艛	lbhv
@@ -23609,9 +23609,9 @@ use_preset_vocabulary: true
 良	ltiv
 艰	jwev
 艱	jwtv
-色	senu	99.90%
-色	vlnu	0.09%
-色	venu	0.01%
+色	senu
+色	vlnu
+色	venu
 艳	yjqu
 艴	fulu
 艵	pytu
@@ -23624,8 +23624,8 @@ use_preset_vocabulary: true
 艼	tytn
 艽	jztn
 艽	qrtn
-艾	oltk	99.04%
-艾	yitk	0.96%
+艾	oltk
+艾	yitk
 艿	nlts
 艿	rgts
 芀	tzth
@@ -23673,22 +23673,22 @@ use_preset_vocabulary: true
 芢	rftm
 芣	fbtf
 芤	kbtu
-芥	gltl	9.59%
-芥	jxtl	90.41%
-芦	huts	99%
-芦	luts	1%
+芥	gltl
+芥	jxtl
+芦	huts
+芦	luts
 芧	xutn
 芧	yutn
 芧	autn
 芨	jite
 芩	qctn
 芪	qitp
-芫	yjtu	51.28%
-芫	yptu	48.72%
+芫	yjtu
+芫	yptu
 芬	ffth
 芭	batu
-芮	bytb	0%
-芮	rmtb	100%
+芮	bytb
+芮	rmtb
 芯	xctp
 芰	jite
 芰	aite
@@ -23701,16 +23701,16 @@ use_preset_vocabulary: true
 芵	jmtk
 芶	gbti
 芷	aitm
-芸	yiti	0%
-芸	ynti	100%
+芸	yiti
+芸	ynti
 芹	qctl
 芺	oktk
 芺	yktk
 芻	eupu
 芼	mktu
 芽	yath
-芾	fqtb	75%
-芾	futb	25%
+芾	fqtb
+芾	futb
 芿	rgts
 苀	hhtn
 苀	khtn
@@ -23730,8 +23730,8 @@ use_preset_vocabulary: true
 苎	autm
 苏	sutc
 苐	dith
-苑	yutu	0%
-苑	yptu	100%
+苑	yutu
+苑	yptu
 苒	rjtb
 苓	lyti
 苔	tltr
@@ -23742,10 +23742,10 @@ use_preset_vocabulary: true
 苘	qytr
 苙	litt
 苚	ystq
-苛	hetr	0%
-苛	ketr	100%
-苜	motu	0%
-苜	mutu	100%
+苛	hetr
+苛	ketr
+苜	motu
+苜	mutu
 苝	pqtp
 苞	bktu
 苟	gbtr
@@ -23755,8 +23755,8 @@ use_preset_vocabulary: true
 苣	juts
 苤	pitm
 苤	pxtm
-若	retr	0.10%
-若	rotr	99.90%
+若	retr
+若	rotr
 苦	kutr
 苧	autn
 苨	nitp
@@ -23788,17 +23788,17 @@ use_preset_vocabulary: true
 苿	wqtd
 茀	futn
 茁	aotu
-茂	mkth	100%
-茂	mbth	0%
+茂	mkth
+茂	mbth
 范	fjtu
-茄	jdtr	53.97%
-茄	qxtr	46.03%
+茄	jdtr
+茄	qxtr
 茅	mkth
 茆	mktl
 茇	bate
 茈	eltp
-茈	citp	40%
-茈	zitp	60%
+茈	citp
+茈	zitp
 茉	motj
 茊	zitm
 茋	ditm
@@ -23818,8 +23818,8 @@ use_preset_vocabulary: true
 茙	rstj
 茚	yctl
 茛	gftv
-茜	qwtw	80.71%
-茜	xitw	19.29%
+茜	qwtw
+茜	xitw
 茝	eltl
 茝	aitl
 茞	eftl
@@ -23833,30 +23833,30 @@ use_preset_vocabulary: true
 茥	gmtg
 茥	kmtg
 茦	cetb
-茧	esti	100%
-茧	jwti	0%
+茧	esti
+茧	jwti
 茨	cito
 茩	gbtr
 茪	gttu
 茫	mhtv
-茬	eatg	100%
-茬	eitg	0%
-茬	zitg	0%
+茬	eatg
+茬	eitg
+茬	zitg
 茭	jztk
 茮	jztf
 茮	nztf
 茯	futk
 茰	yutk
 茱	autd
-茲	citi	0%
-茲	ziti	100%
+茲	citi
+茲	ziti
 茳	jttm
 茴	hmtr
 茵	yctk
 茶	eatd
 茷	fati
-茸	ortj	0%
-茸	rstj	100%
+茸	ortj
+茸	rstj
 茹	rutr
 茺	estu
 茻	mhuu
@@ -23886,8 +23886,8 @@ use_preset_vocabulary: true
 荎	aitg
 荏	rftg
 荐	jwtd
-荑	titn	20%
-荑	yitn	80%
+荑	titn
+荑	yitn
 荒	httu
 荓	pytt
 荔	lits
@@ -23903,18 +23903,18 @@ use_preset_vocabulary: true
 荝	zetn
 荞	qztl
 荟	hmti
-荠	jitl	35%
-荠	qitl	65%
+荠	jitl
+荠	qitl
 荡	dhth
 荡	thth
 荣	cetd
-荣	rstd	0%
+荣	rstd
 荤	hntq
 荤	xntq
-荥	xyte	46.15%
+荥	xyte
 荦	lotq
 荧	yytf
-荨	xnti	17.65%
+荨	xnti
 荩	jcty
 荪	sntf
 荫	yctb
@@ -23935,8 +23935,8 @@ use_preset_vocabulary: true
 荹	buth
 荺	yntm
 荻	ditf
-荼	vutd	0%
-荼	tutd	100%
+荼	vutd
+荼	tutd
 荽	smtv
 荾	smte
 荿	egts
@@ -23958,8 +23958,8 @@ use_preset_vocabulary: true
 莌	dotu
 莌	totu
 莍	qrte
-莎	vath	99%
-莎	soth	1%
+莎	vath
+莎	soth
 莏	coth
 莏	soth
 莐	eftu
@@ -23971,8 +23971,8 @@ use_preset_vocabulary: true
 莕	xytr
 莖	jytm
 莗	eetj
-莘	vftj	19.05%
-莘	xctj	80.95%
+莘	vftj
+莘	xctj
 莙	jntr
 莚	yjtm
 莛	tytg
@@ -23980,8 +23980,8 @@ use_preset_vocabulary: true
 莜	dztk
 莜	ybtk
 莝	cotg
-莞	gptu	86.47%
-莞	wjtu	13.53%
+莞	gptu
+莞	wjtu
 莟	hjtr
 莠	ybts
 莡	coto
@@ -23996,11 +23996,11 @@ use_preset_vocabulary: true
 莧	xwtu
 莨	lhtv
 莨	lttv
-莩	futd	50%
-莩	pztd	50%
+莩	futd
+莩	pztd
 莪	oeti
-莫	motk	100%
-莫	mutk	0%
+莫	motk
+莫	mutk
 莬	mwtu
 莭	jxtl
 莮	njts
@@ -24030,8 +24030,8 @@ use_preset_vocabulary: true
 菃	juts
 菃	quts
 菄	dstw
-菅	gptr	0%
-菅	jwtr	100%
+菅	gptr
+菅	jwtr
 菆	zbte
 菇	gutr
 菈	latt
@@ -24092,8 +24092,8 @@ use_preset_vocabulary: true
 菵	whtv
 菶	bgtq
 菷	abtb
-菸	yjtm	88.89%
-菸	yutm	11.11%
+菸	yjtm
+菸	yutm
 菹	jutm
 菹	zutm
 菺	jwtb
@@ -24117,8 +24117,8 @@ use_preset_vocabulary: true
 萊	llto
 萋	qitv
 萋	xitv
-萌	mgtb	100%
-萌	mytb	0%
+萌	mgtb
+萌	mytb
 萍	pytj
 萎	wqtv
 萏	djtx
@@ -24166,15 +24166,15 @@ use_preset_vocabulary: true
 萶	enta
 萷	xztn
 萸	yuto
-萹	bwtb	99.37%
-萹	pwtb	0.63%
+萹	bwtb
+萹	pwtb
 萺	mktu
 萻	ojta
 萼	oets
-落	latr	1.06%
-落	lktr	0.44%
-落	letr	0%
-落	lotr	98.50%
+落	latr
+落	lktr
+落	letr
+落	lotr
 萾	yytt
 萿	gdtr
 萿	hotr
@@ -24189,8 +24189,8 @@ use_preset_vocabulary: true
 葆	bktd
 葇	rbtd
 葈	xitd
-葉	vetd	1%
-葉	yetd	99%
+葉	vetd
+葉	yetd
 葊	ojtt
 葋	qutr
 葌	jwtv
@@ -24204,14 +24204,14 @@ use_preset_vocabulary: true
 葔	hbtk
 葕	tytn
 葖	tutk
-著	akta	4.25%
-著	aeta	93.74%
-著	auta	90.38%
-著	aota	2.02%
+著	akta
+著	aeta
+著	auta
+著	aota
 葘	zitw
 葙	xttu
-葚	rftv	70%
-葚	vftv	30%
+葚	rftv
+葚	vftv
 葛	getv
 葜	qdtk
 葝	jcts
@@ -24248,11 +24248,11 @@ use_preset_vocabulary: true
 葴	jwtr
 葴	xwtr
 葴	aftr
-葵	gmtk	0%
-葵	kmtk	100%
+葵	gmtk
+葵	kmtk
 葶	tytn
-葷	hntj	100%
-葷	xntj	0%
+葷	hntj
+葷	xntj
 葸	sitp
 葸	xitp
 葹	vitd
@@ -24335,8 +24335,8 @@ use_preset_vocabulary: true
 蒼	chtr
 蒽	oftp
 蒾	mitd
-蒿	gktb	0%
-蒿	hktb	100%
+蒿	gktb
+蒿	hktb
 蓀	sntf
 蓁	qctd
 蓁	aftd
@@ -24349,9 +24349,9 @@ use_preset_vocabulary: true
 蓈	lhtl
 蓉	rstr
 蓊	wgtm
-蓋	gltt	99.91%
-蓋	gett	0.09%
-蓋	hett	0.09%
+蓋	gltt
+蓋	gett
+蓋	hett
 蓌	cote
 蓍	vita
 蓎	thtr
@@ -24439,24 +24439,24 @@ use_preset_vocabulary: true
 蔐	ditb
 蔑	mxti
 蔒	xntf
-蔓	mjte	50%
-蔓	wjte	50%
+蔓	mjte
+蔓	wjte
 蔔	botw
 蔕	ditb
 蔖	cotm
 蔗	aetf
 蔘	vfth
 蔙	xpto
-蔚	wqti	99.48%
-蔚	yuti	0.52%
+蔚	wqti
+蔚	yuti
 蔛	hutj
 蔜	oktk
 蔝	mitd
 蔞	lbtv
 蔟	cutk
 蔠	astm
-蔡	cltf	100%
-蔡	satf	0%
+蔡	cltf
+蔡	satf
 蔢	botv
 蔢	potv
 蔣	jtti
@@ -24470,10 +24470,10 @@ use_preset_vocabulary: true
 蔩	yjtc
 蔩	yctc
 蔪	jwtl
-蔫	nwtf	100%
-蔫	yjtf	0%
-蔬	vutu	100%
-蔬	sutu	0%
+蔫	nwtf
+蔫	yjtf
+蔬	vutu
+蔬	sutu
 蔭	ycti
 蔮	gmtm
 蔮	gotm
@@ -24510,8 +24510,8 @@ use_preset_vocabulary: true
 蕈	jntj
 蕈	xctj
 蕈	xntj
-蕉	jztf	100%
-蕉	qztf	0%
+蕉	jztf
+蕉	qztf
 蕊	rmtp
 蕋	rmtm
 蕌	lqta
@@ -24558,7 +24558,7 @@ use_preset_vocabulary: true
 蕱	vktb
 蕲	qitl
 蕳	jwta
-蕴	yntt	90.36%
+蕴	yntt
 蕵	sntv
 蕶	lyti
 蕷	yutc
@@ -24575,8 +24575,8 @@ use_preset_vocabulary: true
 薁	yutk
 薂	xitk
 薃	hktb
-薄	bkti	43.39%
-薄	boti	56.61%
+薄	bkti
+薄	boti
 薅	hkti
 薆	olte
 薇	wqtk
@@ -24585,8 +24585,8 @@ use_preset_vocabulary: true
 薉	hmth
 薉	smth
 薉	wqth
-薊	jitn	100%
-薊	sutn	0%
+薊	jitn
+薊	sutn
 薋	citc
 薋	zitc
 薌	xttl
@@ -24650,8 +24650,8 @@ use_preset_vocabulary: true
 薷	rutb
 薸	pztf
 薹	tltg
-薺	jitx	35%
-薺	qitx	65%
+薺	jitx
+薺	qitx
 薻	zktd
 薼	eftg
 薽	aftn
@@ -24671,17 +24671,17 @@ use_preset_vocabulary: true
 藇	yutc
 藈	gmtk
 藈	kmtk
-藉	jita	39.42%
-藉	jxta	60.58%
+藉	jita
+藉	jxta
 藊	bwtb
 藋	ditg
 藋	dztg
 藌	miti
-藍	latt	0%
-藍	ljtt	100%
+藍	latt
+藍	ljtt
 藎	jctt
-藏	chts	77.99%
-藏	zhts	22.01%
+藏	chts
+藏	zhts
 藐	mztu
 藑	qste
 藒	oltv
@@ -24705,8 +24705,8 @@ use_preset_vocabulary: true
 藢	aitk
 藣	bqtp
 藤	tgte
-藥	yktd	100%
-藥	ymtd	0%
+藥	yktd
+藥	ymtd
 藦	motq
 藧	hpte
 藨	bztf
@@ -24747,10 +24747,10 @@ use_preset_vocabulary: true
 蘇	sutd
 蘈	tmtc
 蘉	mhte
-蘊	wftt	9.64%
-蘊	yntt	90.36%
-蘋	pctc	1%
-蘋	pytc	99%
+蘊	wftt
+蘊	yntt
+蘋	pctc
+蘋	pytc
 蘌	yutf
 蘍	xnts
 蘎	jitu
@@ -24800,8 +24800,8 @@ use_preset_vocabulary: true
 蘵	aita
 蘶	wqti
 蘷	kmte
-蘸	jztf	0%
-蘸	ajtf	100%
+蘸	jztf
+蘸	ajtf
 蘹	hctv
 蘺	litg
 蘻	jitf
@@ -24828,10 +24828,10 @@ use_preset_vocabulary: true
 虍	huyp
 虎	huyn
 虏	luys
-虐	nmym	100%
-虐	ykym	0%
+虐	nmym
+虐	ykym
 虑	biyp
-虑	lvyp	0%
+虑	lvyp
 虒	sihn
 虓	hukn
 虓	xzkn
@@ -24843,8 +24843,8 @@ use_preset_vocabulary: true
 虙	fuyh
 虚	xuyc
 虛	xuym
-虜	luys	100%
-虜	loys	0%
+虜	luys
+虜	loys
 虝	huyh
 虞	yuyk
 號	hkrn
@@ -24863,8 +24863,8 @@ use_preset_vocabulary: true
 虨	bcyh
 虩	xifn
 虪	vuyf
-虫	esli	100%
-虫	hmli	0%
+虫	esli
+虫	hmli
 虬	jrlu
 虬	qrlu
 虭	dzlh
@@ -24884,14 +24884,14 @@ use_preset_vocabulary: true
 虷	gjlj
 虷	hjlj
 虸	zild
-虹	ghlm	0.19%
-虹	hslm	99.81%
-虹	jtlm	0.19%
+虹	ghlm
+虹	hslm
+虹	jtlm
 虺	hmmi
 虻	mglv
 虼	geln
 虽	smri
-虾	xdly	95.70%
+虾	xdly
 虿	elmi
 蚀	vini
 蚁	yilk
@@ -24908,8 +24908,8 @@ use_preset_vocabulary: true
 蚊	wflk
 蚋	nalb
 蚋	rmlb
-蚌	bhlj	72.52%
-蚌	bglj	27.48%
+蚌	bhlj
+蚌	bglj
 蚍	bilp
 蚍	pilp
 蚎	ymla
@@ -24921,8 +24921,8 @@ use_preset_vocabulary: true
 蚔	eilp
 蚔	dilp
 蚔	qilp
-蚕	cjmi	1%
-蚕	twmi	99%
+蚕	cjmi
+蚕	twmi
 蚖	yplu
 蚗	jmlk
 蚘	hmlu
@@ -24988,10 +24988,10 @@ use_preset_vocabulary: true
 蛄	gulr
 蛅	rjlr
 蛅	ajlr
-蛆	julm	0%
-蛆	qulm	100%
-蛇	velp	99.95%
-蛇	yilp	0.05%
+蛆	julm
+蛆	qulm
+蛇	velp
+蛇	yilp
 蛈	txlo
 蛉	lyli
 蛊	eslt
@@ -25026,8 +25026,8 @@ use_preset_vocabulary: true
 蛢	pylt
 蛣	jilr
 蛣	jxlr
-蛤	gelr	1.20%
-蛤	halr	98.80%
+蛤	gelr
+蛤	halr
 蛥	veln
 蛦	tiln
 蛦	yiln
@@ -25052,23 +25052,23 @@ use_preset_vocabulary: true
 蛵	xylm
 蛶	lxli
 蛷	qrle
-蛸	vklb	61.54%
-蛸	xzlb	38.46%
+蛸	vklb
+蛸	xzlb
 蛹	yslb
 蛺	jdlo
 蛻	vmlu
 蛻	tmlu
 蛼	eelj
 蛽	bqlc
-蛾	oeli	100%
-蛾	yili	0%
+蛾	oeli
+蛾	yili
 蛿	hjlr
 蛿	xwlr
 蜀	vuwi
 蜁	xplo
 蜂	fglj
-蜃	efmi	0%
-蜃	vfmi	100%
+蜃	efmi
+蜃	vfmi
 蜄	eflv
 蜄	aflv
 蜅	fulb
@@ -25105,9 +25105,9 @@ use_preset_vocabulary: true
 蜠	jnld
 蜠	qnld
 蜡	eala
-蜡	lala	0%
-蜡	qula	50%
-蜡	aala	50%
+蜡	lala
+蜡	qula
+蜡	aala
 蜢	mglt
 蜣	qtlu
 蜤	sidi
@@ -25164,8 +25164,8 @@ use_preset_vocabulary: true
 蝌	kelj
 蝍	jill
 蝍	jxll
-蝎	helv	99%
-蝎	xxlv	1%
+蝎	helv
+蝎	xxlv
 蝏	tyln
 蝐	mllu
 蝐	mqlu
@@ -25196,8 +25196,8 @@ use_preset_vocabulary: true
 蝤	qrlw
 蝥	mkni
 蝥	mbni
-蝦	hale	4.30%
-蝦	xdle	95.70%
+蝦	hale
+蝦	xdle
 蝧	yylk
 蝨	vini
 蝩	eslg
@@ -25279,8 +25279,8 @@ use_preset_vocabulary: true
 螥	chlr
 螨	mjlb
 螪	vhlb
-螫	vigi	36.84%
-螫	aegi	63.16%
+螫	vigi
+螫	aegi
 螬	ckla
 螭	eilb
 螭	lilb
@@ -25389,7 +25389,7 @@ use_preset_vocabulary: true
 蠁	xtvi
 蠂	veld
 蠂	yeld
-蠃	loxm
+蠃	loyi
 蠄	qclb
 蠅	yylu
 蠆	elti
@@ -25443,8 +25443,8 @@ use_preset_vocabulary: true
 蠯	piii
 蠰	rhlv
 蠰	vhlv
-蠱	eslt	0%
-蠱	gult	100%
+蠱	eslt
+蠱	gult
 蠲	euci
 蠲	jpci
 蠳	yylv
@@ -25464,8 +25464,8 @@ use_preset_vocabulary: true
 蠾	auli
 蠿	aavi
 蠿	aovi
-血	xxht	5.91%
-血	xmht	94.09%
+血	xxht
+血	xmht
 衁	htyt
 衂	nrhh
 衂	nvhh
@@ -25480,22 +25480,22 @@ use_preset_vocabulary: true
 衉	kehr
 衊	mxhi
 衋	xilt
-行	hhhn	8.22%
-行	xyhn	91.78%
+行	hhhn
+行	xyhn
 衍	yjhn
 衎	kjhn
 衏	yphn
 衑	lyhn
 衒	xphn
-術	vuhn	100%
-術	smhn	0%
+術	vuhn
+術	smhn
 衔	xwhn
 衕	tshn
 衖	lshn
 街	jxhn
 衘	xwhn
-衙	yahn	100%
-衙	yuhn	0%
+衙	yahn
+衙	yuhn
 衚	huhn
 衛	wqhn
 衜	dkhn
@@ -25518,8 +25518,8 @@ use_preset_vocabulary: true
 衭	fulo
 衮	gnyv
 衯	fflh
-衰	cmyv	0.59%
-衰	vcyv	99.41%
+衰	cmyv
+衰	vcyv
 衱	jile
 衱	jxle
 衲	nalb
@@ -25532,8 +25532,8 @@ use_preset_vocabulary: true
 衷	asjv
 衸	jxll
 衸	xxll
-衹	qilp	0%
-衹	ailp	100%
+衹	qilp
+衹	ailp
 衺	xdyv
 衺	xxyv
 衺	xuyv
@@ -25546,8 +25546,8 @@ use_preset_vocabulary: true
 衿	jcln
 袀	jnlm
 袁	ypgv
-袂	jmlk	0%
-袂	mqlk	100%
+袂	jmlk
+袂	mqlk
 袃	elpv
 袄	oklk
 袅	nzpv
@@ -25601,8 +25601,8 @@ use_preset_vocabulary: true
 袩	ejlr
 袪	quli
 袪	qmli
-被	bqle	100%
-被	pile	0%
+被	bqle
+被	pile
 袬	gnyv
 袬	yuyv
 袭	xiiv
@@ -25659,8 +25659,8 @@ use_preset_vocabulary: true
 裖	aflv
 裗	lrlu
 裘	qriv
-裙	jnlr	0%
-裙	qnlr	100%
+裙	jnlr
+裙	qnlr
 裚	jiqv
 裚	aeqv
 裛	yeyv
@@ -25682,8 +25682,8 @@ use_preset_vocabulary: true
 裧	tjlf
 裧	yjlf
 裨	bqlj
-裨	bilj	50%
-裨	pilj	50%
+裨	bilj
+裨	pilj
 裩	hmlp
 裩	knlp
 裪	tklu
@@ -25697,8 +25697,8 @@ use_preset_vocabulary: true
 裰	amle
 裱	bzlv
 裲	ltlb
-裳	ehfv	5.42%
-裳	vhfv	94.58%
+裳	ehfv
+裳	vhfv
 裴	fqlv
 裴	pqlv
 裵	fqyv
@@ -25710,8 +25710,8 @@ use_preset_vocabulary: true
 裹	goyv
 裺	yjlu
 裻	duyv
-裼	tilh	33.33%
-裼	xilh	66.67%
+裼	tilh
+裼	xilh
 製	aihv
 裾	julr
 裿	qilr
@@ -25737,12 +25737,12 @@ use_preset_vocabulary: true
 褌	hmlj
 褌	knlj
 褍	dplb
-褎	bkxv
-褎	xrxv
-褎	ybxv
+褎	bkyv
+褎	xryv
+褎	ybyv
 褏	xryv
-褐	gelp	0%
-褐	help	100%
+褐	gelp
+褐	help
 褑	yple
 褒	bkyv
 褓	bkld
@@ -25752,8 +25752,8 @@ use_preset_vocabulary: true
 褗	yjlv
 褘	hmlq
 褙	bqlb
-褚	eula	93.75%
-褚	aula	6.25%
+褚	eula
+褚	aula
 褛	lvlv
 褝	djlj
 褞	wflt
@@ -25773,8 +25773,8 @@ use_preset_vocabulary: true
 褨	ealm
 褨	solm
 褩	bjhv
-褪	tmlv	98.05%
-褪	tnlv	1.95%
+褪	tmlv
+褪	tnlv
 褫	eiln
 褫	diln
 褬	shld
@@ -25783,14 +25783,14 @@ use_preset_vocabulary: true
 褯	jxlb
 褯	xilb
 褰	qwjv
-褱	hcxv
+褱	hcyv
 褲	kulj
 褳	lwlj
 褴	ljlt
 褵	lilb
-褶	dxla	0%
-褶	xila	0%
-褶	aela	100%
+褶	dxla
+褶	xila
+褶	aela
 褷	vilo
 褷	xilo
 褸	lvlv
@@ -25809,7 +25809,7 @@ use_preset_vocabulary: true
 襂	sjlh
 襂	sflh
 襂	vjlh
-襃	bkxd
+襃	bkyv
 襄	xtyv
 襆	pulo
 襇	jwla
@@ -25884,18 +25884,18 @@ use_preset_vocabulary: true
 覀	ximw
 要	ykmv
 覂	fgmo
-覃	qcmj	80%
-覃	tjmj	10%
-覃	xnmj	10%
+覃	qcmj
+覃	tjmj
+覃	xnmj
 覅	fzmh
 覆	fume
 覇	bamb
-覈	hemk	99.92%
-覈	jzmk	0.08%
+覈	hemk
+覈	jzmk
 覉	jimr
 覊	jimf
-見	jwbu	99.05%
-見	xwbu	0.95%
+見	jwbu
+見	xwbu
 覌	gpeu
 覌	hpeu
 覍	bwfu
@@ -25934,8 +25934,8 @@ use_preset_vocabulary: true
 覧	ljsu
 覨	oeru
 覩	duju
-親	qcyu	99.82%
-親	qyyu	0.18%
+親	qcyu
+親	qyyu
 覫	phyu
 覬	jiuu
 覬	kluu
@@ -25954,12 +25954,12 @@ use_preset_vocabulary: true
 覴	dgnu
 覵	qwau
 覶	lobu
-覷	quyu	100%
-覷	xuyu	0%
+覷	quyu
+覷	xuyu
 覸	jwau
 覹	wqbk
-覺	jzhu	21.83%
-覺	jmhu	78.17%
+覺	jzhu
+覺	jmhu
 覻	quyu
 覻	xuyu
 覼	lomu
@@ -25968,8 +25968,8 @@ use_preset_vocabulary: true
 覿	digu
 覿	dugu
 觀	gptu
-见	jwbu	99.05%
-见	xwbu	0.95%
+见	jwbu
+见	xwbu
 观	gpeu
 觃	yjbd
 规	gmqu
@@ -25977,8 +25977,8 @@ use_preset_vocabulary: true
 视	viiu
 觇	ajyu
 览	ljlu
-觉	jzfu	21.83%
-觉	jmfu	78.17%
+觉	jzfu
+觉	jmfu
 觊	jiuu
 觋	ximu
 觌	diju
@@ -25987,9 +25987,9 @@ use_preset_vocabulary: true
 觏	gbtu
 觐	jctu
 觑	quyu
-角	jzng	80.82%
-角	jmng	19.18%
-角	lung	0%
+角	jzng
+角	jmng
+角	lung
 觓	jrnl
 觓	qrnl
 觔	jcns
@@ -26000,8 +26000,8 @@ use_preset_vocabulary: true
 觙	jine
 觚	guno
 觛	djnm
-觜	ziyg	5.88%
-觜	zmyg	94.12%
+觜	ziyg
+觜	zmyg
 觝	dinm
 觞	vhnh
 觟	gmng
@@ -26010,13 +26010,13 @@ use_preset_vocabulary: true
 觡	genr
 觢	eiqg
 觢	aiqg
-解	jxnq	99.68%
-解	xxnq	0.32%
+解	jxnq
+解	xxnq
 觤	gmnu
 觤	wqnu
 觥	gsnu
-触	euni	0%
-触	hsni	100%
+触	euni
+触	hsni
 觧	jxnq
 觧	xxnq
 觨	gsne
@@ -26056,8 +26056,8 @@ use_preset_vocabulary: true
 觾	yjnf
 觿	jpnb
 觿	xinb
-言	yjyr	100%
-言	ycyr	0%
+言	yjyr
+言	ycyr
 訁	yjyr
 訂	dyyn
 訃	buyy
@@ -26096,7 +26096,7 @@ use_preset_vocabulary: true
 訝	yayh
 訞	ykyk
 訟	ssyi
-訠	vfxl
+訠	vfyl
 訡	ycyn
 訢	xiyl
 訢	xcyl
@@ -26118,14 +26118,14 @@ use_preset_vocabulary: true
 訮	yjyt
 訯	vaye
 訰	anyu
-許	huyj	0.01%
-許	xuyj	99.99%
+許	huyj
+許	xuyj
 訲	yiyl
 訳	yiyo
 訴	suyy
 訵	eiyc
-訶	geyr	0%
-訶	heyr	100%
+訶	geyr
+訶	heyr
 訷	vfyl
 訸	heyd
 訹	vuyd
@@ -26164,7 +26164,7 @@ use_preset_vocabulary: true
 詔	akyr
 評	pyyj
 詖	biye
-詗	xsxr
+詗	xsyr
 詘	euyu
 詘	quyu
 詘	aoyu
@@ -26178,8 +26178,8 @@ use_preset_vocabulary: true
 詠	ysye
 詡	xuym
 詢	xnya
-詣	yixa
-詣	aixa
+詣	yiya
+詣	aiya
 詤	htyu
 詥	geyr
 詥	heyr
@@ -26188,14 +26188,14 @@ use_preset_vocabulary: true
 詨	jzyk
 詨	xzyk
 詩	viyi
-詪	hfxv
+詪	hfyv
 詫	eayp
 詬	gbyr
 詭	gmyu
 詮	qpyg
 詯	hmyu
-詰	jiyr	7.55%
-詰	jxyr	92.45%
+詰	jiyr
+詰	jxyr
 話	hdyr
 該	glyo
 詳	xtyq
@@ -26240,9 +26240,9 @@ use_preset_vocabulary: true
 誏	rhyv
 誐	oeyi
 誑	ktyg
-誒	oxyk	50%
-誒	oqyk	50%
-誒	xiyk	0%
+誒	oxyk
+誒	oqyk
+誒	xiyk
 誓	viqr
 誔	tyyg
 誕	djym
@@ -26268,14 +26268,14 @@ use_preset_vocabulary: true
 誧	puyb
 誨	hmyy
 誩	jyyr
-說	vmyu	0.06%
-說	voyu	99.87%
-說	ymyu	0%
+說	vmyu
+說	voyu
+說	ymyu
 誫	efyv
 誫	afyv
-説	vmxr
-説	voxr
-説	ymxr
+説	vmyu
+説	voyu
+説	ymyu
 読	duyn
 誯	ehya
 誰	vqyg
@@ -26300,8 +26300,8 @@ use_preset_vocabulary: true
 誽	yiyu
 誾	yjar
 誾	ycar
-調	dzyr	30.33%
-調	tzyr	69.67%
+調	dzyr
+調	tzyr
 諀	piyj
 諁	eoye
 諂	ejyx
@@ -26314,8 +26314,8 @@ use_preset_vocabulary: true
 諈	emym
 諉	wqyv
 諊	juyd
-請	jyyb	0%
-請	qyyb	100%
+請	jyyb
+請	qyyb
 諌	dsyw
 諌	jwyw
 諍	agyd
@@ -26365,8 +26365,8 @@ use_preset_vocabulary: true
 諯	epyb
 諰	siyp
 諰	xiyp
-諱	hmyq	100%
-諱	wqyq	0%
+諱	hmyq
+諱	wqyq
 諲	yjyg
 諲	ycyg
 諳	ojya
@@ -26407,8 +26407,8 @@ use_preset_vocabulary: true
 謋	jxyd
 謌	geyr
 謍	yyfr
-謎	mqyd	0%
-謎	miyd	100%
+謎	mqyd
+謎	miyd
 謏	sbye
 謏	xzye
 謐	biyt
@@ -26417,8 +26417,8 @@ use_preset_vocabulary: true
 謒	chyr
 謒	qtyr
 謓	efyc
-謔	nmym	0%
-謔	xmym	100%
+謔	nmym
+謔	xmym
 謕	siyn
 謕	tiyn
 謖	jiye
@@ -26426,8 +26426,8 @@ use_preset_vocabulary: true
 謗	bhys
 謘	eiyj
 謙	qwyc
-謚	vixm	100%
-謚	yixm	0%
+謚	viyt
+謚	yiyt
 講	jtyb
 謜	ypyf
 謝	xxyi
@@ -26447,7 +26447,7 @@ use_preset_vocabulary: true
 謧	liyb
 謨	moyk
 謩	motr
-謪	vhxc
+謪	vhyb
 謫	diyb
 謫	aeyb
 謬	mzyh
@@ -26455,8 +26455,8 @@ use_preset_vocabulary: true
 謬	nryh
 謭	jwyh
 謮	zeyc
-謯	aaxp
-謯	auxp
+謯	aaym
+謯	auym
 謰	lwyj
 謱	lbyv
 謲	cjyh
@@ -26505,14 +26505,14 @@ use_preset_vocabulary: true
 譑	qzyb
 譒	boyw
 譓	hmyp
-譔	apxv
+譔	apyc
 譕	moyf
 譕	mbyf
 譖	zfya
 譗	dayr
 譗	aayr
-識	viya	99.94%
-識	aiya	0.06%
+識	viya
+識	aiya
 譙	qzyf
 譚	tjyj
 譛	zfya
@@ -26557,8 +26557,8 @@ use_preset_vocabulary: true
 譽	yuhr
 譾	jwym
 譿	hmyp
-讀	dbyc	0.01%
-讀	duyc	99.99%
+讀	dbyc
+讀	duyc
 讁	diyb
 讁	aeyb
 讂	qsye
@@ -26571,13 +26571,13 @@ use_preset_vocabulary: true
 讈	liym
 讉	yiyc
 變	bwvk
-讋	aexm
+讋	aeyr
 讌	yjyf
 讍	oeyr
 讎	ebog
 讏	wqhr
 讐	ebor
-讑	ykxm
+讑	ykyb
 讒	ejyi
 讓	rhyv
 讔	ycyp
@@ -26622,7 +26622,7 @@ use_preset_vocabulary: true
 讵	juis
 讶	yaih
 讷	neib
-许	xuij	99.29%
+许	xuij
 讹	oeip
 论	lnip
 讻	xsik
@@ -26636,8 +26636,8 @@ use_preset_vocabulary: true
 诃	heir
 评	pyij
 诅	zuim
-识	viic	99.94%
-识	aiic	0.06%
+识	viic
+识	aiic
 诇	xsir
 诈	aais
 诉	suiy
@@ -26655,7 +26655,7 @@ use_preset_vocabulary: true
 试	viim
 诖	gdig
 诗	viii
-诘	jxir	92.45%
+诘	jxir
 诙	hmif
 诚	egis
 诛	auid
@@ -26683,26 +26683,26 @@ use_preset_vocabulary: true
 诱	ybis
 诲	hmiy
 诳	ktig
-说	vmiu	0.06%
-说	voiu	99.87%
+说	vmiu
+说	voiu
 诵	ssib
-诶	oqik	50%
+诶	oqik
 请	qyib
 诸	auia
 诹	zbie
 诺	noir
-读	dbik	0.01%
-读	duik	99.99%
+读	dbik
+读	duik
 诼	aoio
 诽	fqiy
 课	keid
 诿	wqiv
 谀	yuio
-谁	vqig	22.31%
-谁	vmig	77.69%
+谁	vqig
+谁	vmig
 谂	vfip
-调	dzir	30.33%
-调	tzir	69.67%
+调	dzir
+调	tzir
 谄	ejix
 谅	ltif
 谆	anid
@@ -26754,8 +26754,8 @@ use_preset_vocabulary: true
 谴	qwir
 谵	ajir
 谶	efim
-谷	gucr	99.93%
-谷	yucr	0.07%
+谷	gucr
+谷	yucr
 谸	qwhr
 谹	hsci
 谺	xdch
@@ -26771,9 +26771,9 @@ use_preset_vocabulary: true
 谿	xibr
 豀	qick
 豀	xick
-豁	hejr	0%
-豁	hdjr	0%
-豁	hojr	100%
+豁	hejr
+豁	hdjr
+豁	hojr
 豂	lzch
 豃	gjck
 豃	hjck
@@ -26783,12 +26783,12 @@ use_preset_vocabulary: true
 豆	dbmt
 豇	ghmm
 豇	jtmm
-豈	klut	0%
-豈	qiut	100%
+豈	klut
+豈	qiut
 豉	eime
 豉	vime
-豊	fgtt	0%
-豊	litt	100%
+豊	fgtt
+豊	litt
 豋	dgbt
 豌	wjmu
 豍	bimj
@@ -26804,7 +26804,7 @@ use_preset_vocabulary: true
 豖	eumo
 豗	hmmo
 豘	tnmu
-豙	yixo
+豙	yiyo
 豚	tnbo
 豛	yime
 豜	jwmt
@@ -26872,10 +26872,10 @@ use_preset_vocabulary: true
 貈	heby
 貈	loby
 貈	moby
-貉	hkbr	46.15%
-貉	hebr	53.85%
-貉	lobr	0%
-貉	mobr	0%
+貉	hkbr
+貉	hebr
+貉	lobr
+貉	mobr
 貊	boba
 貊	moba
 貋	ojbj
@@ -26918,8 +26918,8 @@ use_preset_vocabulary: true
 販	fjbe
 貪	tjoc
 貫	gpwc
-責	zeqc	100%
-責	alqc	0%
+責	zeqc
+責	alqc
 貭	aihc
 貮	ormc
 貯	eubn
@@ -26932,21 +26932,21 @@ use_preset_vocabulary: true
 貵	pwic
 貶	bwbo
 買	mlwc
-貸	dloc	100%
-貸	teoc	0%
+貸	dloc
+貸	teoc
 貹	vgbm
 貺	ktbu
-費	bilc	0%
-費	fqlc	100%
+費	bilc
+費	fqlc
 貼	txbr
 貽	yibr
 貾	eibm
 貾	dibm
-貿	mkhc	100%
-貿	mbhc	0%
+貿	mkhc
+貿	mbhc
 賀	hekc
-賁	bfjc	94.83%
-賁	bijc	5.17%
+賁	bfjc
+賁	bijc
 賁	pfjc
 賂	lubr
 賂	lobr
@@ -26957,11 +26957,11 @@ use_preset_vocabulary: true
 賅	hlbo
 賆	pwbt
 資	ziic
-賈	gumc	0.27%
-賈	jdmc	99.73%
+賈	gumc
+賈	jdmc
 賉	xubt
-賊	zebj	0%
-賊	zqbj	100%
+賊	zebj
+賊	zqbj
 賋	jzbk
 賌	glyc
 賍	zhbg
@@ -26979,8 +26979,8 @@ use_preset_vocabulary: true
 賙	abbr
 賚	lldc
 賛	zjqc
-賜	cibh	100%
-賜	sibh	0%
+賜	cibh
+賜	sibh
 賝	efbd
 賞	vhfc
 賟	twbc
@@ -27013,8 +27013,8 @@ use_preset_vocabulary: true
 賷	jijc
 賸	vgbc
 賹	olbt
-賺	apbc	94.68%
-賺	zpbc	5.32%
+賺	apbc
+賺	zpbc
 賻	fubi
 賻	pubi
 購	gbbb
@@ -27037,8 +27037,8 @@ use_preset_vocabulary: true
 贊	zjhc
 贋	yjmc
 贋	yymc
-贍	vjbr	100%
-贍	ajbr	0%
+贍	vjbr
+贍	ajbr
 贎	wjbb
 贏	yyyc
 贐	jcbt
@@ -27051,10 +27051,10 @@ use_preset_vocabulary: true
 贗	yjmc
 贗	yymc
 贘	vhbc
-贙	xpxu
+贙	xpyc
 贚	lsbp
-贛	gjyc	100%
-贛	gsyc	0%
+贛	gjyc
+贛	gsyc
 贜	zhbs
 贝	bqbo
 贞	afyo
@@ -27077,8 +27077,8 @@ use_preset_vocabulary: true
 贯	gpwo
 贰	orio
 贱	jwbj
-贲	bfjo	94.83%
-贲	bijo	5.17%
+贲	bfjo
+贲	bijo
 贳	vipo
 贴	txbr
 贵	gmlo
@@ -27090,8 +27090,8 @@ use_preset_vocabulary: true
 贻	yibr
 贼	zqbj
 贽	aiqo
-贾	gumo	0.27%
-贾	jdmo	99.73%
+贾	gumo
+贾	jdmo
 贿	hmbb
 赀	ziyo
 赁	lcoo
@@ -27119,8 +27119,8 @@ use_preset_vocabulary: true
 赗	fgbu
 赘	amqo
 赙	fubi
-赚	apbc	94.68%
-赚	zpbc	5.32%
+赚	apbc
+赚	zpbc
 赛	sljo
 赜	zeso
 赝	yjmo
@@ -27140,8 +27140,8 @@ use_preset_vocabulary: true
 赩	xigu
 赩	yjgu
 赪	eggo
-赫	eigc	0%
-赫	hegc	100%
+赫	eigc
+赫	hegc
 赬	eggc
 赬	afgc
 赭	aega
@@ -27212,14 +27212,14 @@ use_preset_vocabulary: true
 趠	eogj
 趡	cmgg
 趢	luge
-趣	cuge	0%
-趣	quge	100%
+趣	cuge
+趣	quge
 趤	dhgr
 趥	qrgw
 趦	zigr
 趧	tigo
-趨	cugu	0%
-趨	qugu	100%
+趨	cugu
+趨	qugu
 趩	eigc
 趪	htgc
 趫	qzgb
@@ -27233,8 +27233,8 @@ use_preset_vocabulary: true
 趰	orgb
 趱	zjgo
 趲	zjgc
-足	juro	0%
-足	zuro	100%
+足	juro
+足	zuro
 趴	parc
 趵	bkri
 趶	kurd
@@ -27295,7 +27295,7 @@ use_preset_vocabulary: true
 跛	bore
 跜	nirp
 距	jurs
-跞	lird	50%
+跞	lird
 跟	gfrv
 跠	yirn
 跡	jirc
@@ -27378,9 +27378,9 @@ use_preset_vocabulary: true
 踚	lnrb
 踛	lurg
 踜	lgre
-踝	gord	0%
-踝	hdrd	0%
-踝	hcrd	100%
+踝	gord
+踝	hdrd
+踝	hcrd
 踞	jurr
 踟	eirr
 踠	wjru
@@ -27407,8 +27407,8 @@ use_preset_vocabulary: true
 踮	dwrr
 踯	airl
 踰	yurn
-踱	dure	0%
-踱	dore	100%
+踱	dure
+踱	dore
 踲	dnru
 踲	tnru
 踳	epra
@@ -27419,9 +27419,9 @@ use_preset_vocabulary: true
 踷	aara
 踸	efrv
 踸	vfrv
-踹	ecrb	100%
-踹	eprb	0%
-踹	vprb	0%
+踹	ecrb
+踹	eprb
+踹	vprb
 踺	jwrq
 踻	gdrr
 踻	torr
@@ -27442,8 +27442,8 @@ use_preset_vocabulary: true
 蹇	jwjo
 蹈	dkrx
 蹉	corm
-蹊	qirk	56.25%
-蹊	xirk	43.75%
+蹊	qirk
+蹊	xirk
 蹋	tarm
 蹌	chrr
 蹌	qtrr
@@ -27492,8 +27492,8 @@ use_preset_vocabulary: true
 蹯	fjrw
 蹰	euri
 蹱	asrg
-蹲	cnri	0.15%
-蹲	dnri	99.85%
+蹲	cnri
+蹲	dnri
 蹳	bore
 蹴	curu
 蹵	cuyo
@@ -27561,8 +27561,8 @@ use_preset_vocabulary: true
 躨	kmre
 躩	jmre
 躪	lcrg
-身	jphh	0%
-身	vfhh	100%
+身	jphh
+身	vfhh
 躬	gshn
 躭	djhu
 躯	quhk
@@ -27587,11 +27587,11 @@ use_preset_vocabulary: true
 軆	tiht
 軇	dkhi
 軉	yuhc
-車	eejj	99.99%
-車	jujj	0.01%
-軋	gaju	22.32%
-軋	yaju	27.90%
-軋	aaju	49.79%
+車	eejj
+車	jujj
+軋	gaju
+軋	yaju
+軋	aaju
 軌	gmjn
 軍	jnbj
 軎	wqjr
@@ -27661,8 +27661,8 @@ use_preset_vocabulary: true
 輁	qsjc
 輂	gstj
 輂	jutj
-較	jzjk	100%
-較	jmjk	0%
+較	jzjk
+較	jmjk
 輄	gtju
 輅	lujr
 輅	lojr
@@ -27732,8 +27732,8 @@ use_preset_vocabulary: true
 輻	fujw
 輼	wfjt
 輽	fjjw
-輾	nwjv	43.48%
-輾	ajjv	56.52%
+輾	nwjv
+輾	ajjv
 輿	yuhc
 轀	wfjt
 轁	dkjx
@@ -27750,8 +27750,8 @@ use_preset_vocabulary: true
 轊	wqjm
 轋	hnjj
 轋	lwjj
-轍	eejk	0%
-轍	aejk	100%
+轍	eejk
+轍	aejk
 轎	jzjb
 轏	ejjd
 轏	ajjd
@@ -27780,11 +27780,11 @@ use_preset_vocabulary: true
 轣	lijm
 轤	lujt
 轥	lcjg
-车	eekq	99.99%
-车	jukq	0.01%
-轧	gaku	22.32%
-轧	yaku	27.90%
-轧	aaku	49.79%
+车	eekq
+车	jukq
+轧	gaku
+轧	yaku
+轧	aaku
 轨	gmkn
 轩	xpkj
 轪	dlkk
@@ -27832,7 +27832,7 @@ use_preset_vocabulary: true
 辔	pqvr
 辕	ypkv
 辖	xdkr
-辗	ajkv	56.52%
+辗	ajkv
 辘	lukp
 辙	eekk
 辙	aekk
@@ -27841,8 +27841,8 @@ use_preset_vocabulary: true
 辜	gujj
 辝	ciij
 辞	cihj
-辟	bisj	50%
-辟	pisj	50%
+辟	bisj
+辟	pisj
 辠	zmhj
 辡	bwyj
 辢	ladj
@@ -27870,11 +27870,11 @@ use_preset_vocabulary: true
 辸	rgys
 边	bwys
 辺	bwyh
-辻	vixj
+辻	viyj
 辽	lzyn
-达	daxk
-达	taxk
-达	tixk
+达	dayk
+达	tayk
+达	tiyk
 辿	ejyu
 迀	gjyj
 迁	qwyj
@@ -27882,10 +27882,10 @@ use_preset_vocabulary: true
 迃	yuys
 迄	qiyn
 迅	xnyj
-迆	yixd
+迆	yiyd
 过	goyi
 迈	mlys
-迉	vixs
+迉	viys
 迊	zayb
 迋	gtyg
 迋	whyg
@@ -27905,11 +27905,11 @@ use_preset_vocabulary: true
 迖	tayk
 迖	tiyk
 迗	oeyk
-还	hlyf	98.01%
-还	hpyf	1.99%
-还	xpyf	0%
-这	aeyk	98.59%
-这	aqyk	1.41%
+还	hlyf
+还	hpyf
+还	xpyf
+这	aeyk
+这	aqyk
 进	jcyt
 远	ypyu
 违	wqys
@@ -27930,8 +27930,8 @@ use_preset_vocabulary: true
 迨	dlyr
 迩	oryf
 迪	diyw
-迫	plya	1%
-迫	poya	99%
+迫	plya
+迫	poya
 迬	whyg
 迭	dxyo
 迮	zeys
@@ -27946,22 +27946,22 @@ use_preset_vocabulary: true
 迵	tsyr
 迶	ybyb
 迷	miyd
-迸	bgxt	100%
-迸	byxt	0%
+迸	bgyt
+迸	byyt
 迹	jiyc
 迺	nlyw
 迻	yiyn
 迼	jiyr
 迼	jxyr
-追	dmyr	0%
-追	amyr	100%
+追	dmyr
+追	amyr
 迾	lxyn
 迿	xnya
 退	tmyv
 送	ssyk
 适	gdyr
 适	koyr
-适	viyr	0%
+适	viyr
 逃	tkyo
 逄	phyq
 逅	gbyr
@@ -27970,13 +27970,13 @@ use_preset_vocabulary: true
 逇	dnyd
 逈	jsyr
 选	xpyu
-逊	xnxf
+逊	xnyf
 逋	buyb
 逋	fuyb
 逌	ybys
 逍	xzyb
-逎	qrxw
-逎	ybxw
+逎	qryw
+逎	ybyw
 透	tbys
 逐	auyo
 逑	qrye
@@ -27989,20 +27989,20 @@ use_preset_vocabulary: true
 逗	dbyt
 逘	siyk
 逘	yiyk
-這	aeyr	98.59%
-這	aqyr	1.41%
+這	aeyr
+這	aqyr
 通	tsyb
 逛	gtyg
-逜	wuxr
+逜	wuyr
 逝	viyl
 逞	egyg
 速	suyl
-造	ckyr	0%
-造	zkyr	100%
+造	ckyr
+造	zkyr
 逡	jnye
 逡	qnye
-逢	fgyj	100%
-逢	pgyj	0%
+逢	fgyj
+逢	pgyj
 連	lwyj
 逤	vayh
 逤	soyh
@@ -28010,14 +28010,14 @@ use_preset_vocabulary: true
 逦	liyb
 逨	llyo
 逩	bfyt
-逪	coxa
+逪	coya
 逫	jmye
 逬	bgyj
 逬	byyj
 逭	gpyr
 逭	hpyr
-逮	dlye	100%
-逮	diye	0%
+逮	dlye
+逮	diye
 逯	luye
 逰	ybyd
 週	abyr
@@ -28053,8 +28053,8 @@ use_preset_vocabulary: true
 遊	ybyd
 運	ynyj
 遌	wuys
-遍	bwyb	100%
-遍	pwyb	0%
+遍	bwyb
+遍	pwyb
 過	goyr
 遏	oeyv
 遐	xdye
@@ -28062,10 +28062,10 @@ use_preset_vocabulary: true
 遒	qryw
 遒	ybyw
 道	dkyu
-達	dayq	100%
-達	tayq	0%
+達	dayq
+達	tayq
 違	wqyq
-遗	yixo	98.44%
+遗	yiyo
 遘	gbyb
 遙	ykyu
 遚	ebye
@@ -28081,12 +28081,12 @@ use_preset_vocabulary: true
 遡	soyb
 遢	taym
 遣	qwyr
-遥	ykxu
+遥	ykyu
 遦	gpyc
 遧	ahyj
 遨	okyk
-適	diyb	0.12%
-適	viyb	99.88%
+適	diyb
+適	viyb
 遪	cayh
 遫	eiyk
 遫	suyk
@@ -28098,8 +28098,8 @@ use_preset_vocabulary: true
 遰	diyb
 遰	aiyb
 遱	lbyv
-遲	eiyq	100%
-遲	aiyq	0%
+遲	eiyq
+遲	aiyq
 遳	coyg
 遴	lcyq
 遵	znyi
@@ -28107,22 +28107,22 @@ use_preset_vocabulary: true
 遷	qwyu
 選	xpyc
 遹	yuyb
-遺	wqyc	1.56%
-遺	yiyc	98.44%
+遺	wqyc
+遺	yiyc
 遻	oeyu
 遻	wuyu
 遼	lzyf
 遽	juyo
 遾	viyo
-避	bqyj	0%
-避	biyj	100%
+避	bqyj
+避	biyj
 邀	ykyk
 邁	mlyb
 邂	xxyq
 邃	smyo
-還	hlyv	98.01%
-還	hpyv	1.99%
-還	xpyv	0%
+還	hlyv
+還	hpyv
+還	xpyv
 邅	tjym
 邅	ajym
 邆	dgyt
@@ -28131,8 +28131,8 @@ use_preset_vocabulary: true
 邈	mzyu
 邉	bwyr
 邊	bwys
-邋	laxv
-邋	lxxv
+邋	layv
+邋	lxyv
 邌	liye
 邍	ypye
 邎	ykyf
@@ -28160,26 +28160,26 @@ use_preset_vocabulary: true
 邠	ffcl
 邡	fhyl
 邢	xyml
-那	nasl	99.69%
-那	nesl	0%
-那	nqsl	0.31%
-那	nosl	0%
+那	nasl
+那	nesl
+那	nqsl
+那	nosl
 邤	xchl
 邥	vfll
 邦	bhhl
 邧	ypml
 邨	cnpl
 邩	hofl
-邪	xdml	0%
-邪	xxml	99.28%
-邪	xuml	0%
-邪	yeml	0.72%
-邪	yuml	0%
+邪	xdml
+邪	xxml
+邪	xuml
+邪	yeml
+邪	yuml
 邫	bhqu
 邬	wupl
 邭	jupl
 邮	dill
-邮	ybll	0%
+邮	ybll
 邯	hjtl
 邰	tlil
 邱	qrol
@@ -28259,8 +28259,8 @@ use_preset_vocabulary: true
 郱	pytl
 郲	lldl
 郳	nihl
-郴	bcdl	0%
-郴	efdl	100%
+郴	bcdl
+郴	efdl
 郵	ybhl
 郶	buyu
 郷	xtvl
@@ -28270,8 +28270,8 @@ use_preset_vocabulary: true
 郻	qzbl
 郼	wqdl
 郼	yidl
-都	dbjl	94.64%
-都	dujl	5.36%
+都	dbjl
+都	dujl
 郾	yjsl
 郿	mqal
 鄀	rotl
@@ -28390,9 +28390,9 @@ use_preset_vocabulary: true
 酠	kemr
 酠	qdmr
 酡	tomp
-酢	cums	22.22%
-酢	aams	0%
-酢	zoms	77.78%
+酢	cums
+酢	aams
+酢	zoms
 酣	gjmm
 酣	hjmm
 酤	gumr
@@ -28424,7 +28424,7 @@ use_preset_vocabulary: true
 酻	zmmd
 酼	hlmu
 酽	yjmh
-酾	vimb	50%
+酾	vimb
 酿	ntmv
 醀	wqmg
 醁	lume
@@ -28439,8 +28439,8 @@ use_preset_vocabulary: true
 醈	tjmf
 醉	zmmj
 醊	eome
-醋	cuma	100%
-醋	zoma	0%
+醋	cuma
+醋	zoma
 醌	knmp
 醍	vimo
 醍	timo
@@ -28506,8 +28506,8 @@ use_preset_vocabulary: true
 釁	xchh
 釂	jzmi
 釂	jmmi
-釃	limp	50%
-釃	vimp	50%
+釃	limp
+釃	vimp
 釄	mimy
 釅	yjmk
 釆	bwhd
@@ -28518,8 +28518,8 @@ use_preset_vocabulary: true
 释	vihq
 釋	vihj
 里	liwg
-重	eshg	41.55%
-重	ashg	58.45%
+重	eshg
+重	ashg
 野	yewn
 量	ltag
 釐	lijg
@@ -28583,8 +28583,8 @@ use_preset_vocabulary: true
 釽	pico
 釾	yech
 釿	yccl
-鈀	bacu	90.38%
-鈀	pacu	9.62%
+鈀	bacu
+鈀	pacu
 鈁	fhcs
 鈂	efcu
 鈃	jwct
@@ -28660,8 +28660,8 @@ use_preset_vocabulary: true
 鈼	zocs
 鈽	bucb
 鈾	ybcw
-鈿	dwcw	31.03%
-鈿	twcw	68.97%
+鈿	dwcw
+鈿	twcw
 鉀	jdcl
 鉁	afch
 鉂	vick
@@ -28676,13 +28676,13 @@ use_preset_vocabulary: true
 鉇	tacd
 鉇	tocd
 鉈	vecp
-鉈	tacp	61.97%
-鉈	tocp	38.03%
+鉈	tacp
+鉈	tocp
 鉉	xwci
 鉉	xpci
 鉊	akcr
-鉋	bkcu	4.64%
-鉋	pkcu	95.36%
+鉋	bkcu
+鉋	pkcu
 鉌	hecd
 鉌	sucd
 鉍	bich
@@ -28699,8 +28699,8 @@ use_preset_vocabulary: true
 鉘	fucn
 鉙	alcc
 鉚	mkcl
-鉛	qwcr	99.33%
-鉛	yjcr	0.67%
+鉛	qwcr
+鉛	yjcr
 鉜	fuci
 鉝	lict
 鉞	ymcv
@@ -28762,8 +28762,8 @@ use_preset_vocabulary: true
 銎	qsmc
 銏	vjcm
 銐	wumc
-銑	xicu	77.92%
-銑	xwcu	22.09%
+銑	xicu
+銑	xwcu
 銒	jwcj
 銒	xycj
 銒	yjcj
@@ -28777,8 +28777,8 @@ use_preset_vocabulary: true
 銗	xtcr
 銘	mycr
 銙	kdcs
-銚	dzco	50%
-銚	ykco	50%
+銚	dzco
+銚	ykco
 銚	akco
 銛	twcr
 銛	xwcr
@@ -28943,8 +28943,8 @@ use_preset_vocabulary: true
 錟	yjcf
 錠	dyco
 錡	qicr
-錢	jwci	0%
-錢	qwci	100%
+錢	jwci
+錢	qwci
 錣	eoce
 錣	amce
 錣	aoce
@@ -28953,8 +28953,8 @@ use_preset_vocabulary: true
 錥	yucb
 錦	jccb
 錧	gpcr
-錨	mkcw	100%
-錨	mzcw	0%
+錨	mkcw
+錨	mzcw
 錩	ehca
 錪	dwcc
 錪	twcc
@@ -28963,8 +28963,8 @@ use_preset_vocabulary: true
 錭	dzcr
 錭	tkcr
 錮	gucr
-錯	cuca	0%
-錯	coca	100%
+錯	cuca
+錯	coca
 錰	vucf
 錱	afcg
 録	luce
@@ -29011,9 +29011,9 @@ use_preset_vocabulary: true
 鍖	afcv
 鍗	dicb
 鍗	ticb
-鍘	cecn	0%
-鍘	zecn	0%
-鍘	aacn	100%
+鍘	cecn
+鍘	zecn
+鍘	aacn
 鍙	hsec
 鍚	yhch
 鍛	dpce
@@ -29114,8 +29114,8 @@ use_preset_vocabulary: true
 鎩	vlce
 鎪	sbce
 鎫	wjce
-鎬	gkcb	69.31%
-鎬	hkcb	30.69%
+鎬	gkcb
+鎬	hkcb
 鎭	afcc
 鎮	afcc
 鎯	lhcl
@@ -29282,8 +29282,8 @@ use_preset_vocabulary: true
 鐷	yecd
 鐸	docj
 鐹	gocb
-鐺	egcw	1.90%
-鐺	dhcw	98.10%
+鐺	egcw
+鐺	dhcw
 鐻	juco
 鐼	ffcc
 鐽	bicq
@@ -29346,8 +29346,8 @@ use_preset_vocabulary: true
 鑮	boci
 鑯	jwcm
 鑯	qwcm
-鑰	ykcb	91.40%
-鑰	ymcb	8.60%
+鑰	ykcb
+鑰	ymcb
 鑱	ejci
 鑲	xtcv
 鑳	jwco
@@ -29363,8 +29363,8 @@ use_preset_vocabulary: true
 鑼	locg
 鑽	zpcc
 鑾	lpvc
-鑿	zktc	89.37%
-鑿	zotc	10.63%
+鑿	zktc
+鑿	zotc
 钀	nxck
 钁	jmce
 钂	thcf
@@ -29402,8 +29402,8 @@ use_preset_vocabulary: true
 钢	ghok
 钣	bjoe
 钤	qwon
-钥	ykob	91.40%
-钥	ymob	8.60%
+钥	ykob
+钥	ymob
 钦	qcoo
 钧	jnom
 钨	wuom
@@ -29411,10 +29411,10 @@ use_preset_vocabulary: true
 钪	khon
 钫	fhos
 钬	hoof
-钭	tboj	48%
+钭	tboj
 钮	nrog
-钯	baou	90.38%
-钯	paou	9.62%
+钯	baou
+钯	paou
 钰	yuoi
 钱	qwoj
 钲	agom
@@ -29430,19 +29430,19 @@ use_preset_vocabulary: true
 钼	muou
 钽	tjom
 钾	jdol
-钿	dwow	31.03%
-钿	twow	68.97%
+钿	dwow
+钿	twow
 铀	ybow
 铁	txoo
 铂	booa
 铃	lyoi
 铄	vood
-铅	qwor	99.33%
+铅	qwor
 铆	mkol
 铇	bkou
 铈	viob
 铉	xpoi
-铊	taop	61.97%
+铊	taop
 铋	bioh
 铌	niop
 铍	pioe
@@ -29459,8 +29459,8 @@ use_preset_vocabulary: true
 铘	yeol
 铙	nkou
 铚	aiog
-铛	egom	1.90%
-铛	dhom	98.10%
+铛	egom
+铛	dhom
 铜	tsor
 铝	lvor
 铞	dzob
@@ -29468,8 +29468,8 @@ use_preset_vocabulary: true
 铠	klou
 铡	aaon
 铢	auod
-铣	xiou	77.92%
-铣	xwou	22.09%
+铣	xiou
+铣	xwou
 铤	dyog
 铤	tyog
 铥	droi
@@ -29478,8 +29478,8 @@ use_preset_vocabulary: true
 铨	qpog
 铩	vaod
 铪	haor
-铫	dzoo	50%
-铫	ykoo	50%
+铫	dzoo
+铫	ykoo
 铬	geor
 铭	myor
 铮	agod
@@ -29580,8 +29580,8 @@ use_preset_vocabulary: true
 镍	nxod
 镎	naoq
 镏	lrow
-镐	gkob	69.31%
-镐	hkob	30.69%
+镐	gkob
+镐	hkob
 镑	bhos
 镒	yiot
 镓	jdoo
@@ -29603,7 +29603,7 @@ use_preset_vocabulary: true
 镣	lzof
 镤	puoo
 镥	luoa
-镦	dnok	9.09%
+镦	dnok
 镧	ljow
 镨	puoa
 镩	cpol
@@ -29620,8 +29620,8 @@ use_preset_vocabulary: true
 镴	laov
 镵	ejoi
 镶	xtov
-長	ehsv	60.26%
-長	ahsv	39.74%
+長	ehsv
+長	ahsv
 镸	ehsi
 镸	ahsi
 镹	jrso
@@ -29630,8 +29630,8 @@ use_preset_vocabulary: true
 镼	qusu
 镽	lzsf
 镾	misb
-长	ehpo	60.26%
-长	ahpo	39.74%
+长	ehpo
+长	ahpo
 門	mfan
 閁	maah
 閂	vpam
@@ -29651,8 +29651,8 @@ use_preset_vocabulary: true
 閏	rnag
 閐	sjau
 閑	xwad
-閒	jwab	0%
-閒	xwab	100%
+閒	jwab
+閒	xwab
 間	jwaa
 閔	mcak
 閕	xdah
@@ -29670,10 +29670,10 @@ use_preset_vocabulary: true
 閠	rnai
 閡	heao
 関	gpak
-閣	gkar	0%
-閣	gear	100%
-閤	gear	0%
-閤	hear	100%
+閣	gkar
+閣	gear
+閤	gear
+閤	hear
 閥	faai
 閦	euao
 閧	hsac
@@ -29732,11 +29732,11 @@ use_preset_vocabulary: true
 闑	nxad
 闒	taam
 闓	klat
-闔	glat	0%
+闔	glat
 闔	heat
 闕	qmao
-闖	efaf	0%
-闖	etaf	100%
+闖	efaf
+闖	etaf
 闗	gpaf
 闘	dbai
 闙	qiar
@@ -29744,8 +29744,8 @@ use_preset_vocabulary: true
 闛	thag
 關	gpat
 闝	pzak
-闞	hjak	2.27%
-闞	kjak	97.73%
+闞	hjak
+闞	kjak
 闟	taam
 闟	xiam
 闠	gmac
@@ -29783,7 +29783,7 @@ use_preset_vocabulary: true
 闿	kllu
 阀	fali
 阁	gelr
-阂	helo	96.55%
+阂	helo
 阃	knld
 阄	jrlu
 阅	ymlu
@@ -29808,7 +29808,7 @@ use_preset_vocabulary: true
 阗	twlc
 阘	dalm
 阙	qmlo
-阚	kjlk	97.73%
+阚	kjlk
 阛	hplv
 阜	buhj
 阜	fuhj
@@ -29857,30 +29857,30 @@ use_preset_vocabulary: true
 阺	dinm
 阻	zunm
 阼	zons
-阽	dwnr	50%
-阽	yjnr	50%
+阽	dwnr
+阽	yjnr
 阾	lyni
-阿	oanr	99.89%
-阿	oenr	0.11%
+阿	oanr
+阿	oenr
 陀	tonp
 陁	tond
 陂	bqne
 陂	pine
-陂	pone	5%
+陂	pone
 陃	bynb
 附	funi
 际	jinf
-陆	lrnu	6.25%
-陆	lunu	93.75%
+陆	lrnu
+陆	lunu
 陇	lsnp
 陈	efnd
 陉	xynm
 陊	donn
 陋	lbnv
-陌	blna	0%
-陌	mona	100%
-降	jtnq	99.06%
-降	xtnq	0.94%
+陌	blna
+陌	mona
+降	jtnq
+降	xtnq
 陎	vund
 陏	donb
 陏	smnb
@@ -29900,17 +29900,17 @@ use_preset_vocabulary: true
 陙	ennv
 陚	funm
 陛	bing
-陜	vjno	100%
-陜	xdno	0%
-陝	vjno	100%
-陝	xdno	0%
+陜	vjno
+陜	xdno
+陝	vjno
+陝	xdno
 陞	vgng
 陟	bunh
 陟	ainh
 陠	bunb
 陠	punb
-陡	dbno	100%
-陡	tuno	0%
+陡	dbno
+陡	tuno
 院	ypnu
 陣	afnj
 除	eund
@@ -29925,20 +29925,20 @@ use_preset_vocabulary: true
 陭	yinr
 陮	dmng
 陯	lnnb
-陰	ojni	0%
-陰	ycni	100%
+陰	ojni
+陰	ycni
 陱	jund
 陲	emnm
-陳	efnw	100%
-陳	afnw	0%
+陳	efnw
+陳	afnw
 陴	pinj
 陵	lyne
-陶	tknu	99.94%
-陶	yknu	0.06%
+陶	tknu
+陶	yknu
 陷	xwnx
 陷	xpnx
-陸	lrng	6.25%
-陸	lung	93.75%
+陸	lrng
+陸	lung
 陹	vgna
 険	xwno
 陻	yjng
@@ -29975,17 +29975,17 @@ use_preset_vocabulary: true
 隒	qwnc
 隒	yjnc
 隓	hmnm
-隔	genb	100%
-隔	jxnb	0%
-隕	snnc	0%
-隕	ypnc	0%
-隕	ynnc	100%
+隔	genb
+隔	jxnb
+隕	snnc
+隕	ypnc
+隕	ynnc
 隖	wunf
 隗	wqni
 隘	olnt
 隘	oent
-隘	gant	0%
-隙	qinf	0%
+隘	gant
+隙	qinf
 隙	xinf
 隚	thng
 際	jinf
@@ -30019,7 +30019,7 @@ use_preset_vocabulary: true
 隴	lsnp
 隵	xini
 隶	dlle
-隶	lile	0%
+隶	lile
 隷	lige
 隸	lide
 隹	amog
@@ -30027,14 +30027,14 @@ use_preset_vocabulary: true
 隺	huog
 隺	qmog
 隻	aioe
-隼	snoj	100%
-隼	anoj	0%
-隽	jpos	33.73%
-隽	jnos	66.27%
+隼	snoj
+隼	anoj
+隽	jpos
+隽	jnos
 难	njeg
 隿	yiig
-雀	qzfg	0.21%
-雀	qmfg	99.79%
+雀	qzfg
+雀	qmfg
 雁	yjmg
 雂	qwog
 雂	qcog
@@ -30048,8 +30048,8 @@ use_preset_vocabulary: true
 雈	hptg
 雉	aiog
 雊	gbpg
-雋	jpos	33.73%
-雋	jnos	66.27%
+雋	jpos
+雋	jnos
 雌	ciyg
 雍	ysyg
 雎	jubg
@@ -30077,8 +30077,8 @@ use_preset_vocabulary: true
 雠	ebog
 雡	lrsg
 離	liyg
-難	njtg	100%
-難	notg	0%
+難	njtg
+難	notg
 雤	xmhg
 雥	zaog
 雦	jiog
@@ -30100,8 +30100,8 @@ use_preset_vocabulary: true
 雴	eimt
 雵	ohmk
 雵	yhmk
-零	lwmi	0%
-零	lymi	100%
+零	lwmi
+零	lymi
 雷	lqmw
 雸	ojmm
 雸	gjmm
@@ -30116,10 +30116,10 @@ use_preset_vocabulary: true
 雽	yumd
 雾	wums
 雿	akmo
-需	noml	0%
-需	ruml	0%
-需	rpml	0%
-需	xuml	100%
+需	noml
+需	ruml
+需	rpml
+需	xuml
 霁	jiml
 霂	mumd
 霃	efmu
@@ -30176,8 +30176,8 @@ use_preset_vocabulary: true
 霰	sjmk
 霰	xwmk
 霱	yumb
-露	lbmr	34.39%
-露	lumr	65.61%
+露	lbmr
+露	lumr
 霳	lsmm
 霴	dlme
 霵	jimj
@@ -30188,11 +30188,11 @@ use_preset_vocabulary: true
 霺	wqmk
 霻	fgmt
 霼	ximd
-霽	jimx	100%
-霽	qimx	0%
-霽	almx	0%
-霾	limg	0%
-霾	mlmg	100%
+霽	jimx
+霽	qimx
+霽	almx
+霾	limg
+霾	mlmg
 霿	mgmu
 靀	mgmo
 靁	lqmw
@@ -30211,12 +30211,12 @@ use_preset_vocabulary: true
 靎	hemf
 靏	hemf
 靐	bymw
-靑	jyqb	0%
-靑	qyqb	100%
-青	jyqb	0%
-青	qyqb	100%
-靓	jyqu	0.85%
-靓	ltqu	99.15%
+靑	jyqb
+靑	qyqb
+青	jyqb
+青	qyqb
+靓	jyqu
+靓	ltqu
 靔	twqn
 靕	afmb
 靖	jyyb
@@ -30224,9 +30224,9 @@ use_preset_vocabulary: true
 靘	qyqu
 靘	yjqu
 静	jyqd
-靚	jyqu	0.85%
-靚	ltqu	99.15%
-靚	qwqu	0%
+靚	jyqu
+靚	ltqu
+靚	qwqu
 靛	dwqo
 靛	dyqo
 靜	jyqd
@@ -30245,8 +30245,8 @@ use_preset_vocabulary: true
 靧	hmmc
 靨	yjml
 靨	yeml
-革	getj	98.54%
-革	jitj	1.46%
+革	getj
+革	jitj
 靪	dytn
 靫	elti
 靬	gjtj
@@ -30290,8 +30290,8 @@ use_preset_vocabulary: true
 鞈	jdtr
 鞉	tkto
 鞊	jitr
-鞋	hltg	0%
-鞋	xxtg	100%
+鞋	hltg
+鞋	xxtg
 鞌	ojjj
 鞍	ojtv
 鞎	hftv
@@ -30412,8 +30412,8 @@ use_preset_vocabulary: true
 韰	xxym
 韱	qwom
 韱	xwom
-韲	jixs
-韲	jrxs
+韲	jiym
+韲	jrym
 音	ycya
 韴	zayb
 韵	ynym
@@ -30429,8 +30429,8 @@ use_preset_vocabulary: true
 韾	ycga
 響	xtva
 頀	huye
-頁	xxmc	0%
-頁	yemc	100%
+頁	xxmc
+頁	yemc
 頂	dymc
 頃	qypc
 頄	pjkc
@@ -30443,16 +30443,16 @@ use_preset_vocabulary: true
 頉	yiyc
 頊	xumc
 頋	oemc
-頌	rscc	0%
-頌	sscc	100%
+頌	rscc
+頌	sscc
 頍	kmjc
 頎	qihc
 頏	hhyc
 預	yunc
 頑	wjmc
 頒	bjcc
-頓	dupc	1.36%
-頓	dnpc	98.64%
+頓	dupc
+頓	dnpc
 頔	dilc
 頕	djyc
 頕	dwyc
@@ -30464,15 +30464,15 @@ use_preset_vocabulary: true
 頛	lqqc
 頜	geoc
 頜	hjoc
-頜	heoc	91.01%
+頜	heoc
 頝	jzyc
 頝	qzyc
 頞	oejc
 頟	oehc
 頠	wqnc
-頡	jdgc	0%
-頡	jxgc	95.52%
-頡	xxgc	4.48%
+頡	jdgc
+頡	jxgc
+頡	xxgc
 頢	kohc
 頣	vfsc
 頤	yisc
@@ -30500,8 +30500,8 @@ use_preset_vocabulary: true
 頵	jnsc
 頶	huhc
 頷	hjoc
-頸	ggmc	2.66%
-頸	jymc	97.34%
+頸	ggmc
+頸	jymc
 頹	tmhc
 頺	tmhc
 頻	pcyc
@@ -30516,7 +30516,7 @@ use_preset_vocabulary: true
 顄	hjuc
 顅	qwhc
 顆	kewc
-顇	cmxb
+顇	cmyc
 顈	jspc
 顈	qspc
 顈	yypc
@@ -30527,7 +30527,7 @@ use_preset_vocabulary: true
 題	tiac
 額	oejc
 顎	oerc
-顏	yjxb
+顏	yjyc
 顐	hnbc
 顐	wfbc
 顑	kjic
@@ -30567,10 +30567,10 @@ use_preset_vocabulary: true
 顨	xnml
 顩	qwoc
 顩	yjoc
-顪	hmxm
-顪	smxm
-顫	ejyc	90.89%
-顫	ajyc	9.11%
+顪	hmyc
+顪	smyc
+顫	ejyc
+顫	ajyc
 顬	rumc
 顭	mgtc
 顮	bcjc
@@ -30591,7 +30591,7 @@ use_preset_vocabulary: true
 顼	xumo
 顽	wjmo
 顾	gumo
-顿	dnpo	98.64%
+顿	dnpo
 颀	qiho
 颁	bjco
 颂	ssco
@@ -30600,11 +30600,11 @@ use_preset_vocabulary: true
 颅	luyo
 领	lyoo
 颇	podo
-颈	jyno	97.34%
-颉	xxgo	4.48%
+颈	jyno
+颉	xxgo
 颊	jdko
 颋	tyno
-颌	heoo	91.01%
+颌	heoo
 颍	yypo
 颎	jspo
 颏	keyo
@@ -30628,7 +30628,7 @@ use_preset_vocabulary: true
 颡	sheo
 颢	hkao
 颣	lqfo
-颤	ejyo	90.89%
+颤	ejyo
 颥	rumo
 颦	pcyj
 颧	qpto
@@ -30695,9 +30695,9 @@ use_preset_vocabulary: true
 飜	fjho
 飝	fqno
 飞	fqno
-食	viov	96.65%
-食	siov	3.35%
-食	yiov	0%
+食	viov
+食	siov
+食	yiov
 飠	vioi
 飡	cjiv
 飢	jion
@@ -30935,18 +30935,18 @@ use_preset_vocabulary: true
 馫	xyha
 馬	masf
 馭	yuse
-馮	fgif	100%
-馮	pyif	0%
+馮	fgif
+馮	pyif
 馯	gjsj
 馯	hjsj
 馰	disi
-馱	dosk	3.27%
-馱	tosk	96.73%
+馱	dosk
+馱	tosk
 馲	tosp
 馲	aesp
 馳	eisd
-馴	vnsl	0%
-馴	xnsl	100%
+馴	vnsl
+馴	xnsl
 馵	aust
 馶	aise
 馷	pqsb
@@ -31015,8 +31015,8 @@ use_preset_vocabulary: true
 駪	xwsu
 駫	jssu
 駬	orsj
-駭	hlso	100%
-駭	xxso	0%
+駭	hlso
+駭	xxso
 駮	bosk
 駯	ausd
 駰	ycsk
@@ -31053,8 +31053,8 @@ use_preset_vocabulary: true
 騋	llso
 騌	zssf
 騍	kesd
-騎	jisr	0.82%
-騎	qisr	99.18%
+騎	jisr
+騎	qisr
 騏	qisc
 騐	yjsp
 騑	fqsy
@@ -31168,8 +31168,8 @@ use_preset_vocabulary: true
 驫	bzsf
 马	manm
 驭	yune
-驮	donk	3.27%
-驮	tonk	96.73%
+驮	donk
+驮	tonk
 驯	xnnl
 驰	eind
 驱	qunk
@@ -31204,7 +31204,7 @@ use_preset_vocabulary: true
 骎	qcne
 骏	jnne
 骐	qinc
-骑	qinr	99.18%
+骑	qinr
 骒	kend
 骓	amng
 骔	zsnf
@@ -31219,7 +31219,7 @@ use_preset_vocabulary: true
 骝	lrnw
 骞	qwjm
 骟	vjnm
-骠	pznf	15.56%
+骠	pznf
 骡	lonf
 骢	csnp
 骣	ejnd
@@ -31394,8 +31394,8 @@ use_preset_vocabulary: true
 鬯	ehup
 鬰	yudh
 鬱	yudh
-鬲	geml	50%
-鬲	liml	50%
+鬲	geml
+鬲	liml
 鬳	geyb
 鬳	jpyb
 鬴	gemb
@@ -31423,8 +31423,8 @@ use_preset_vocabulary: true
 魁	kmhj
 魂	hnmi
 魃	bahe
-魄	pohi	100%
-魄	tohi	0%
+魄	pohi
+魄	tohi
 魅	mqhd
 魆	xuhv
 魆	ymhv
@@ -31611,8 +31611,8 @@ use_preset_vocabulary: true
 鯥	lung
 鯦	jrnr
 鯧	ehna
-鯨	jynf	100%
-鯨	qynf	0%
+鯨	jynf
+鯨	qynf
 鯩	lnnb
 鯪	lyne
 鯫	zbne
@@ -31882,8 +31882,8 @@ use_preset_vocabulary: true
 鳢	lint
 鳣	ajnm
 鳤	gpnr
-鳥	dzhf	0.14%
-鳥	nzhf	99.86%
+鳥	dzhf
+鳥	nzhf
 鳦	yihn
 鳧	fuhn
 鳧	jihn
@@ -31908,7 +31908,7 @@ use_preset_vocabulary: true
 鳹	qwof
 鳺	fuqf
 鳻	ffcf
-鳼	wfxh
+鳼	wfyf
 鳽	jwmf
 鳽	yjmf
 鳾	vimf
@@ -31940,12 +31940,12 @@ use_preset_vocabulary: true
 鴔	fuhf
 鴕	tohp
 鴖	wfrf
-鴗	lixa
+鴗	liyf
 鴘	bwif
 鴙	aiof
 鴚	gehr
 鴛	ypnf
-鴜	cixh
+鴜	ciyf
 鴝	qupf
 鴞	xzrf
 鴞	xrrf
@@ -32020,8 +32020,8 @@ use_preset_vocabulary: true
 鵞	oehf
 鵟	ktkf
 鵠	gkhf
-鵠	guhf	50%
-鵠	huhf	50%
+鵠	guhf
+鵠	huhf
 鵡	wumf
 鵢	vfhf
 鵣	lldf
@@ -32039,8 +32039,8 @@ use_preset_vocabulary: true
 鵯	bqhf
 鵰	dzbf
 鵱	lugf
-鵲	qztf	0%
-鵲	qmtf	100%
+鵲	qztf
+鵲	qmtf
 鵳	jwhf
 鵴	jupf
 鵵	tunf
@@ -32072,7 +32072,7 @@ use_preset_vocabulary: true
 鶋	jusf
 鶌	qusf
 鶏	jibf
-鶐	vuxa
+鶐	vuyf
 鶑	yyff
 鶒	eidf
 鶓	mztf
@@ -32107,7 +32107,7 @@ use_preset_vocabulary: true
 鶪	jmbf
 鶬	chof
 鶭	fhvf
-鶮	hexa
+鶮	heyf
 鶯	yyff
 鶰	yprf
 鶱	qwjf
@@ -32115,8 +32115,8 @@ use_preset_vocabulary: true
 鶱	xpjf
 鶲	wgcf
 鶳	vihb
-鶴	hkjf	0%
-鶴	hejf	100%
+鶴	hkjf
+鶴	hejf
 鶵	eupf
 鶶	thif
 鶷	gejf
@@ -32175,8 +32175,8 @@ use_preset_vocabulary: true
 鷜	lblf
 鷝	biwf
 鷞	vtkf
-鷟	aoxa
-鷟	zuxa
+鷟	aoyf
+鷟	zuyf
 鷠	yunf
 鷡	wuof
 鷢	jmmf
@@ -32244,7 +32244,7 @@ use_preset_vocabulary: true
 鸕	luyf
 鸖	hkmf
 鸖	hemf
-鸗	lsxa
+鸗	lsyf
 鸘	vtmf
 鸙	ymof
 鸚	yybf
@@ -32252,7 +32252,7 @@ use_preset_vocabulary: true
 鸜	qubf
 鸝	limf
 鸞	lpvf
-鸟	nzpm	99.86%
+鸟	nzpm
 鸠	jrkm
 鸡	jiem
 鸢	ypim
@@ -32289,8 +32289,8 @@ use_preset_vocabulary: true
 鹁	bojm
 鹂	limm
 鹃	jprm
-鹄	guhm	50%
-鹄	huhm	50%
+鹄	guhm
+鹄	huhm
 鹅	oehm
 鹆	yucm
 鹇	xwlm
@@ -32310,7 +32310,7 @@ use_preset_vocabulary: true
 鹕	hujm
 鹖	heam
 鹗	oerm
-鹘	hubm	50%
+鹘	hubm
 鹙	qrhm
 鹚	citm
 鹛	mqam
@@ -32342,13 +32342,13 @@ use_preset_vocabulary: true
 鹵	luyi
 鹶	jyyn
 鹷	lyyi
-鹸	jwxm
+鹸	jwyo
 鹹	xwyr
 鹺	coym
 鹻	jwyc
 鹼	jwyo
 鹽	yjst
-鹾	coxq
+鹾	coym
 鹿	luip
 麀	ybip
 麁	cunp
@@ -32399,10 +32399,10 @@ use_preset_vocabulary: true
 麢	lyir
 麣	yjik
 麤	cuip
-麥	mlde	100%
-麥	mode	0%
-麦	mlqe	100%
-麦	moqe	0%
+麥	mlde
+麥	mode
+麦	mlqe
+麦	moqe
 麧	gedn
 麧	hudn
 麧	qidn
@@ -32413,14 +32413,14 @@ use_preset_vocabulary: true
 麬	fude
 麭	pkdu
 麮	qudi
-麯	judw	0%
-麯	qudw	100%
+麯	judw
+麯	qudw
 麰	mbdq
 麱	fudb
 麲	xwdu
 麳	lldo
-麴	judd	0%
-麴	qudd	100%
+麴	judd
+麴	qudd
 麵	mwdl
 麶	eidb
 麶	lidb
@@ -32429,12 +32429,12 @@ use_preset_vocabulary: true
 麹	quqd
 麺	mwql
 麻	maid
-麼	maii	0.04%
-麼	meii	99.93%
-麼	moii	1%
-麽	maii	0%
-麽	meii	93%
-麽	moii	7%
+麼	maii
+麼	meii
+麼	moii
+麽	maii
+麽	meii
+麽	moii
 麾	hkiu
 麾	hmiu
 麾	mkiu
@@ -32459,13 +32459,13 @@ use_preset_vocabulary: true
 黎	lihe
 黏	nwhr
 黐	eihb
-黑	hewf	0%
-黑	hqwf	100%
+黑	hewf
+黑	hqwf
 黒	hewf
 黒	hqwf
 黓	yiwp
-黔	qwwn	100%
-黔	qcwn	0%
+黔	qwwn
+黔	qcwn
 黕	djwu
 黕	afwu
 黖	jiwu
@@ -32504,8 +32504,8 @@ use_preset_vocabulary: true
 黱	dlbf
 黲	cjwh
 黳	yisf
-黴	hmhk	0%
-黴	mqhk	100%
+黴	hmhk
+黴	mqhk
 黵	djwr
 黶	yjmf
 黷	duwc
@@ -32609,22 +32609,22 @@ use_preset_vocabulary: true
 齇	aahm
 齈	nshv
 齉	nhhv
-齊	jiyx	0%
-齊	qiyx	100%
-齊	alyx	0%
-齊	ziyx	0%
+齊	jiyx
+齊	qiyx
+齊	alyx
+齊	ziyx
 齋	alyf
-齌	jixf
-齌	qixf
+齌	jiyf
+齌	qiyf
 齍	jiyt
 齍	ziyt
 齎	jiyc
 齏	jiym
 齏	jrym
-齐	jiyl	0%
-齐	qiyl	100%
-齐	alyl	0%
-齐	ziyl	0%
+齐	jiyl
+齐	qiyl
+齐	alyl
+齐	ziyl
 齑	jiyl
 齒	eiyo
 齓	efyu
@@ -32653,12 +32653,12 @@ use_preset_vocabulary: true
 齟	zuym
 齠	tzyr
 齡	lyyi
-齢	lyxm
+齢	lyyi
 齣	euyr
 齤	qpfu
 齥	xxyp
-齦	kfyv	11.11%
-齦	ycyv	88.89%
+齦	kfyv
+齦	ycyv
 齧	nxqu
 齨	jryx
 齩	jzyk
@@ -32693,28 +32693,28 @@ use_preset_vocabulary: true
 齽	jcyf
 齾	yayu
 齿	eiyo
-龀	efxp
-龁	hexn
-龂	ycxm
-龃	juxm
-龄	lyxi
-龅	bkxr
-龆	tzxh
-龇	zixm
-龈	kfxv	11.11%
-龈	ycxv	88.89%
-龉	yuxm
-龊	eoxy
-龋	quxl
-龌	woxm
+龀	efyp
+龁	heyn
+龂	ycyl
+龃	juym
+龄	lyyi
+龅	bkyu
+龆	tzyr
+龇	ziyp
+龈	kfyv
+龈	ycyv
+龉	yuyr
+龊	eoyo
+龋	quyb
+龌	woyg
 龍	lsyp
 龎	phmp
-龏	gsxt
+龏	gsyt
 龐	phip
 龑	yjyk
-龒	lsxm
+龒	lsyf
 龓	lskp
-龔	gsxc
+龔	gsyc
 龕	kjop
 龖	dayp
 龖	tayp
@@ -32724,12 +32724,12 @@ use_preset_vocabulary: true
 龙	lsip
 龚	gsic
 龛	kjop
-龜	gmhu	99.25%
-龜	jnhu	0.75%
-龜	qrhu	0%
+龜	gmhu
+龜	jnhu
+龜	qrhu
 龝	qrhu
 龞	bxfu
-龟	gmnu	99.25%
+龟	gmnu
 龠	ymob
 龡	emoo
 龢	heod
@@ -32805,14 +32805,14 @@ use_preset_vocabulary: true
 𠄮	yamm
 𠄱	yims
 𠄿	wqmq
-𠅂	jxxk
-𠅌	yixk
+𠅂	jxyk
+𠅌	yiyk
 𠅗	dxmk
 𠅚	qiyk
-𠅬	bkxe
+𠅬	bkye
 𠅱	xxpk
 𠅹	ahyi
-𠆌	ysxa
+𠆌	ysya
 𠆐	xuyf
 𠆙	dxyk
 𠆛	djyj
@@ -33216,7 +33216,7 @@ use_preset_vocabulary: true
 𠜉	jrnn
 𠜋	ebon
 𠜎	xwhn
-𠜐	kcxn
+𠜐	kcyn
 𠜑	dmcn
 𠜖	lobn
 𠜗	xikn
@@ -33270,7 +33270,7 @@ use_preset_vocabulary: true
 𠞧	miih
 𠞩	eiyn
 𠞩	vcyn
-𠞬	gnxn
+𠞬	gnyn
 𠞭	lbln
 𠞮	etkn
 𠞯	somn
@@ -33293,7 +33293,7 @@ use_preset_vocabulary: true
 𠟌	futn
 𠟌	pbtn
 𠟍	esyn
-𠟓	cmxn
+𠟓	cmyn
 𠟗	gdtn
 𠟣	jivn
 𠟦	semn
@@ -33307,7 +33307,7 @@ use_preset_vocabulary: true
 𠟺	rpmn
 𠟻	blbn
 𠟻	zebn
-𠟼	hpxl
+𠟼	hpyn
 𠠁	xwan
 𠠃	qwon
 𠠄	akgn
@@ -33336,7 +33336,7 @@ use_preset_vocabulary: true
 𠡑	aoes
 𠡒	dmhs
 𠡔	yivs
-𠡜	kexs
+𠡜	keys
 𠡝	yivs
 𠡞	mohs
 𠡡	cjys
@@ -33461,22 +33461,22 @@ use_preset_vocabulary: true
 𠧅	bibj
 𠧇	yuyt
 𠧒	qiyn
-𠧕	hexs
-𠧖	euxo
+𠧕	heys
+𠧖	euyo
 𠧙	vksy
-𠧚	eixo
-𠧛	boxo
+𠧚	eiyo
+𠧛	boyo
 𠧟	nlvk
 𠧟	rgvk
 𠧠	ybvs
 𠧤	nlys
 𠧩	hmoy
-𠧪	tzxo
-𠧪	ybxo
-𠧫	bjxe
+𠧪	tzyo
+𠧪	ybyo
+𠧫	bjye
 𠧰	xuyr
 𠧴	ybvo
-𠧵	eixk
+𠧵	eiyk
 𠧿	hgyo
 𠨃	wlwy
 𠨆	xxyb
@@ -33574,11 +33574,11 @@ use_preset_vocabulary: true
 𠬶	jcse
 𠬾	qwei
 𠭈	sise
-𠭉	jyxe
+𠭉	jyye
 𠭋	eieu
 𠭗	jyye
 𠭥	smue
-𠭯	aaxe
+𠭯	aaye
 𠭰	lije
 𠭴	aoeu
 𠭹	bwye
@@ -33668,7 +33668,7 @@ use_preset_vocabulary: true
 𠱑	dbrr
 𠱓	gmru
 𠱔	vbri
-𠱗	soxm
+𠱗	soym
 𠱘	niru
 𠱙	curf
 𠱙	jirf
@@ -34064,7 +34064,7 @@ use_preset_vocabulary: true
 𡃆	cgra
 𡃖	lerp
 𡃝	lnrb
-𡃡	lsxr
+𡃡	lsyr
 𡃢	xirm
 𡃦	lcrg
 𡃩	gmrv
@@ -34295,7 +34295,7 @@ use_preset_vocabulary: true
 𡎺	auig
 𡎻	ejgg
 𡎾	bggb
-𡎿	nixg
+𡎿	niyg
 𡏀	aigg
 𡏁	hmgr
 𡏘	xdge
@@ -34371,7 +34371,7 @@ use_preset_vocabulary: true
 𡓷	doog
 𡓿	ycrg
 𡔇	lqfg
-𡔕	gsxg
+𡔕	gsyg
 𡔛	tysg
 𡔜	ykgs
 𡔞	whyg
@@ -34498,7 +34498,7 @@ use_preset_vocabulary: true
 𡛘	pivc
 𡛙	ykvs
 𡛜	divm
-𡛝	cjxv
+𡛝	cjyv
 𡛞	pcvt
 𡛟	ymvv
 𡛠	qxvi
@@ -35668,7 +35668,7 @@ use_preset_vocabulary: true
 𢒩	xiho
 𢒯	bzrh
 𢒰	yukm
-𢒱	smxh
+𢒱	smyh
 𢒲	xiyo
 𢒷	pbhr
 𢒾	jzhl
@@ -36061,7 +36061,7 @@ use_preset_vocabulary: true
 𢤯	xxpm
 𢤰	xxyp
 𢤱	lspp
-𢤲	lsxp
+𢤲	lsyp
 𢥂	tgpf
 𢥃	aupa
 𢥋	ejpu
@@ -36104,8 +36104,8 @@ use_preset_vocabulary: true
 𢧏	vimi
 𢧑	tijg
 𢧖	aami
-𢧗	ajxi
-𢧝	ffxi
+𢧗	ajyi
+𢧝	ffyi
 𢧞	mxiy
 𢧠	zeai
 𢧤	aikg
@@ -36118,18 +36118,18 @@ use_preset_vocabulary: true
 𢧳	ysii
 𢧴	okgi
 𢧻	aami
-𢧽	xixi
+𢧽	xiyi
 𢨁	xuim
 𢨂	wuvm
 𢨏	jmpk
 𢨐	jiri
-𢨒	eixi
+𢨒	eiyi
 𢨔	wjoi
 𢨖	mxti
 𢨗	zqki
 𢨜	jxii
 𢨝	viti
-𢨟	xixh
+𢨟	xiyr
 𢨡	oehi
 𢨥	hums
 𢨦	huhj
@@ -36417,7 +36417,7 @@ use_preset_vocabulary: true
 𢸦	wqqc
 𢸨	toqd
 𢸫	suqd
-𢸭	lsxq
+𢸭	lsyq
 𢸳	xzqx
 𢸴	yjqx
 𢹂	xiqs
@@ -36562,7 +36562,7 @@ use_preset_vocabulary: true
 𢾩	kege
 𢾪	qiee
 𢾫	aiue
-𢾬	luxe
+𢾬	luye
 𢾱	pihe
 𢾲	none
 𢾳	pktk
@@ -36601,7 +36601,7 @@ use_preset_vocabulary: true
 𣀔	eohe
 𣀜	lqwe
 𣀝	vove
-𣀞	lvxe
+𣀞	lvye
 𣀣	fuik
 𣀥	lime
 𣀧	sjde
@@ -36636,9 +36636,9 @@ use_preset_vocabulary: true
 𣂁	qzij
 𣂁	tzij
 𣂄	gobj
-𣂆	phxy
+𣂆	phyj
 𣂇	qzyy
-𣂉	dixj
+𣂉	diyj
 𣂊	ynsj
 𣂒	lekl
 𣂖	siml
@@ -36844,7 +36844,7 @@ use_preset_vocabulary: true
 𣎄	ggbm
 𣎅	hpbv
 𣎅	yibv
-𣎆	loxn
+𣎆	loyk
 𣎑	kpbu
 𣎓	xpbo
 𣎔	nwbu
@@ -36865,7 +36865,7 @@ use_preset_vocabulary: true
 𣏀	ysdn
 𣏎	yadl
 𣏑	jzdb
-𣏔	knxd
+𣏔	knyd
 𣏖	afdl
 𣏗	vund
 𣏚	vidp
@@ -37098,7 +37098,7 @@ use_preset_vocabulary: true
 𣛾	tbdi
 𣜁	cidg
 𣜂	sadm
-𣜄	loxd
+𣜄	loyd
 𣜇	jidc
 𣜢	lowb
 𣜣	qcru
@@ -37234,7 +37234,7 @@ use_preset_vocabulary: true
 𣢡	vgho
 𣢤	ajyo
 𣢥	dwoo
-𣢦	yuxo
+𣢦	yuyo
 𣢨	obho
 𣢪	gmno
 𣢫	whuo
@@ -37274,7 +37274,7 @@ use_preset_vocabulary: true
 𣣴	dawo
 𣣶	xxjo
 𣣷	eiuo
-𣣸	ybxo
+𣣸	ybyo
 𣣹	hego
 𣣺	vamo
 𣣿	tlgo
@@ -37316,12 +37316,12 @@ use_preset_vocabulary: true
 𣥐	luyo
 𣥐	lvyo
 𣥞	jwyt
-𣥡	yjxq
+𣥡	yjyu
 𣥣	biye
 𣥤	kfyw
 𣥥	gpyj
 𣥨	ziye
-𣥮	kmxg
+𣥮	kmyg
 𣥯	abyb
 𣥰	aiye
 𣥳	tuom
@@ -37348,8 +37348,8 @@ use_preset_vocabulary: true
 𣦬	amyu
 𣦭	guyu
 𣦯	limm
-𣦵	oexm
-𣦵	afxm
+𣦵	oeym
+𣦵	afym
 𣦶	dlmn
 𣦼	cjye
 𣧂	timk
@@ -37618,8 +37618,8 @@ use_preset_vocabulary: true
 𣰨	bcju
 𣰩	ekhd
 𣰬	duhc
-𣰶	nhxq
-𣰶	rhxq
+𣰶	nhyu
+𣰶	rhyu
 𣰷	xwhm
 𣰺	tkgu
 𣰻	qutu
@@ -37649,7 +37649,7 @@ use_preset_vocabulary: true
 𣲀	vjeh
 𣲂	ecve
 𣲄	jreo
-𣲊	kexe
+𣲊	keye
 𣲋	eiee
 𣲑	eiei
 𣲑	heei
@@ -37884,7 +37884,7 @@ use_preset_vocabulary: true
 𤀪	poec
 𤀫	bwej
 𤀰	xmeb
-𤀲	bwxy
+𤀲	bwyj
 𤀷	wqeb
 𤀹	jneu
 𤀹	rmeu
@@ -37985,7 +37985,7 @@ use_preset_vocabulary: true
 𤆮	fufo
 𤆰	vidf
 𤆳	hmfe
-𤆴	htxf
+𤆴	htyf
 𤆵	pafu
 𤆼	aufn
 𤆾	yifm
@@ -38121,7 +38121,7 @@ use_preset_vocabulary: true
 𤓕	aihf
 𤓚	xiff
 𤓝	ymfb
-𤓤	xwxf
+𤓤	xwyf
 𤓦	aoff
 𤓯	jumo
 𤓯	ahmo
@@ -38449,7 +38449,7 @@ use_preset_vocabulary: true
 𤟘	luke
 𤟚	jdke
 𤟝	xdkb
-𤟞	xzxk
+𤟞	xzyk
 𤟟	yjka
 𤟠	xukb
 𤟢	dnhk
@@ -38657,7 +38657,7 @@ use_preset_vocabulary: true
 𤪋	jwsi
 𤪌	qimf
 𤪍	xdmq
-𤪎	ybxg
+𤪎	ybyi
 𤪡	agsi
 𤪪	enmo
 𤪪	apmo
@@ -38754,8 +38754,8 @@ use_preset_vocabulary: true
 𤮙	xiyn
 𤮚	lqmn
 𤮜	vjyn
-𤮧	luxv
-𤮩	dmxv
+𤮧	luyn
+𤮩	dmyn
 𤮪	jnlt
 𤮭	ejnn
 𤮯	xxun
@@ -39255,14 +39255,14 @@ use_preset_vocabulary: true
 𥂣	goyt
 𥂤	huht
 𥂥	cjyt
-𥂦	dnxt
+𥂦	dnyt
 𥂧	hlmt
 𥂨	jzst
 𥂰	gumt
 𥂵	jcet
 𥂸	yhdt
 𥃀	eayt
-𥃌	hmxt
+𥃌	hmyt
 𥃔	quht
 𥃕	kegt
 𥃟	qygt
@@ -39344,7 +39344,7 @@ use_preset_vocabulary: true
 𥅪	vbbk
 𥅬	jpbi
 𥅴	jxbt
-𥅵	wqxu
+𥅵	wqyu
 𥅷	vbfu
 𥅸	jybm
 𥅺	xubu
@@ -40224,7 +40224,7 @@ use_preset_vocabulary: true
 𥪻	lsst
 𥪼	jiyr
 𥫂	tspg
-𥫃	yixg
+𥫃	yiyi
 𥫅	ehvt
 𥫋	gsut
 𥫎	dsyc
@@ -40881,7 +40881,7 @@ use_preset_vocabulary: true
 𦅽	juof
 𦅿	ynvj
 𦆀	ejvo
-𦆁	loxi
+𦆁	loyf
 𦆄	sevh
 𦆆	lwvc
 𦆈	zpvs
@@ -41054,8 +41054,8 @@ use_preset_vocabulary: true
 𦍪	ffth
 𦍭	rbtn
 𦍱	gkte
-𦍲	xtxq
-𦍲	yhxq
+𦍲	xtyq
+𦍲	yhyq
 𦍴	xttf
 𦍵	hbtr
 𦍷	tkte
@@ -41282,8 +41282,8 @@ use_preset_vocabulary: true
 𦕵	lzsq
 𦕷	hsse
 𦕸	lisg
-𦕺	gkxj
-𦕺	xtxj
+𦕺	gkyj
+𦕺	xtyj
 𦕽	vfsl
 𦖀	fusd
 𦖈	yjsu
@@ -41382,7 +41382,7 @@ use_preset_vocabulary: true
 𦚈	dubr
 𦚈	tobr
 𦚊	qibs
-𦚏	atxb
+𦚏	atyb
 𦚐	tobp
 𦚓	pyoq
 𦚝	pgbe
@@ -41608,7 +41608,7 @@ use_preset_vocabulary: true
 𦣀	nxbj
 𦣀	aebj
 𦣂	phbt
-𦣄	lqxl
+𦣄	lqyj
 𦣇	lobg
 𦣋	lpbf
 𦣍	ggbk
@@ -41639,7 +41639,7 @@ use_preset_vocabulary: true
 𦤋	ykau
 𦤎	gkhm
 𦤕	ymhk
-𦤘	ysxu
+𦤘	ysyu
 𦤙	wahu
 𦤚	bohe
 𦤟	xchk
@@ -42422,14 +42422,14 @@ use_preset_vocabulary: true
 𧆸	tmyf
 𧆹	wuyp
 𧆺	lyon
-𧆻	guxj
+𧆻	guyr
 𧆼	dsyy
 𧆼	asyy
 𧇄	luyw
 𧇈	zuym
 𧇌	tsyr
 𧇍	xdon
-𧇎	hexm
+𧇎	heyr
 𧇓	ymyu
 𧇙	njys
 𧇚	boya
@@ -42439,7 +42439,7 @@ use_preset_vocabulary: true
 𧇞	qtyu
 𧇟	abyr
 𧇠	ykyn
-𧇡	guxr
+𧇡	guyr
 𧇥	bjyd
 𧇦	kjen
 𧇮	heyr
@@ -42453,7 +42453,7 @@ use_preset_vocabulary: true
 𧇼	hkrt
 𧇿	zuym
 𧈁	xwco
-𧈄	xdxu
+𧈄	xdye
 𧈅	xifn
 𧈈	seyd
 𧈈	xiyd
@@ -42464,7 +42464,7 @@ use_preset_vocabulary: true
 𧈖	gejn
 𧈗	kejn
 𧈙	vbyi
-𧈚	auxm
+𧈚	auyt
 𧈜	tgyf
 𧈝	yaln
 𧈞	nili
@@ -42805,7 +42805,7 @@ use_preset_vocabulary: true
 𧔧	phyi
 𧔨	mkni
 𧔩	titi
-𧔪	pcxm
+𧔪	pcyi
 𧔬	duld
 𧔭	qrti
 𧔮	yiui
@@ -42843,10 +42843,10 @@ use_preset_vocabulary: true
 𧕵	miri
 𧕸	htsi
 𧕺	vtln
-𧕼	xuxm
+𧕼	xuyi
 𧕿	fqli
-𧖁	wfxi
-𧖁	xxxi
+𧖁	wfyi
+𧖁	xxyi
 𧖆	talq
 𧖇	ysii
 𧖉	ajsi
@@ -42915,10 +42915,10 @@ use_preset_vocabulary: true
 𧘽	navv
 𧘿	aglm
 𧙀	lalt
-𧙁	jixh
-𧙁	pixh
-𧙁	aixh
-𧙁	zixh
+𧙁	jiyv
+𧙁	piyv
+𧙁	aiyv
+𧙁	ziyv
 𧙃	oeyv
 𧙄	bolm
 𧙅	polr
@@ -43019,7 +43019,7 @@ use_preset_vocabulary: true
 𧝎	eslg
 𧝎	etlg
 𧝐	tilr
-𧝑	ajxv
+𧝑	ajyv
 𧝒	hglc
 𧝔	qulc
 𧝕	wqyv
@@ -43131,7 +43131,7 @@ use_preset_vocabulary: true
 𧡵	kjku
 𧡶	vgau
 𧡸	dbru
-𧡹	ybxu
+𧡹	ybyu
 𧡺	qiju
 𧡼	xzsu
 𧢂	yisu
@@ -43236,23 +43236,23 @@ use_preset_vocabulary: true
 𧥚	foib
 𧥛	qwyb
 𧥜	yjyu
-𧥞	tjxl
-𧥟	moxs
+𧥞	tjyl
+𧥟	moys
 𧥣	kbyr
-𧥤	xixs
-𧥤	xxxs
+𧥤	xiys
+𧥤	xxys
 𧥮	diym
 𧥮	huym
 𧥯	huyo
 𧥱	fuyo
 𧥴	yhyl
-𧥵	goxa
+𧥵	goya
 𧥷	rfyn
 𧥸	ycyq
 𧥹	fgyj
-𧥺	hsxm
-𧥺	jnxm
-𧥺	ynxm
+𧥺	hsym
+𧥺	jnym
+𧥺	ynym
 𧥼	ynyi
 𧥿	xner
 𧦁	xiyo
@@ -43267,8 +43267,8 @@ use_preset_vocabulary: true
 𧦤	jdyr
 𧦧	toyd
 𧦧	yiyd
-𧦭	toxp
-𧦭	xixp
+𧦭	toyd
+𧦭	xiyd
 𧦮	naye
 𧦸	ycmr
 𧦹	ycym
@@ -43277,7 +43277,7 @@ use_preset_vocabulary: true
 𧧅	jwyk
 𧧅	viyk
 𧧆	dmyr
-𧧇	doxs
+𧧇	doyd
 𧧉	toyp
 𧧊	wayu
 𧧋	liyn
@@ -43290,8 +43290,8 @@ use_preset_vocabulary: true
 𧧝	yayh
 𧧟	jiyi
 𧧠	ekys
-𧧩	jixl
-𧧵	vjxo
+𧧩	jiyc
+𧧵	vjyo
 𧧶	tuyd
 𧧸	bxyn
 𧧹	xior
@@ -43338,12 +43338,12 @@ use_preset_vocabulary: true
 𧩫	eayn
 𧩫	aayn
 𧩬	ycyc
-𧩮	sbxc
-𧩮	xzxc
+𧩮	sbye
+𧩮	xzye
 𧩰	bwyo
 𧩱	bgyt
 𧩲	layn
-𧩴	eixp
+𧩴	eiyd
 𧩶	qdyk
 𧩸	ojyt
 𧩹	viyd
@@ -43367,14 +43367,14 @@ use_preset_vocabulary: true
 𧪣	agyf
 𧪦	taym
 𧪨	mayf
-𧪫	pixw
+𧪫	piyp
 𧪮	hdys
 𧪮	xuys
 𧪯	qwyr
 𧪹	xdyj
 𧫊	yuir
-𧫑	jxxn
-𧫒	xdxy
+𧫑	jxye
+𧫒	xdyj
 𧫓	luyi
 𧫕	qxyf
 𧫗	eayk
@@ -43408,19 +43408,19 @@ use_preset_vocabulary: true
 𧬞	ynyi
 𧬤	asyg
 𧬦	ejyd
-𧬧	etxn
+𧬧	etyk
 𧬨	hmyh
 𧬩	zaym
 𧬪	gnyj
 𧬫	jwyf
-𧬬	yaxc
+𧬬	yayd
 𧬰	xtvr
 𧬱	heyr
 𧭃	djqr
 𧭇	mwys
 𧭈	nyyn
 𧭊	mgyo
-𧭌	lxxk
+𧭌	lxyn
 𧭍	abyo
 𧭎	puyo
 𧭏	tlyg
@@ -43429,33 +43429,33 @@ use_preset_vocabulary: true
 𧭕	goyb
 𧭚	qtyu
 𧭜	lvyp
-𧭝	saxb
+𧭝	sayf
 𧭞	lxyv
 𧭟	eiyq
 𧭠	xxyf
 𧭣	goyn
 𧭤	bkye
 𧭥	loyd
-𧭦	jpxb
-𧭦	xpxb
+𧭦	jpye
+𧭦	xpye
 𧭪	oeyl
 𧭳	hemr
 𧭵	mqyd
 𧭸	xxym
 𧭹	pcyr
-𧭻	hjxm
+𧭻	hjyr
 𧭼	efyu
 𧭽	vjyr
 𧭾	hmyc
 𧮆	yyyv
 𧮈	jwyo
-𧮍	ojxn
+𧮍	ojya
 𧮑	taym
 𧮒	yiyw
 𧮓	tmyg
 𧮗	lryp
 𧮙	zotr
-𧮛	lixb
+𧮛	liyg
 𧮝	pcer
 𧮞	xmye
 𧮠	nfya
@@ -43715,7 +43715,7 @@ use_preset_vocabulary: true
 𧶺	tybn
 𧷅	yibc
 𧷋	ykmc
-𧷎	kuxg
+𧷎	kuyg
 𧷐	ffcc
 𧷑	xxlc
 𧷒	egbc
@@ -43724,7 +43724,7 @@ use_preset_vocabulary: true
 𧷡	lbbv
 𧷥	yirc
 𧷦	mibu
-𧷧	xxxu
+𧷧	xxyc
 𧷱	gmmd
 𧷳	lobf
 𧷶	vjbr
@@ -43749,8 +43749,8 @@ use_preset_vocabulary: true
 𧸫	gnrv
 𧸲	aibc
 𧸽	wqbc
-𧸾	qpxu
-𧸾	xpxu
+𧸾	qpyc
+𧸾	xpyc
 𧸿	elbf
 𧹈	rgbk
 𧹊	ymbb
@@ -44193,7 +44193,7 @@ use_preset_vocabulary: true
 𨇕	jzrb
 𨇖	lurt
 𨇗	lirm
-𨇘	lsxy
+𨇘	lsyo
 𨇙	gmrn
 𨇝	ejrx
 𨇤	xwrq
@@ -44449,9 +44449,9 @@ use_preset_vocabulary: true
 𨐈	gtku
 𨐉	zkke
 𨐊	xwkp
-𨐋	qwxj
+𨐋	qwyj
 𨐍	vfhj
-𨐐	ycxu
+𨐐	ycyu
 𨐑	jxyu
 𨐔	vfnj
 𨐕	cisj
@@ -44473,21 +44473,21 @@ use_preset_vocabulary: true
 𨐾	bwnj
 𨑊	nsnv
 𨑌	efwv
-𨑎	pgxn
+𨑎	pgyn
 𨑑	fuyv
-𨑒	tuxg
-𨑜	pixy
+𨑒	tuyg
+𨑜	piyy
 𨑝	poyo
 𨑠	eiyo
 𨑣	xmyk
 𨑤	qiye
 𨑥	wuyh
-𨑨	aixa
+𨑨	aiya
 𨑩	diyl
-𨑪	csxi
+𨑪	csyi
 𨑫	ybyu
-𨑬	vixt
-𨑹	csxo
+𨑬	viyt
+𨑹	csyo
 𨑼	diyi
 𨑽	aoyq
 𨑿	zbyu
@@ -44500,22 +44500,22 @@ use_preset_vocabulary: true
 𨒉	smyh
 𨒉	aiyh
 𨒉	amyh
-𨒊	qrxo
+𨒊	qryo
 𨒋	ymyv
 𨒍	viyt
 𨒑	hkys
-𨒙	hbxr
-𨒙	toxr
+𨒙	hbyr
+𨒙	toyr
 𨒜	bxyh
-𨒞	kjxu
+𨒞	kjyu
 𨒢	eoyv
 𨒤	ciyp
 𨒦	ycyl
 𨒧	viyp
 𨒨	nlyo
 𨒩	rpyl
-𨒫	nixq
-𨒫	yhxq
+𨒫	niyq
+𨒫	yhyq
 𨒬	eiyg
 𨒮	ciyo
 𨒱	gsyc
@@ -44523,22 +44523,22 @@ use_preset_vocabulary: true
 𨒲	xmyd
 𨒴	jiyi
 𨒼	gfhv
-𨒽	soxu
-𨒽	zkxu
+𨒽	soyu
+𨒽	zkyu
 𨓁	bgyi
 𨓇	xcyb
 𨓈	koyr
 𨓊	dxyu
 𨓍	tyyq
-𨓚	vmxu
+𨓚	vmyu
 𨓞	dlyu
-𨓦	lixg
-𨓨	ysxq
-𨓩	jzxi
-𨓬	taxa
+𨓦	liyg
+𨓨	ysyg
+𨓩	jzyf
+𨓬	taya
 𨓭	cbye
 𨓭	quye
-𨓮	ycxg
+𨓮	ycyg
 𨓯	ypyl
 𨓰	jxyo
 𨓲	qwyu
@@ -44571,7 +44571,7 @@ use_preset_vocabulary: true
 𨕺	kdyr
 𨕻	vgyv
 𨕽	jxho
-𨕿	whxg
+𨕿	whyg
 𨖃	huyh
 𨖊	jiyc
 𨖊	zeyc
@@ -44583,7 +44583,7 @@ use_preset_vocabulary: true
 𨖚	lzyf
 𨖛	yuyd
 𨖠	bwyb
-𨖢	ktxg
+𨖢	ktyg
 𨖬	ebym
 𨖭	yayg
 𨖮	aoyf
@@ -44594,7 +44594,7 @@ use_preset_vocabulary: true
 𨖵	jzyf
 𨖶	xtyo
 𨖷	vayq
-𨖹	aixg
+𨖹	aiyg
 𨖼	esyo
 𨖾	bwyf
 𨖿	wqyf
@@ -44602,7 +44602,7 @@ use_preset_vocabulary: true
 𨗝	juhb
 𨗝	yuhb
 𨗞	tmyw
-𨗡	ekxr
+𨗡	ekyr
 𨗥	hmya
 𨗦	qwyo
 𨗨	wqyq
@@ -44614,15 +44614,15 @@ use_preset_vocabulary: true
 𨘂	jryn
 𨘃	tmyr
 𨘄	zjyf
-𨘇	hmxq
+𨘇	hmyq
 𨘉	vayo
-𨘌	hoxb
+𨘌	hoyb
 𨘔	ykyr
 𨘙	xwyj
 𨘞	xwyj
 𨘬	diyb
 𨘮	jryn
-𨘲	hmxg
+𨘲	hmyg
 𨘴	kkyy
 𨘵	ybyu
 𨘸	liym
@@ -44675,7 +44675,7 @@ use_preset_vocabulary: true
 𨚰	zkal
 𨚱	vgnl
 𨚲	cnkl
-𨚳	htxl
+𨚳	htyl
 𨚴	ruvl
 𨚵	zlju
 𨚶	nwol
@@ -44684,17 +44684,17 @@ use_preset_vocabulary: true
 𨛉	jinl
 𨛊	yckl
 𨛋	liwl
-𨛌	mhxl
+𨛌	mhyl
 𨛍	vkfl
 𨛎	hjal
 𨛏	cool
 𨛐	jnil
 𨛑	jisl
-𨛒	buxl
+𨛒	buyl
 𨛓	lsml
 𨛔	fbml
-𨛕	ybxl
-𨛖	kcxl
+𨛕	ybyl
+𨛖	kcyl
 𨛜	xtru
 𨛡	ynrl
 𨛣	qcol
@@ -44710,12 +44710,12 @@ use_preset_vocabulary: true
 𨛱	esjl
 𨛳	jitl
 𨛳	xitl
-𨛵	huxl
+𨛵	huyl
 𨛶	rbbl
 𨛶	vbbl
 𨜌	hpjl
 𨜍	qzal
-𨜎	aixn
+𨜎	aiyl
 𨜏	yynl
 𨜐	xiwl
 𨜑	qzbl
@@ -44733,9 +44733,9 @@ use_preset_vocabulary: true
 𨜴	hegl
 𨜵	wfwl
 𨜶	yicl
-𨜷	phxl
+𨜷	phyl
 𨜺	wgcl
-𨜻	qwxl
+𨜻	qwyl
 𨜼	liml
 𨜽	yihl
 𨜾	etol
@@ -44747,7 +44747,7 @@ use_preset_vocabulary: true
 𨝌	gjjl
 𨝍	qwml
 𨝎	khil
-𨝏	lixn
+𨝏	liyl
 𨝐	vfil
 𨝑	gpwl
 𨝓	pzml
@@ -44771,7 +44771,7 @@ use_preset_vocabulary: true
 𨝱	qzol
 𨝲	gkhl
 𨝲	hkhl
-𨝳	zixl
+𨝳	ziyl
 𨝴	httl
 𨝵	vjdl
 𨝸	tjml
@@ -44784,11 +44784,11 @@ use_preset_vocabulary: true
 𨞕	euwl
 𨞕	auwl
 𨞗	qnsl
-𨞘	xixl
-𨞙	quxl
+𨞘	xiyl
+𨞙	quyl
 𨞛	getl
 𨞢	qijl
-𨞣	xuxn
+𨞣	xuyl
 𨞨	gltl
 𨞩	qmsl
 𨞪	ebgl
@@ -44812,7 +44812,7 @@ use_preset_vocabulary: true
 𨟖	moil
 𨟗	wqtl
 𨟙	yybl
-𨟚	rhxn
+𨟚	rhyl
 𨟠	jmbl
 𨟠	qpbl
 𨟠	qmbl
@@ -46073,7 +46073,7 @@ use_preset_vocabulary: true
 𩏆	yndm
 𩏇	dpde
 𩏈	rpdu
-𩏉	wqxe
+𩏉	wqye
 𩏏	wqds
 𩏐	gmdi
 𩏐	wqdi
@@ -46137,12 +46137,12 @@ use_preset_vocabulary: true
 𩐰	oeyo
 𩐱	yeyd
 𩐴	tyya
-𩐵	dsxb
+𩐵	dsyc
 𩐶	aeyr
 𩐷	shyd
 𩐻	moyk
 𩐼	suya
-𩐾	lexe
+𩐾	leye
 𩑀	puyo
 𩑁	oeyf
 𩑂	aoyi
@@ -46179,7 +46179,7 @@ use_preset_vocabulary: true
 𩑬	gmmc
 𩑭	qyoc
 𩑮	lapc
-𩑯	dbxm
+𩑯	dbyc
 𩑰	tjac
 𩑳	qwmc
 𩑴	ykvc
@@ -46212,7 +46212,7 @@ use_preset_vocabulary: true
 𩒙	fuhc
 𩒙	gmhc
 𩒚	gtfc
-𩒛	qixb
+𩒛	qiyc
 𩒝	gfac
 𩒞	tymc
 𩒢	tjmc
@@ -46301,7 +46301,7 @@ use_preset_vocabulary: true
 𩔼	xuic
 𩕀	okgc
 𩕆	hsyc
-𩕉	hsxb
+𩕉	hsyc
 𩕊	ajtc
 𩕌	sfdc
 𩕍	gkhc
@@ -46311,7 +46311,7 @@ use_preset_vocabulary: true
 𩕐	lzkc
 𩕕	wltc
 𩕖	xpbc
-𩕜	kmxm
+𩕜	kmyc
 𩕟	oetc
 𩕠	hjic
 𩕡	segc
@@ -46327,8 +46327,8 @@ use_preset_vocabulary: true
 𩕹	chtc
 𩕾	ypwc
 𩖀	oeqc
-𩖁	nxxm
-𩖁	yaxm
+𩖁	nxyc
+𩖁	yayc
 𩖄	ycmc
 𩖇	qzbc
 𩖉	hstc
@@ -46472,7 +46472,7 @@ use_preset_vocabulary: true
 𩙯	hghc
 𩙰	skhd
 𩙲	fqho
-𩙷	nrxo
+𩙷	nryo
 𩙸	mhio
 𩙽	hpwo
 𩙽	xpwo
@@ -46611,7 +46611,7 @@ use_preset_vocabulary: true
 𩞋	esob
 𩞙	lwoj
 𩞞	hlou
-𩞤	dnxi
+𩞤	dnyv
 𩞥	xtok
 𩞦	egoq
 𩞧	vhoo
@@ -46720,7 +46720,7 @@ use_preset_vocabulary: true
 𩢅	gesi
 𩢈	ffsj
 𩢊	toss
-𩢌	wfxq
+𩢌	wfyf
 𩢍	gdso
 𩢎	dosu
 𩢐	aess
@@ -46822,8 +46822,8 @@ use_preset_vocabulary: true
 𩥇	ajsv
 𩥈	wfst
 𩥉	jist
-𩥊	okxf
-𩥊	jzxf
+𩥊	okyf
+𩥊	jzyf
 𩥋	dusf
 𩥋	obsf
 𩥌	qdsr
@@ -47012,7 +47012,7 @@ use_preset_vocabulary: true
 𩪺	tjbi
 𩪾	lpvb
 𩫀	klyk
-𩫁	mkxq
+𩫁	mkyu
 𩫂	xzyu
 𩫇	olmb
 𩫊	tayg
@@ -47022,11 +47022,11 @@ use_preset_vocabulary: true
 𩫓	gkyp
 𩫔	nkyv
 𩫕	hkyo
-𩫠	qmxk
+𩫠	qmyk
 𩫥	ckvb
 𩫦	skyh
-𩫫	pixw
-𩫲	xxxi
+𩫫	piyj
+𩫲	xxyi
 𩫳	xzrb
 𩫴	jusn
 𩫹	egsb
@@ -47466,7 +47466,7 @@ use_preset_vocabulary: true
 𩺝	ninu
 𩺞	shnd
 𩺫	xxns
-𩺯	zuxw
+𩺯	zuyf
 𩺰	wunf
 𩺰	yunf
 𩺱	ninr
@@ -47500,7 +47500,7 @@ use_preset_vocabulary: true
 𩼈	ybnk
 𩼉	dhnw
 𩼉	hjnw
-𩼊	loxn
+𩼊	loyf
 𩼋	yend
 𩼌	wqnk
 𩼒	qtnw
@@ -47593,7 +47593,7 @@ use_preset_vocabulary: true
 𩿟	qugf
 𩿠	ymhv
 𩿡	tlhr
-𩿢	tbxa
+𩿢	tbyf
 𩿣	modf
 𩿤	aadf
 𩿥	qunf
@@ -47679,7 +47679,7 @@ use_preset_vocabulary: true
 𪁹	fqhy
 𪁺	ehff
 𪁼	mwhf
-𪁽	suxa
+𪁽	suyf
 𪁾	oktf
 𪁾	wotf
 𪂀	fuhl
@@ -47756,7 +47756,7 @@ use_preset_vocabulary: true
 𪄮	gumf
 𪄮	humf
 𪄯	gmqf
-𪄱	dixh
+𪄱	diyf
 𪄲	vhyf
 𪄳	mldf
 𪄴	mcof
@@ -47768,9 +47768,9 @@ use_preset_vocabulary: true
 𪄺	kbhk
 𪄻	eshx
 𪄻	athx
-𪅂	ahxh
+𪅂	ahyf
 𪅃	pzmf
-𪅄	suxj
+𪅄	suyf
 𪅅	lmwf
 𪅆	liyf
 𪅇	mgtf
@@ -47799,7 +47799,7 @@ use_preset_vocabulary: true
 𪆂	quef
 𪆋	xxvf
 𪆗	sitf
-𪆛	xuxh
+𪆛	xuyf
 𪆠	fujf
 𪆯	nstf
 𪆰	yatf
@@ -47809,11 +47809,11 @@ use_preset_vocabulary: true
 𪆳	gmhs
 𪆴	kmtf
 𪆵	eief
-𪆶	cjxh
+𪆶	cjyf
 𪆷	eucf
 𪆹	goyf
 𪆻	djnf
-𪆿	jwxh
+𪆿	jwyf
 𪇁	dhff
 𪇂	hbgf
 𪇄	kbgf
@@ -47867,7 +47867,7 @@ use_preset_vocabulary: true
 𪈼	nzhf
 𪈿	mjvf
 𪉂	ynmm
-𪉃	wfxy
+𪉃	wfym
 𪉄	eihm
 𪉅	eiim
 𪉆	aipm
@@ -47888,7 +47888,7 @@ use_preset_vocabulary: true
 𪉗	eiyk
 𪉘	tbye
 𪉚	jxyu
-𪉜	ajxr
+𪉜	ajyr
 𪉢	jcyj
 𪉣	luyt
 𪉦	gjyx
@@ -47914,7 +47914,7 @@ use_preset_vocabulary: true
 𪊕	piip
 𪊗	caiq
 𪊜	bfim
-𪊢	vixk
+𪊢	viyk
 𪊥	hpim
 𪊧	gmig
 𪊪	obir
@@ -48335,7 +48335,7 @@ use_preset_vocabulary: true
 𪗏	qiyf
 𪗐	ziya
 𪗒	alye
-𪗓	alxb
+𪗓	alye
 𪗔	payc
 𪗖	juou
 𪗙	yjyj
@@ -48355,7 +48355,7 @@ use_preset_vocabulary: true
 𪗽	hdyr
 𪗽	koyr
 𪗾	xdyr
-𪘀	pwxt
+𪘀	pwyt
 𪘁	tayr
 𪘁	xdyr
 𪘃	yiyb
@@ -48366,7 +48366,7 @@ use_preset_vocabulary: true
 𪘎	nxyr
 𪘎	ycyr
 𪘐	oeyi
-𪘑	spxc
+𪘑	spye
 𪘒	ojyr
 𪘓	coou
 𪘕	toou
@@ -48380,7 +48380,7 @@ use_preset_vocabulary: true
 𪘨	alyo
 𪘩	knyd
 𪘩	ynyd
-𪘪	ajxi
+𪘪	ajyi
 𪘬	yayg
 𪘬	yiyg
 𪘲	ciym
@@ -48406,7 +48406,7 @@ use_preset_vocabulary: true
 𪙥	xxyb
 𪙧	qiyi
 𪙨	jwya
-𪙫	xuxy
+𪙫	xuyc
 𪙭	zgya
 𪙯	oeyu
 𪙳	zuym
@@ -48421,13 +48421,13 @@ use_preset_vocabulary: true
 𪚇	zayc
 𪚎	alyu
 𪚏	pwyt
-𪚑	lsxl
+𪚑	lsyb
 𪚓	lskp
 𪚘	lsbp
 𪚝	lsgp
 𪚠	lsyo
 𪚢	mhyo
-𪚥	aexb
+𪚥	aeyp
 𪚬	gjhn
 𪚭	gbhi
 𪚮	rjbu
@@ -48822,7 +48822,7 @@ use_preset_vocabulary: true
 鯏	linn
 掵	myql
 燝	jyff
-辷	yixm
+辷	yiym
 嚑	xnrf
 澝	nyeb
 杣	vjdu
@@ -48867,6 +48867,6 @@ use_preset_vocabulary: true
 槝	dkdu
 珱	yymv
 屷	hmus
-竍	vixj
+竍	viyj
 俧	aiop
-𰻞	btyp
+𰻞	btes
