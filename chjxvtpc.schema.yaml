@@ -4,12 +4,14 @@
 schema:
   name: 柳溪音形
   schema_id: chjxvtpc
-  version: "0.2"
+  version: "0.3"
   author:
     - hulenkius
   description: |
     智能ABC雙拼+倉頡五代速成的音形輸入法。
     碼長固定四碼，不足則重復末碼補全。
+  dependencies:
+    - double_pinyin_abc
 
 switches:
   - name: ascii_mode
@@ -19,8 +21,6 @@ switches:
     states: [ 半角, 全角 ]
   - name: simplification
     states: [ 繁體, 简体 ]
-  - name: extended_charset
-    states: [ 常用, 增廣 ]
   - name: ascii_punct
     states: [ 。，, ．， ]
 
@@ -55,9 +55,21 @@ speller:
 
 translator:
   dictionary: chjxvtpc
+  prism: chjxvtpc
   enable_sentence: true
   enable_encoder: true
   encode_commit_history: true
+
+abc_segmentor:
+  extra_tags:
+    - reverse_lookup
+
+reverse_lookup:
+  dictionary: luna_pinyin.extended
+  prism: double_pinyin_abc
+  prefix: "`"
+  suffix: "'"
+  tips: 〔純雙拼〕
 
 punctuator:
   import_preset: symbols
