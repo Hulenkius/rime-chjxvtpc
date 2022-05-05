@@ -4,14 +4,13 @@
 schema:
   name: 柳溪音形
   schema_id: chjxvtpc
-  version: "0.3"
+  version: "0.4"
   author:
     - hulenkius
   description: |
-    智能ABC雙拼+倉頡五代速成的音形輸入法。
-    碼長固定四碼，不足則重復末碼補全。
+    智能ABC雙拼+五代速成音形輸入法。
   dependencies:
-    - double_pinyin_abc
+    - cangjie5
 
 switches:
   - name: ascii_mode
@@ -43,15 +42,18 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
+    - script_translator
     - reverse_lookup_translator
-    - table_translator
   filters:
     - simplifier
     - uniquifier
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
-  delimiter: " ;"
+  delimiter: " ;'"
+  algebra:
+    - 'abbrev/^([zyxwvutsrqponmlkjihgfedcba][zyxwvutsrqponmlkjihgfedcba][zyxwvutsrqponmlkjihgfedcba]).+$/$1$2$3/'
+    - 'abbrev/^([zyxwvutsrqponmlkjihgfedcba][zyxwvutsrqponmlkjihgfedcba]).+$/$1$2/'
 
 translator:
   dictionary: chjxvtpc
@@ -60,16 +62,11 @@ translator:
   enable_encoder: true
   encode_commit_history: true
 
-abc_segmentor:
-  extra_tags:
-    - reverse_lookup
-
 reverse_lookup:
-  dictionary: luna_pinyin.extended
-  prism: double_pinyin_abc
+  dictionary: cangjie5
   prefix: "`"
   suffix: "'"
-  tips: 〔純雙拼〕
+  tips: 〔倉頡〕
 
 punctuator:
   import_preset: symbols
@@ -81,7 +78,8 @@ recognizer:
   import_preset: default
   patterns:
     punct: '^/([0-9]0?|[A-Za-z]+)$'
-    reverse_lookup: "`[a-z]*'?$|[a-z]+'$"
+    abc_lookup: "^V[a-z]*'?$"
+    cj5_lookup: "^C[a-z]*'?$"
 
 style: 
   font_face: "Microsoft Jhenghei UI"

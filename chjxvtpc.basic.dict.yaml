@@ -1,12 +1,15 @@
 # encoding: utf-8
 ---
 name: chjxvtpc.basic
-version: "2022.03.14"
+version: "2022.05.05"
 sort: by_weight
 use_preset_vocabulary: true
 ...
 
 # 詞組
+柳溪
+音形
+柳溪音形
 〇〇
 〇一
 〇七
@@ -292276,3 +292279,4 @@ use_preset_vocabulary: true
 𣝓絲
 𣶐飯
 𧑗蝦
+混輸
